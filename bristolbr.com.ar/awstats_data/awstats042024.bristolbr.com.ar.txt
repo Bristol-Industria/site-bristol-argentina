@@ -1,0 +1,3876 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/web-ded-319494b/awstats/conf/awstats.bristolbr.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2087                
+POS_TIME 2773                
+POS_VISITOR 105840              
+POS_DAY 159001              
+POS_DOMAIN 3832                
+POS_LOGIN 4068                
+POS_ROBOT 4223                
+POS_WORMS 5860                
+POS_EMAILSENDER 5991                
+POS_EMAILRECEIVER 6134                
+POS_SESSION 159946              
+POS_SIDER 160159              
+POS_FILETYPES 6269                
+POS_DOWNLOADS 6585                
+POS_OS 6792                
+POS_BROWSER 7327                
+POS_SCREENSIZE 11991               
+POS_UNKNOWNREFERER 12065               
+POS_UNKNOWNREFERERBROWSER 12812               
+POS_ORIGIN 13236               
+POS_SEREFERRALS 13385               
+POS_PAGEREFS 13748               
+POS_SEARCHWORDS 14463               
+POS_KEYWORDS 14681               
+POS_MISC 2436                
+POS_ERRORS 14808               
+POS_CLUSTER 3924                
+POS_SIDER_404 15002               
+POS_EXTRA_1 58794               
+POS_EXTRA_2 59391               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501000801 2928 851351 9622101077167
+FirstTime 20240401000630
+LastTime 20240430233806
+LastUpdate 20240501014931 2928 0 2927 0 0
+TotalVisits 1331                
+TotalUnique 998                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1384                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 32 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 132 1202 30830485 499 1827 168861595
+1 159 798 29433073 559 2304 144403244
+2 92 180 7262474 791 2340 208556501
+3 83 199 8158658 657 1799 78434447
+4 99 229 15544532 921 2280 112569502
+5 76 346 10057467 462 1694 112611181
+6 77 518 9990139 521 1303 56682422
+7 110 1035 51295062 951 2158 88032104
+8 227 2284 85047598 787 2242 79121442
+9 291 2873 96053674 836 1811 109475280
+10 243 2585 85298574 576 1458 124138725
+11 346 4163 143470758 635 1955 114400563
+12 670 2278 44518448 1133 2413 110208070
+13 445 2297 56238968 941 1811 85951918
+14 171 1538 46536702 750 1897 55144275
+15 191 2311 70898189 732 1333 74885802
+16 260 2553 96100404 848 1934 59014712
+17 300 3118 114206880 712 1943 121742100
+18 412 3438 152424590 1335 2736 110790795
+19 309 3664 161056105 526 1480 70902683
+20 243 2305 85384416 837 2033 103189716
+21 229 1949 67591546 1222 2098 100946010
+22 155 1766 68423190 899 2278 117053206
+23 128 931 37366088 557 1282 54830991
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 5448 44560 1573188020
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 38
+Go\-http\-client/ 9353 588351753 20240430190010 6
+Googlebot/ 7946 71033575 20240430223748 43
+AdsBot\-Google[\x20]\( 5690 26158056 20240430035320 0
+[\s_+:,\.\;\/\\-]bot 5381 1638884197 20240430233349 0
+wordpress 3032 1057773 20240430233346 0
+bot[\s_+:,\.\;\/\\-] 673 35652517 20240430230427 232
+Applebot/ 554 3402347 20240430080104 7
+bingbot/ 382 4208613 20240430213749 29
+Googlebot\-Image/ 227 14100765 20240430173505 0
+facebookexternalhit/ 133 1741714 20240425235630 2
+core 108 3904767 20240415091110 1
+sift 17 381 20240413165033 10
+YandexImages/ 1 127694 20240401071941 0
+dataprovider\.com 98 2465401 20240427001217 1
+unknown 71 10380 20240430172933 71
+Feedfetcher\-Google 1 15845 20240420201307 0
+CFNetwork 1 3319 20240419115541 0
+ips\-agent 4 42827 20240408100415 1
+Dalvik/ 1 3319 20240412123553 0
+link 2 172705 20240419111938 0
+Exabot/ 1 34406 20240420201448 0
+netcraft 3 290793 20240403205240 0
+(firefox/)([0-9]\.|[0-1][0]\.) 15 112517 20240417133657 0
+DomainStatsBot/ 10 557803 20240402032746 3
+custo 12 1163194 20240430032043 0
+curl 2 193856 20240425161435 0
+python 16 160810 20240430173136 2
+CCBot/ 33 353416 20240424140201 2
+seek 3 102886 20240413155000 2
+Python\-urllib/ 12 1154850 20240417133726 0
+no_user_agent 39 3005713 20240430182659 0
+^mozilla\/5\.0$ 1 15844 20240418100322 0
+Velen 4 27087 20240416103054 2
+Barkrowler 2 15971 20240410062628 1
+YandexBot/ 5 13839 20240423024220 3
+Mail\.RU_Bot/ 34 300828 20240426103027 17
+bingpreview 1 127 20240402120142 1
+feed 3 462080 20240412200301 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+ttf 62 2645527 0 0
+xml 17 8086 0 0
+Unknown 1198 1884985 0 0
+png 7692 1132297453 0 0
+cur 6 708 0 0
+woff2 746 34171377 0 0
+gif 133 878604 0 0
+js 27475 101618780 0 0
+jpg 1682 120690382 0 0
+woff 659 7381270 0 0
+css 2113 75444194 0 0
+php 2777 96166654 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/wp-content/plugins/fusion-core/readme.txt 2 0 120
+/wp-content/plugins/contact-form-7/readme.txt 1 0 1896
+/wp-content/plugins/fusion-builder/readme.txt 1 0 63
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 30
+macosx11 3 3
+macosx15 1174 135
+androidnougat 151 32
+win10 12839 2042
+android 957 51
+macosx13 11 5
+macosx6 1 1
+winxp 167 166
+macosx 54 38
+macosx5 2 2
+ios_ipad 210 17
+Unknown 283 29
+androidpie 111 9
+linux 651 264
+linuxubuntu 35 20
+macosx12 7 3
+ios_iphone 2373 222
+androidoreo 1499 97
+macosx7 1 0
+win7 691 442
+macosx10 131 131
+winnt 14 13
+androidlollipop 104 5
+macosx8 1 1
+win8.1 228 132
+unix 109 14
+androidmarshmallow 601 51
+macosx9 3 3
+macosx14 8 4
+android10 22141 1516
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 215
+chrome114.0.0.0 152 121
+chrome117.0.0.0 2130 187
+opera102.0.0.0 9 9
+chrome68.0.3440.106 17 17
+safari15.2 1 1
+firefox120.0 2 2
+chrome40.0.2214.93 30 30
+chrome123.0.6312.81 72 5
+chrome105.0.5195.52 6 6
+chrome78.0.3904.108 18 4
+chrome83.0.4103.7 1 1
+safari 814 55
+chrome103.0.5060.134 2 2
+firefox125.0 2 0
+firefox65.0 1 1
+chrome60.0.3112.113 1 1
+chrome121.0.6167.85 8 0
+chrome90.0.4430.85 5 5
+chrome79.0.3945.79 26 0
+chrome86.0.4216.0 1 1
+safari9.0 3 3
+chrome57.0.2987.133 20 20
+chrome95.0.4638.74 208 10
+safari15.4 15 10
+firefox58.0 27 27
+chrome17.0.963.56 1 0
+safari17.2 2 0
+firefox68.0 1 1
+chrome70.0.2483 1 0
+chrome122.0.0.0 550 115
+chrome120.0.0.0 225 214
+chrome78.0.3904.97 6 0
+chrome112.0.0.0 7 7
+opera11.00 37 37
+safari11.0.1 1 1
+chrome90.0.4430.72 6 6
+chrome123.0.6312.118 314 16
+chrome119.0.0.0 123 24
+firefox41.0 13 13
+chrome120.0.6099.109 2 0
+chrome96.0.4664.45 6 0
+safari17.3.1 339 19
+chrome96.0.4664.104 111 9
+opera11.11 40 40
+firefox45.0 10 10
+chrome85.0.4183.121 2 2
+chrome109.0.0.0 877 108
+chrome70.0.3538.77 1 1
+safari7.1.7 1 1
+safari15.6 184 11
+chrome55.0.2883.87 21 21
+safari15.6.1 240 19
+safari12.1.2 207 14
+chrome70.0.3538.102 18 17
+firefox53.0 14 14
+chrome113.0.0.0 46 46
+safari16.2 2 0
+safari13.1.2 1 1
+chrome89.0.4389.82 3 3
+chrome47.0.2526.106 3 3
+opera10.00 44 44
+chrome110.0.0.0 14 14
+opera80.4.4244.7786 2 1
+safari15.6.6 90 5
+chrome101.0.4951.67 189 12
+chrome91.0.4472.124 35 3
+galeon 1 0
+firefox117.0 34 31
+chrome52.0.2743.116 1 0
+chrome55.0.81 1 1
+Unknown 272 18
+chrome51.0.2704.103 1 1
+chrome56.0.2924.87 18 18
+chrome87.0.4280.141 102 4
+chrome81.0.4044.122 1 1
+firefox119.0 1 1
+safari4.0.2 1 1
+safari16.0 1 1
+chrome103.0.0.0 50 50
+chrome73.0.3683.75 6 6
+edge44 6 4
+chrome122.0.6261.119 1 0
+opera93.0.0.0 1 1
+chrome63.0.3239.132 24 24
+chrome60.0.3112.107 17 9
+chrome114.0.5735.289 33 33
+firefox56.0 16 16
+chrome102.0.0.0 32 5
+chrome86.0.4217.2 1 1
+safari13.1.1 1 1
+safari5.0.5 1 1
+opera11.50 39 39
+opera10.54 41 41
+chrome102.0.5005.63 146 12
+safari16.1 205 16
+chrome71.0.3578.99 5 5
+chrome120.0.6099.71 94 94
+opera108.0.0.0 1 1
+chrome78.0.3904.87 4 0
+chrome86.0.4240.193 4 4
+opera89.0.4447.51 25 17
+firefox123 3 2
+opera95.0.0. 3 1
+firefox61.0 14 14
+chrome79.0.3945.130 2 2
+chrome123.0.6312.100 1 0
+firefox60.0 13 13
+safari14.0.3 29 0
+chrome63.0.3239.84 3 3
+chrome80.0.3987.132 1 1
+chrome94.0.4606.81 15 15
+chrome75.0.3770.100 7 5
+chrome64.0.3282.0 38 38
+chrome89.0.4389.114 15 12
+safari16.6 404 40
+firefox114.0 51 37
+chrome97.0.4280.67 2 2
+chrome114.0.5814.214 12 12
+firefox89.0 1 1
+firefox124.0 299 19
+safari4.0.4 1 1
+chrome76.0.3809.100 1 0
+safari13.0.3 51 51
+chrome111.0.0.0 378 62
+chrome83.0.4103.97 241 25
+firefox44.0 12 12
+chrome95.0.4638.69 83 5
+safari17.4.1 313 31
+chrome117.0.5938.132 20 20
+opera10.10 41 41
+safari10.0 2 2
+firefox54.0 13 13
+chrome116.0.0.0 141 40
+chrome109.0.5414.120 16 16
+firefox59.0 13 13
+opera107.0.0.0 1 1
+chrome103.0.5042.0 3 3
+chrome91.0.4472.164 39 2
+chrome124.0.0.0 5499 456
+chrome80.0.3987.162 1 1
+chrome124.0.6367.60 2 0
+chrome41.0.2228.0 32 32
+chrome123.0.6312.120 104 5
+chrome85.0.4182.0 28 0
+chrome74.0.3729.169 24 22
+safari16.3 3 3
+chrome115.0.0.0 132 31
+firefox49.0 12 12
+chrome122.0.6261.94 369 24
+chrome59.0.3071.125 132 21
+firefox118.0 11 11
+firefox123.0 2 2
+firefox57.0 29 29
+chrome101.0.4951.54 291 20
+firefox48.0 28 28
+safari16.5.1 80 5
+chrome92.0.4515.159 4 0
+chrome103.0.5060.66 8 8
+safari13.0.4 1 1
+chrome122.0.6261.120 106 5
+chrome79.0.3945.88 32 0
+chrome110.0.5481.154 79 7
+chrome66.0.3359.117 3 3
+netscape5.0 1 1
+firefox35.0 10 10
+chrome104.0.0.0 338 25
+chrome98.0.4758.81 2 2
+chrome103.0.5060.114 28 28
+chrome62.0.3202.94 3 3
+chrome87.0.4280.101 64 1
+chrome123.0.6312.40 77 5
+chrome118.0.0.0 18 14
+safari9.1.2 1 1
+chrome100.0.4896.75 2 0
+chrome87.0.4280.67 3 3
+safari5.0.2 2 2
+chrome98.0.4758.101 125 20
+chrome121.0.0.0 514 159
+chrome49.0.2623.112 12 12
+chrome111.0.5563.116 119 7
+safari16.5 2 1
+chrome84.0.4147.105 217 7
+chrome81.0.4044.138 3 3
+chrome91.0.4472.114 49 41
+chrome79.0.3945.117 2 0
+chrome80.0.3987.119 188 9
+chrome37.0.2062.124 22 22
+safari7.1.8 1 1
+chrome105.0.0.0 6 6
+msie10.0 1 0
+firefox72.0 12 0
+chrome108.0.0.0 23 23
+chrome75.0.3770.80 87 5
+chrome123.0.0.0 22755 1611
+mozilla 8 8
+firefox115.0 245 19
+chrome61.0.3163.100 26 25
+safari17.1.1 2 2
+chrome100.0.4896.60 166 12
+firefox40.0 27 27
+chrome65.0.3325.146 33 32
+chrome75.0.3770.101 1 0
+chrome88.0.4324.192 1 1
+chrome100.0.4896.127 116 13
+chrome69.0.3497.100 17 17
+firefox50.0 12 12
+chrome123.0.6312.99 390 20
+firefox84.0 1 1
+chrome121.0.6167.180 101 5
+firefox52.0 37 37
+safari17.0 1 1
+chrome87.0.4280.88 796 58
+firefox63.0 16 16
+msie11.0 34 10
+safari5.1 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+claudebot 20240418155828
+WhatsApp/2.23.20.0 20240421190234
+colly_-_https://github.com/gocolly/colly/v2 20240417133659
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/122.0.6261.94_Safari/537.36 20240420021935
+WhatsApp/2.2414.8_W 20240416161018
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/bristolbr.com.ar) 20240416184027
+WhatsApp/2.2413.1_W 20240411103438
+GuzzleHttp/7 20240422114121
+GoogleOther 20240422160323
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240425053656
+got_(https://github.com/sindresorhus/got) 20240429045108
+Embarcadero_URI_Client/1.0 20240406132850
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+Embarcadero_URI_Client/1.0 20240406132850
+got_(https://github.com/sindresorhus/got) 20240429045108
+GoogleOther 20240422160323
+GuzzleHttp/7 20240422114121
+WhatsApp/2.2413.1_W 20240411103438
+WhatsApp/2.2414.8_W 20240416161018
+colly_-_https://github.com/gocolly/colly/v2 20240417133659
+WhatsApp/2.23.20.0 20240421190234
+claudebot 20240418155828
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 815 1532
+From1 3 8
+From2 440 564
+From3 29 350
+From4 4161 42106
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 11
+www_google_com_ar 15 19
+www_google_com_mx 0 1
+www_bing_com 0 3
+ar_images_search_yahoo_com 0 1
+youtube 4 4
+es_images_search_yahoo_com 0 1
+www_google_com_ni 0 1
+google_com 0 2
+baidu 10 10
+live 0 2
+www_google_com 411 520
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 17
+https://www.bristol.ind.br 14 14
+https://king.host 5 5
+https://www.adsensecustomsearchads.com 4 4
+http://www.bristol.ind.br/produtos/perfuratrizes/ 3 3
+https://www.bristol.ind.br 2 2
+https://www.graceonline.shop 1 1
+https://multiplicate.com.uy 0 6
+https://bristolsp.com 0 9
+https://bristolbr.com.mx 0 62
+https://mail.bristolsp.com 0 4
+https://bristol.com.pe 0 4
+https://netgate.bitrix24.com 0 3
+https://shoptr9.betterdaysarecominginc.org 0 1
+https://bristolsp.com 0 86
+https://bristol.com.pe 0 144
+https://ebuystore.buzz 0 1
+https://ebuystore.buzz/products.aspx 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//bristolbr.com.ar/ahoyadoras/ahoyadora-hidraulica-hb-19/ 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+https 1
+//bristolbr.com.ar/ahoyadoras/ahoyadora-hidraulica-hb-19/ 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+500 2 2038
+504 1 247
+421 1 322
+404 4601 61132145
+206 10 1236000
+400 17 357
+403 558 137111
+301 6905 133716
+302 411 920
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1070
+/wp-admin/images/cloud.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/rect 2 -
+/text/css 3 -
+/images/images/images/images/images/images/images/cache.php 1 bristolbr.com.ar
+/cong.php 1 -
+/general.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/video/mp4 3 -
+/wp-admin/css/colors/blue/blue.php 1 http://bristolbr.com.ar//wp-admin/css/colors/blue/blue.php
+/phpMyAdmin6/ 17 https://bristolbr.com.ar/phpMyAdmin6/index.php
+/fizzy-ui-utils/utils 3 -
+/wp-content/cong.php 1 -
+/pagina-inicial/implementos-para-motossierras/taladro/ 6 -
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/wav 3 -
+/wp-content/upgrade/cloud.php 1 -
+/image/heic 3 -
+/sql/webadmin/ 15 https://bristolbr.com.ar/sql/webadmin/index.php
+/wp-content/plugins/contact-form-7/includes/swv/js/video/quicktime 3 -
+/Shop 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/packer 2 -
+/ws.php 1 -
+/bhon.php 1 -
+/wp-content/uploads/google-in.php 1 -
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-p-314/ 1 -
+/audio/mpeg 3 -
+/wp-admin/css/colors/cloud.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/x-gzip 3 -
+/wp-content/plugins/contact-form-7/includes/swv/js/image/webp 3 -
+/wp-config.phpn 1 -
+/wp-content/cache/wpfc-minified/m7v5m778/application/x-www-form-urlencoded 3 -
+/wp-includes/theme-compat/wp-conflg.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/zip 3 -
+/wp-includes/class-wp-page-icon.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/outlayer/item 3 -
+/avipvpmy.php 1 -
+/img/xmrlpc.php 1 -
+/dropdown.php/wp-admin/images/Mhbgf.php 1 -
+/wp-includes/widgets/include.php 2 -
+/pagina-inicial/implementos-para-motossierras/cortador-abrasivo/ 2 -
+/phpminiadmin.php 1 -
+/elfinder/php/connector.php 1 -
+/ 76 https://bristolbr.com.ar/
+/wp-config.php_1 1 -
+/wp-admin/images/about.php 2 bristolbr.com.ar
+/db/dbweb/ 16 https://bristolbr.com.ar/db/dbweb/index.php
+/wp-admin/css/colors/blue/cloud.php 1 -
+/wp-admin/css/colors/blue/bypass403.php 1 -
+/wp-config.cfg 1 -
+/avaa.php 1 -
+/axis2/ 2 -
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-17/ 1 -
+/pagina-inicial/ahoyadoras/ahoyadora-hidraulica-hb-16 1 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/sql/sqlweb/ 14 https://bristolbr.com.ar/sql/sqlweb/index.php
+/database/ 16 https://bristolbr.com.ar/database/index.php
+/image/png 3 -
+/wp-content/ave.php 1 -
+/wp-content/themes/newsup/inc/ansar/hooks/php-hooks..php 1 bristolbr.com.ar
+/ftp-sync.json 1 -
+/406 1 -
+/pagina-inicial/implementos-para-motossierras/perfurador-de-suelo-ps-10/ 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/image/jpeg 3 -
+/wp-config-backup 1 -
+/app-ads.txt 7 -
+/defaul1.php 1 -
+/Old 1 -
+/xl2023.php 1 -
+/wp-config.php- 1 -
+/apple-touch-icon-precomposed.png 2 -
+/wp-content/plugins/contact-form-7/includes/swv/js/video/x-matroska 3 -
+/application/octet-stream 3 -
+/phpMyAdmin-5.2/ 16 https://bristolbr.com.ar/phpMyAdmin-5.2/index.php
+/wp-content/plugins/contact-form-7/includes/swv/js/text/html 3 -
+/wp-content/uploads/zcache.php 1 -
+/hetegmwh.php 1 -
+/application/pdf 3 -
+/assets/js/wp-config.php 1 -
+/.well-known/pki-validation/set.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/rar 3 -
+/wp-admin/shell20211028.php 5 -
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/x-matroska 3 -
+/jquery-bridget/jquery-bridget 3 -
+/xx.php 1 -
+/wp-content/plugins/portable-phpmyadmin/wp-pma-mod/ 15 https://bristolbr.com.ar/wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
+/ahoyadoras/perfuratriz-hidraulica-ht-14 5 https://bristolbr.com.ar/wp-json/wp/v2/pages/19477
+/phpmyadmin6/ 16 https://bristolbr.com.ar/phpmyadmin6/index.php
+/plugins/jquery.filer/uploads/jacky2025.php 1 -
+/wp-content/themes/twenty/twenty.php 2 -
+/wp-includes/js/dist/development/ 1 -
+/admin/phpmyadmin/ 14 https://bristolbr.com.ar/admin/phpmyadmin/index.php
+/style2.php 1 -
+/wp-config.php-bak 1 -
+/layout-mode 3 -
+/style.php 3 www.google.com
+/application/onenote 2 -
+/wp-content/uploads/2024/02/issue.php 1 -
+/wp-content/plugins/core/include.php 3 www.google.com
+/wp-content/shell.php 1 -
+/author/crander/ 4 -
+/plugins/content/apismtp/apismtp.php 1 -
+/pagina-inicial/mechas/barrena-concha/ 2 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-content/plugins/disable-media/lib.php 1 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/phone.js 1 -
+/oldsite 1 -
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-17 2 -
+/pagina-inicial/implementos-para-motossierras/desmalezadora/ 1 -
+/wp-config.phpr 1 -
+/administrator/pma/ 16 https://bristolbr.com.ar/administrator/pma/index.php
+/priv8.php 1 -
+/wp-includes/class-snoopye_wso.php.bk 1 -
+/wp-content/plugins/w0rdpr3ssnew/wp-login.php 1 -
+/wp-includes/IXR/img.php 1 -
+/phpMyAdmin4/ 15 https://bristolbr.com.ar/phpMyAdmin4/index.php
+/dropdown.php 4 -
+/wp-content/themes/finley/min.php 1 -
+/2021 1 -
+/wp-includes/block-patterns/about.php 1 -
+/html 3 -
+/wp-header.php 1 -
+/function.php 1 -
+/wp-content/upgrade/edit.php 1 -
+/admin/ 15 https://bristolbr.com.ar/admin/index.php
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/item 3 -
+/1.php 1 -
+/text/tab-separated-values 3 -
+/wp-content/uploads/koheju.php 1 -
+/wp-includes/IXR/class-IXR-http.php 1 -
+/wp-includes/plugins/instabuilder2/cache/up.php 1 -
+/.well-known/pki-validation/about.php 2 -
+/phpMyAdmin-5.2.1/ 15 https://bristolbr.com.ar/phpMyAdmin-5.2.1/index.php
+/phpmyadmin1/ 16 https://bristolbr.com.ar/phpmyadmin1/index.php
+/wp-includes/PHPMailer/PHPSmtp.php 1 -
+/wp-includes/rest-api/alfa-reX.php7 1 -
+/wp-config.php_ 1 -
+/ev-emitter/ev-emitter 3 -
+/program/ 16 https://bristolbr.com.ar/program/index.php
+/wp-includes/images/about.php 1 -
+/0.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/oxps 2 -
+/a.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/video/3gpp2 3 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope/js/layout-modes/vertical 3 -
+/pagina-inicial/mechas/mecha-con-navaja-simple/ 2 -
+/wp-admin/css/colors/blue/clean.php 3 bristolbr.com.ar
+/wp-includes/style-engine/ 1 -
+/www 1 -
+/wp-admin/wso.php 1 -
+/css/album.css 2 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery/js/packery 2 -
+/wp-config.php.txt 1 -
+/wp-admin/repeater.php 2 -
+/php-my-admin/ 15 https://bristolbr.com.ar/php-my-admin/index.php
+/repeater.php 2 -
+/wp-content/plugins/contact-form-7/includes/swv/js/video/mpeg 3 -
+/wp-content/alfa.php 1 -
+/rc.php 1 -
+/2022 1 -
+/db/phpmyadmin3/ 16 https://bristolbr.com.ar/db/phpmyadmin3/index.php
+/wp-old 1 -
+/sql/sql-admin/ 15 https://bristolbr.com.ar/sql/sql-admin/index.php
+/wp-amox.php 1 -
+/mc.php 1 -
+/.well-known/gpc.json 2 https://bristolbr.com.ar/
+/cd.php 1 -
+/wp-content/themes/rehub-theme/icons/modulobox.svg 4 -
+/images/images/cache.php 1 bristolbr.com.ar
+/wp-content/languages/about.php 1 -
+/.well-known/pki-validation/wp-login.php 1 -
+/axis2/axis2-admin/ 2 -
+/application/javascript 3 -
+/static/images/nopic.png 3 -
+/wp-config.phpOLD 1 -
+/.well-known/acme-challenge/license.php 1 -
+/misc/drupal.js 2 -
+/web.php 1 -
+/Test 1 -
+/video/3gpp2 3 -
+/core/misc/drupal.js 2 -
+/DialogTemplates/SelectImage 4 -
+/wp-includes/class-json-ajax-session.php 1 -
+/sites/all/modules/elfinder/src/connectors/php/connector.php 1 -
+/Wp 1 -
+/phpMyAdmin-4.9.7/ 15 https://bristolbr.com.ar/phpMyAdmin-4.9.7/index.php
+/.well-known/pki-validation/sts.php 1 -
+/db/phpMyAdmin/ 16 https://bristolbr.com.ar/db/phpMyAdmin/index.php
+/wp-content/.wp-content.php 1 bristolbr.com.ar
+/wp-admin/images/install.php 1 -
+/wp-content/themes/tflow/b.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/string/number/object 3 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/.well-known/pki-validation/system.php 1 -
+/wp-content/uploads/fusion-styles/f904a20f3c047facdd2af4f95f68fafb.min.css 2 https://bristolbr.com.ar/
+/wp-content/plugins/contact-form-7/includes/swv/js/image/tiff 3 -
+/shopdb/ 16 https://bristolbr.com.ar/shopdb/index.php
+/php/thinkphp/aaaffff123.php 1 -
+/administrator/web/ 15 https://bristolbr.com.ar/administrator/web/index.php
+/wp-content/uploads/1.php 1 -
+/wp-config.php~ 1 -
+/bac 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/eventie/eventie 3 -
+/phpMyAdmin5.1/ 16 https://bristolbr.com.ar/phpMyAdmin5.1/index.php
+/index_sso.php 1 -
+/web/wp-content/plugins/backup-backup/includes/wp.php 1 -
+/pagina-inicial/implementos-para-motossierras/fuera-de-borda-para-motossierra/ 2 -
+/wp-admin/images/xmrlpc.php 1 -
+/images/xmrlpc.php 1 -
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-ht-15/ 2 -
+/application/rar 3 -
+/wp-content/plugins/contact-form-7/includes/swv/js/image/x-icon 3 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-content/plugins/chart-builder/admin/partials/settings/chart-builder.php 1 bristolbr.com.ar
+/wp-includes/rest-api/about.php 2 -
+/shell20211028.php 1 -
+/img/about.php 1 -
+/wp-admin/css/about.php 2 -
+/wp-config.php_orig 1 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/wp-content/plugins/contact-form-7/includes/swv/js/video/x-ms-wm 3 -
+/image/x-quicktime 3 -
+/wp-config.php.dist 1 -
+/defaults.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery/js/rect 2 -
+/author/greeceman/ 4 -
+/video/ogg 3 -
+/db/phpMyAdmin3/ 15 https://bristolbr.com.ar/db/phpMyAdmin3/index.php
+/wp-admin/js/widgets/about.php7 2 -
+/wp-head.php 1 -
+/xleet.php 1 -
+/wp-content/plugins/visualizer/js/lib/dom-to-image.js 3 -
+/phpmyadmin_/ 16 https://bristolbr.com.ar/phpmyadmin_/index.php
+/wp-admin/1.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/video/3gpp 3 -
+/phpmyadmin2018/ 16 https://bristolbr.com.ar/phpmyadmin2018/index.php
+/cgi-bin/xmrlpc.php 1 -
+/rest/applinks/1.0/manifest 10 -
+/ztgttwyw.php 1 www.google.com
+/M1.php 1 -
+/blog 1 -
+/otceoywd.php 1 -
+/assets/jquery/jquery.plugin.min.js 1 -
+/pagina-inicial/ahoyadoras/ahoyadora-hidraulica-hb-19/ 2 -
+/pagina-inicial/perfuratrizes/perfuratriz-hidraulica-hb-19/ 1 -
+/phpmyadmin2022/ 16 https://bristolbr.com.ar/phpmyadmin2022/index.php
+/sql/phpMyAdmin2/ 15 https://bristolbr.com.ar/sql/phpMyAdmin2/index.php
+/backup 8 -
+/wp-content/plugins/ROOBOTS.php 1 -
+/phpMyAdmin5/ 15 https://bristolbr.com.ar/phpMyAdmin5/index.php
+/wp-admin/network/xmrlpc.php 1 -
+/ahoyadoras/perfuratriz-hidraulica-hb-21/ 5 https://bristolbr.com.ar/ahoyadoras/soporte-h/
+/wp-admin/maint/clean.php 1 bristolbr.com.ar
+/wp-content/plugins/contact-form-7/includes/swv/js/video/x-ms-asf 3 -
+/wp-includes/plugins/instabuilder2/cache/plugins/moon.php 1 -
+/rect 2 -
+/wp-content/plugins/contact-form-7/includes/swv/js/video/x-ms-wmx 3 -
+/wp-consar.php 2 -
+/wp-content/uploads/2024/01/file_content_657f93f532f3b/ 1 http://bristolbr.com.ar/wp-content/uploads/2024/01/file_content_657f93f532f3b/index.php
+/dia.php 1 -
+/sql/phpmyadmin3/ 12 https://bristolbr.com.ar/sql/phpmyadmin3/index.php
+/st.php 1 http://bristolbr.com.ar//st.php
+/audio/midi 3 -
+/video/x-ms-wmv 3 -
+/admin-post.php 2 -
+/wordpress/ 13 -
+/wp-config.backup 1 -
+/PMA/ 14 https://bristolbr.com.ar/PMA/index.php
+/admin/controller/extension/wpm.php 1 -
+/wp-config.php1 1 -
+/wp-includes/themes.php 1 -
+/apple-touch-icon-120x120.png 3 -
+/security.txt 1 http://www.bristolbr.com.ar/security.txt
+/wp-content/plugins/contact-form-7/includes/swv/js/application/wordperfect 2 -
+/audio/x-realaudio 3 -
+/phpMyAdmin-3/ 15 https://bristolbr.com.ar/phpMyAdmin-3/index.php
+/number/string 3 -
+/alfa.php 1 -
+/phpMyAdmin-5.1.3/ 14 https://bristolbr.com.ar/phpMyAdmin-5.1.3/index.php
+/wp-2019.php 1 -
+/application/x-tar 3 -
+/mysql/web/ 15 https://bristolbr.com.ar/mysql/web/index.php
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/desandro-matches-selector/matches-selector 3 -
+/db/webadmin/ 16 https://bristolbr.com.ar/db/webadmin/index.php
+/db/phpmyadmin/ 16 https://bristolbr.com.ar/db/phpmyadmin/index.php
+/wp-content/uploads/ac_assets/IndoSec.php 1 -
+/application/java 3 -
+/admin/images/radio.php 1 http://bristolbr.com.ar/admin/images/radio.php
+/Blog 1 -
+/cgi-bin/upfile.php 1 bristolbr.com.ar
+/audio/x-ms-wma 3 -
+/FroggBaba.php 1 -
+/wp-includes/SimplePie/plugins.php 1 -
+/wp-admin/user/themes.php 1 bristolbr.com.ar
+/dbadmin/ 15 https://bristolbr.com.ar/dbadmin/index.php
+/.git/config 10 -
+/.well-known/security.txt 4 -
+/.well-known/pki-validation/upfile.php 1 bristolbr.com.ar
+/about.php7 2 -
+/wp-content/themes/seotheme/mar.php 1 -
+/pagina-inicial/perfuratrizes/grua/ 5 -
+/alfa-rex.php7 2 -
+/phpMyAdmin2/ 16 https://bristolbr.com.ar/phpMyAdmin2/index.php
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 7 -
+/tinyfilemanager.php 1 http://bristolbr.com.ar/tinyfilemanager.php
+/wp-admin/edit-forms.php 1 bristolbr.com.ar
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope/js/layout-modes/fit-rows 3 -
+/libraries/vendor/updates.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/java 3 -
+/exonarthex.php 1 -
+/pagina-inicial/implementos-para-motossierras/perfurador-de-suelo-ps-05/ 6 -
+/fbmtxqhm.php 1 -
+/install.php 2 -
+/wp-config.php.orig 1 -
+/404.php 2 -
+/wp-config.php_original 1 -
+/edit.php 1 -
+/wp-content/themes/twentytwentythree/patterns/ 1 -
+/wp-content/uploads/fusion-styles/11bc02a59dbd0fd10db46f498738cbe8.min.css 4 https://bristolbr.com.ar/ahoyadoras/
+/wp-content/1.php 1 -
+/wp-content/cache/wpfc-minified/m7v5m778/text/xml 3 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/application/x-director 3 -
+/images/informasi/about.php 1 -
+/wp-admin/includes/users.php 1 bristolbr.com.ar
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/mpeg 3 -
+/apple-app-site-association 6 -
+/wp-content/plugins/contact-form-7/includes/swv/js/text/vtt 3 -
+/new 8 -
+/wp-content/plugins/w0rdpr3ssnew/about.php 1 -
+/wp-includes/Requests/Exception/HTTP/admin.php 1 http://bristolbr.com.ar//wp-includes/Requests/Exception/HTTP/admin.php
+/f.php 1 -
+/video/x-matroska 3 -
+/sql/myadmin/ 16 https://bristolbr.com.ar/sql/myadmin/index.php
+/index.php 2 -
+/moon.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/outlayer/outlayer 3 -
+/wp-content/plugins/firestats/php/tools/get_config.php 1 -
+/db/webdb/ 14 https://bristolbr.com.ar/db/webdb/index.php
+/pagina-inicial/ahoyadoras/excavadora/ 2 -
+/wp-includes/shell20211028.php 1 -
+/phpMyAdmin/ 14 https://bristolbr.com.ar/phpMyAdmin/index.php
+/wp-config.php.save.1 1 -
+/bak 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/video/webm 3 -
+/alfa-rex2.php7 2 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/string/object 3 -
+/wp-content/plugins/contact-form-7/includes/swv/js/video/x-flv 3 -
+/.well-known/acme-challenge/xmrlpc.php 1 -
+/wp-p.php7 2 -
+/wp-includes/class-wp-session-json.php 1 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/phppma/ 13 https://bristolbr.com.ar/phppma/index.php
+/wp-content/plugins/contact-form-7/includes/swv/js/text/csv 3 -
+/wp-includes/IXR/wp.php 1 -
+/2020 1 -
+/wp-content/plugins/zer0day_581794/87.php 1 -
+/api.php 8 -
+/wp-includes/new.php 1 -
+/wp-admin/includes/about.php 1 -
+/wordpress 8 -
+/author/admim/ 4 -
+/wp-content/themes.php 1 bristolbr.com.ar
+/.well-known/acme-challenge/upfile.php 2 bristolbr.com.ar
+/pekok.php 1 -
+/m.php 1 -
+/text/csv 3 -
+/wp-config.php-n 1 -
+/db/phpMyAdmin-3/ 16 https://bristolbr.com.ar/db/phpMyAdmin-3/index.php
+/pagina-inicial/implementos-para-motossierras/bomba-de-agua/ 2 -
+/epinyins.php 1 -
+/wp-content/plugins/core-plugin/nxd.php 1 -
+/video/x-ms-wm 3 -
+/audio/x-ms-wax 3 -
+/2phpmyadmin/ 14 https://bristolbr.com.ar/2phpmyadmin/index.php
+/makeasmtp.php 1 http://bristolbr.com.ar/makeasmtp.php
+/WSOEnigma.php 1 -
+/administrator/phpMyAdmin/ 16 https://bristolbr.com.ar/administrator/phpMyAdmin/index.php
+/wp-admin/css/colors/blue/xmrlpc.php 1 -
+/isotope/js/layout-modes/masonry 3 -
+/.well-known/js.php 1 -
+/wso.php 1 -
+/wp-admin/js/widgets/cloud.php 1 -
+/libraries/legacy/updates.php 1 -
+/wso1337.php 1 -
+/test.php 1 -
+/wp-includes/pomo/pomo.php 1 -
+/wp-json/litespeed/v1/cdn_status 22 -
+/wp-config.php.org 1 -
+/updates.php 1 -
+/phpmy-admin/ 14 https://bristolbr.com.ar/phpmy-admin/index.php
+/Njima.php 1 -
+/wp-config.php2 1 -
+/_loadinfo-123908120/ 2 http://bristolbr.com.ar/
+/wp-content/plugins/wordpresss3cll/wp-login.php 1 -
+/sql/phpmy-admin/ 17 https://bristolbr.com.ar/sql/phpmy-admin/index.php
+/wp-content/themes/calmly/issue.php 1 -
+/rindex.php 1 http://bristolbr.com.ar//rindex.php
+/wp-content/plugins/visualizer/js/lib/image/png 3 -
+/images/images/images/images/cache.php 1 bristolbr.com.ar
+/wp-content/repeater.php 2 -
+/wp-admin/includes/xmrlpc.php 1 -
+/images/download-iout.php 1 -
+/mysql/pma/ 17 https://bristolbr.com.ar/mysql/pma/index.php
+/video/x-ms-wmx 3 -
+/wp-info.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 1 -
+/wp-config.php.bk 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/ev-emitter/ev-emitter 3 -
+/wp-content/bypass.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/wp-config.php.backup 1 -
+/pagina-inicial/perfuratrizes/ 1 -
+/author/superadmin/ 4 -
+/css/ 1 -
+/shell.php 1 -
+/WordPress 1 -
+/mysql/ 14 https://bristolbr.com.ar/mysql/index.php
+/simple.php 10 www.google.com
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/admin.php 1 http://bristolbr.com.ar//wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/admin.php
+/Backup 1 -
+/MyAdmin/ 16 https://bristolbr.com.ar/MyAdmin/index.php
+/wp-content/plugins/wordpresss3cll/includes.php 1 -
+/bc 8 -
+/nasgor.php 1 -
+/root.php 1 -
+/phpMyAdmin-5/ 16 https://bristolbr.com.ar/phpMyAdmin-5/index.php
+/wp-config.php_bk 1 -
+/upload.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/javascript 3 -
+/wp-content/plugins/fusion-core/js/min/video/mp4 3 -
+/wp-admin/dropdown.php 1 -
+/audio/ogg 3 -
+/wp-includes/mah.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/aac 3 -
+/themes.php/install.php 1 -
+/wp-content/themes/seotheme/db.php 4 www.google.com
+/application/json 2 -
+/wp-content/plugins/TOPXOH/wDR.php 1 -
+/wp-blog.php 1 bristolbr.com.ar
+/wp-content/themes/hariko/lib.php 1 -
+/fw.php 1 -
+/wp-content/themes/bute/lang.php 1 www.google.com
+/wp-admin/cjfuns.php 1 bristolbr.com.ar
+/_phpmyadmin/ 17 https://bristolbr.com.ar/_phpmyadmin/index.php
+/audio/flac 3 -
+/wp-config.php__ 1 -
+/sql/phpMyAdmin/ 15 https://bristolbr.com.ar/sql/phpMyAdmin/index.php
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope/js/item 3 -
+/mysql-admin/ 16 https://bristolbr.com.ar/mysql-admin/index.php
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/video.html 2 -
+/phpMyAdmin-5.2.1-all-languages/ 16 https://bristolbr.com.ar/phpMyAdmin-5.2.1-all-languages/index.php
+/wp-content/themes/sketch/404.php 2 -
+/cgi-bin/themes.php 1 bristolbr.com.ar
+/duck.php 1 bristolbr.com.ar
+/wsa.php 1 -
+/wsoyanz.php 2 -
+/.well-known/assetlinks.json 4 https://bristolbr.com.ar/
+/admin/pma/ 16 https://bristolbr.com.ar/admin/pma/index.php
+/images/ 1 -
+/wp-content/themes/fing/zjxd.php 1 bristolbr.com.ar
+/wp-admin/js/about.php 3 -
+/administrator/PMA/ 14 https://bristolbr.com.ar/administrator/PMA/index.php
+/wp-config.php_bak 1 -
+/administrator/phpmyadmin/ 16 https://bristolbr.com.ar/administrator/phpmyadmin/index.php
+/my1.php 1 http://bristolbr.com.ar//my1.php
+/wp-content/plugins/contact-form-7/includes/swv/js/video/x-ms-wmv 3 -
+/wp-content/style-css.php 1 -
+/text/xml 3 -
+/up.php 1 -
+/wp-content/plugins/contact-form-7/includes/js/application/json 3 -
+/wp-includes/widgets/about.php 1 -
+/wp-content/plugins/ph-file-manager/87.php 1 -
+/demo 1 -
+/cloud.php 1 -
+/image/jpeg 3 -
+/db/dbadmin/ 16 https://bristolbr.com.ar/db/dbadmin/index.php
+/apple-touch-icon.png 2 -
+/music/bak_config.php 1 bristolbr.com.ar
+/images/toggige-arrow.jpg 1 bristolbr.com.ar
+/old 8 -
+/administrator/ 1 -
+/login.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/text/richtext 3 -
+/sitemap.php 1 -
+/xleet-shell.php 1 -
+/wp-content/mari.php 1 -
+/BLOG 1 -
+/s.php 1 -
+/wp-content/banners/about.php 1 -
+/wp.php 1 -
+/wp-content/plugins/fusion-core/js/min/video/webm 3 -
+/wp-content/plugins/dot/phpadmin.php 1 -
+/item.php 1 -
+/users.php 2 -
+/application/zip 3 -
+/.well-known/pki-validation/vlihsdna/ 1 -
+/pagina-inicial/sobre/produtos 2 -
+/wp-content/uploads/2017/class-wp-type-registroy.php 1 -
+/sitemap.xml.gz 1 -
+/New 1 -
+/mysql/dbadmin/ 16 https://bristolbr.com.ar/mysql/dbadmin/index.php
+/_recaptcha-123908120/ 4 -
+/wp-content/mrjn.php 1 -
+/phpMyAdmin-5.2.1-english/ 16 https://bristolbr.com.ar/phpMyAdmin-5.2.1-english/index.php
+/wp-admin/css/colors/light/about.php 1 -
+/eventEmitter/EventEmitter 3 -
+/wp-config-sample.php~ 2 -
+/wp-includes/wp-class.php 2 -
+/aleXus.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/image/x-quicktime 3 -
+/wp-includes/wso112233.php 1 -
+/alfanew2.php7 2 -
+/yanz.php 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 3 -
+/includes/ 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/fizzy-ui-utils/utils 3 -
+/wp-content/plugins/contact-form-7/includes/swv/js/image/bmp 3 -
+/.well-known/radio.php 1 -
+/wp-admin/images/Mhbgf.php 1 -
+/wp-content/upgrade/about.php 1 -
+/wp-config.phpbak 2 -
+/ee.php 1 -
+/wp-content/updraft/about.php 1 -
+/themes.php 1 bristolbr.com.ar
+/shop 1 -
+/Www 1 -
+/outlayer/item 3 -
+/wp-config.txt 1 -
+/wp-admin/user/cloud.php 1 -
+/.well-known/traffic-advice 43 -
+/wp-json/frontend-admin/v1 1 -
+/wp-content/uploads/archieving.php 1 -
+/wp-admin/cloud.php 1 -
+/phpMyAdmin-5.2.0/ 15 https://bristolbr.com.ar/phpMyAdmin-5.2.0/index.php
+/.well-known/pki-validation/themes.php 1 -
+/jack2024.php 1 -
+/wp-includes/css/about.php 1 -
+/db/websql/ 17 https://bristolbr.com.ar/db/websql/index.php
+/wp-admin/images/wp-signup.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/flac 3 -
+/application/x-quicktimeplayer 3 -
+/wp-admin/css/colors/blue/uploader.php 1 -
+/phpMyadmin/ 16 https://bristolbr.com.ar/phpMyadmin/index.php
+/wp-content/plugins/contact-form-7/includes/swv/js/video/ogg 3 -
+/data.php 1 -
+/wp-content/plugins/rsfv1/phpadmin.php 1 -
+/application/x-gzip 3 -
+/wp-content/tmpls.php 1 -
+/alfanew.php7 2 -
+/wp-content/plugins/contact-form-7/includes/swv/js/text/css 3 -
+/wp-admin/css/colors/blue/admin.php 1 http://bristolbr.com.ar//wp-admin/css/colors/blue/admin.php
+/css.php 1 -
+/image/webp 3 -
+/mah.php 2 -
+/mysql/admin/ 15 https://bristolbr.com.ar/mysql/admin/index.php
+/wp-includes/IXR/about.php 1 -
+/application/x-www-form-urlencoded 3 -
+/wp-admin/css/.css.php 1 bristolbr.com.ar
+/wp-content/plugins/about.php 1 -
+/.well-known/pki-validation/db-update.php 1 -
+/31/ 3 -
+/wp-content/plugins/wp-apxupx.php 1 -
+/admin.php 8 http://bristolbr.com.ar//admin.php
+/wp-content/plugins/contact-form-7/includes/swv/js/text/tab-separated-values 3 -
+/wp-content/mah.php 1 -
+/WORDPRESS 1 -
+/wp-includes/inputs.php 2 www.google.com
+/text/plain 3 -
+/wp-content/uploads/bak.php 1 -
+/author/wpservices/ 4 -
+/.sftp-config.json 1 -
+/c99.php 1 -
+/classwithtostring.php 2 -
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/midi 3 -
+/wp-content/item.php 1 -
+/old-site 1 -
+/wp-content/plugins/wordpresss3cll/up.php 1 -
+/wp-content/themes/theme_log.php 1 bristolbr.com.ar
+/wp-content/gallery/about.php 1 -
+/author/stender/ 4 -
+/wp-admin/ajax-actions.php 2 -
+/image/gif 3 -
+/archival/2021/wp-includes/2021/wp-includes/IXR/wp.php 1 -
+/cgi-bin/cgi-bin/cgi-bin/cache.php 1 bristolbr.com.ar
+/wp-content/plugins/contact-form-7/includes/swv/js/application/octet-stream 3 -
+/sqlmanager/ 16 https://bristolbr.com.ar/sqlmanager/index.php
+/wp-includes/blocks/about.php 1 -
+/radio.php 3 -
+/.well-known/change-password 2 https://bristolbr.com.ar/
+/pagina-inicial/ahoyadoras/retroexcavadora/ 2 -
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-pr-134/ 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/layout-mode 3 -
+/pagina-inicial/perfuratrizes/retroexcavadora/ 1 -
+/wp-includes/about.php 1 -
+/wp-includes/Requests/Text/admin.php 1 -
+/phpmyadmin3/ 16 https://bristolbr.com.ar/phpmyadmin3/index.php
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/video/mp4 3 -
+/wp-admin/xmrlpc.php 1 -
+/wp-content/plugins/fix/up.php 5 -
+/wp-content/themes/core.php 1 bristolbr.com.ar
+/phpMyAdmin-4/ 15 https://bristolbr.com.ar/phpMyAdmin-4/index.php
+/author/w-padmine/ 4 -
+/wp-content/plugins/tunnelforms/lib.php 1 -
+/wp-admin/Xl2023.php 1 -
+/wp-admin/includes/cloud.php 1 -
+/sql/websql/ 14 https://bristolbr.com.ar/sql/websql/index.php
+/video.html 2 -
+/plugins/jquery.filer/uploads/jack2024.p.php 1 -
+/images/images/images/images/images/cache.php 1 bristolbr.com.ar
+/wp-admin/wso112233.php 1 -
+/wp-includes/Text/Diff/Renderer/content.php 1 -
+/text.php 1 -
+/SITE 1 -
+/wp-content/plugins/root-file-manager/87.php 1 -
+/phpMyAdmin1/ 16 https://bristolbr.com.ar/phpMyAdmin1/index.php
+/admin/sqladmin/ 15 https://bristolbr.com.ar/admin/sqladmin/index.php
+/admin/phpMyAdmin/ 16 https://bristolbr.com.ar/admin/phpMyAdmin/index.php
+/audio/x-matroska 3 -
+/wp-includes/Requests/about.php 3 -
+/payout.php 1 -
+/cjfuns%20.php 1 -
+/wp-includes/pomo/about.php 3 bristolbr.com.ar
+/.ftp-sync.json 1 -
+/db/db-admin/ 15 https://bristolbr.com.ar/db/db-admin/index.php
+/123.aspx 2 -
+/wp-content/shell20211028.php 1 -
+/mechas/onde-comprar 1 -
+/wp-admin/a2.php 1 bristolbr.com.ar
+/wp-plain.php 2 www.google.com
+/wp-config.php.original 1 -
+/mysql/pMA/ 14 https://bristolbr.com.ar/mysql/pMA/index.php
+/pagina-inicial/ahoyadoras/perfurador-de-suelo-ps-06/ 1 -
+/Enigma.php 1 -
+/ebs.php7 1 -
+/wp-config.php-old 1 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-content/plugins/yyobang/mar.php 1 -
+/pagina-inicial/perfuratrizes/ahoyadora-hidraulica-hb-16 2 -
+/admin/web/ 16 https://bristolbr.com.ar/admin/web/index.php
+/isotope/js/layout-mode 3 -
+/phpmyadmin5/ 15 https://bristolbr.com.ar/phpmyadmin5/index.php
+/wp-content/plugins/masterstudy-lms-learning-management-system/readme.txt 1 -
+/phpmyadmin2017/ 15 https://bristolbr.com.ar/phpmyadmin2017/index.php
+/ahoyadoras/perfuratriz-hidraulica-hb-19 1 -
+/wp-includes/random_compat/1.php 1 -
+/wp-content/indeX.php 1 -
+/application/font-truetype 3 -
+/outlayer/outlayer 3 -
+/PHPMailer/web_config.php 1 bristolbr.com.ar
+/wp-includes/class-matchesmapregex-error-comment.php 1 -
+/tags.php 1 -
+/test 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/rtf 3 -
+/include/ckeditor/plugins/smiley/images/angel_smile.gif 3 -
+/sql/sql/ 15 https://bristolbr.com.ar/sql/sql/index.php
+/sql/webdb/ 16 https://bristolbr.com.ar/sql/webdb/index.php
+/pma/ 16 https://bristolbr.com.ar/pma/index.php
+/phpmyadmin2020/ 15 https://bristolbr.com.ar/phpmyadmin2020/index.php
+/phpMyAdmin-5.1.1/ 17 https://bristolbr.com.ar/phpMyAdmin-5.1.1/index.php
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/ogg 3 -
+/WWW 1 -
+/wp-content/blogs.dir/about.php 1 -
+/class.api.php 7 -
+/isotope-layout/js/layout-mode 2 -
+/jetpack.php 1 -
+/phpmyadmin2019/ 14 https://bristolbr.com.ar/phpmyadmin2019/index.php
+/pagina-inicial/mechas/mecha-navaja-con-surcador/ 1 -
+/wp-content/plugins/hello.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/msword 3 -
+/wp-content/uploads/wpr-addons/forms/ 1 bristolbr.com.ar
+/text/vtt 3 -
+/application/wordperfect 3 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/dd.php 2 -
+/video/webm 3 -
+/assets/js/xmrlpc.php 1 -
+/wp-admin/js/widgets/xmrlpc.php 1 -
+/db/phpmyadmin4/ 14 https://bristolbr.com.ar/db/phpmyadmin4/index.php
+/fm.php 1 http://bristolbr.com.ar/fm.php
+/phpmyadmin2021/ 14 https://bristolbr.com.ar/phpmyadmin2021/index.php
+/ThinkPHP/ThinkPHP.php 3 -
+/SHOP 1 -
+/wp 8 -
+/bk 8 -
+/include/nilmdg/min.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/image/x-macpaint 3 -
+/1975.php 1 -
+/wp-content/uploads/help.php 1 -
+/sito 1 -
+/wp-content/plugins/linkpreview/ 1 http://bristolbr.com.ar/wp-content/plugins/linkpreview/index.php
+/wp-content/plugins/woocommerce-product-addon/readme.txt 1 -
+/1phpmyadmin/ 16 https://bristolbr.com.ar/1phpmyadmin/index.php
+/.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200/ 2 https://bristolbr.com.ar/
+/dup-installer/main.installer.php 1 -
+/Wordpress 1 -
+/1233.php 1 -
+/video/quicktime 3 -
+/cgi-bin/about.php 1 -
+/wp-content/patior/ 1 -
+/wp-content/plugins/visualizer/js/lib/image/jpeg 3 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/video/webm 3 -
+/.well-known/acme-challenge/class_api.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/x-tar 3 -
+/home 7 -
+/wp-json/user-registration/v1 1 -
+/.well-known/apple-app-site-association 10 -
+/8yebv5mlhpknv63bc0txhrflksl71q/aa/ 1 -
+/mysqlmanager/ 16 https://bristolbr.com.ar/mysqlmanager/index.php
+/oS.ca 3 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/text/css 3 -
+/string/number/object 3 -
+/wp-config.php.bkp 1 -
+/wp-includes/install.php 2 -
+/wp-config-backup.txt 1 -
+/video/x-flv 3 -
+/2Fabout.php&reauth=1 1 -
+/images/iR7SzrsOUEP.php 1 -
+/wp-content/themes/about.php 2 -
+/wp-admin/css/colors/coffee/wp-admin/images/Mhbgf.php 1 http://bristolbr.com.ar/wp-admin/css/colors/coffee/index.php/wp-admin/images/Mhbgf.php
+/sql/phpmyadmin4/ 17 https://bristolbr.com.ar/sql/phpmyadmin4/index.php
+/inputs.php 3 www.google.com
+/pagina-inicial/ahoyadoras/ahoyadora-hidraulica-hb-16/ 2 -
+/wp-admin/inputs.php 2 www.google.com
+/wp-content/plugins/include.php 1 -
+/php-myadmin/ 15 https://bristolbr.com.ar/php-myadmin/index.php
+/wp-content/plugins/contact-form-7/includes/swv/js/video/avi 3 -
+/images/images/images/images/images/images/cache.php 1 bristolbr.com.ar
+/.well-known/acme-challenge/install.php 1 -
+/__phpmyadmin/ 15 https://bristolbr.com.ar/__phpmyadmin/index.php
+/wp-includes/Requests/Exception/HTTP/HTTP.php 1 http://bristolbr.com.ar//wp-includes/Requests/Exception/HTTP/HTTP.php
+/author/wpsecuritypatch/ 4 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope/js/layout-modes/masonry 3 -
+/wp-config.php.disabled 1 -
+/wp-content/themes/pridmag/db.php 2 -
+/phpMyAdmin6.0/ 14 https://bristolbr.com.ar/phpMyAdmin6.0/index.php
+/isotope/js/layout-modes/fit-rows 3 -
+/.tmb/cloud.php 1 -
+/myadmin/ 16 https://bristolbr.com.ar/myadmin/index.php
+/wp-content/plugins/visualizer/js/lib/image/tiff 3 -
+/wp-includes/Xl2023.php 1 -
+/wp-content/plugins/visualizer/js/lib/application/font-truetype 3 -
+/adminfuns.php7 1 -
+/wp-config.php.resetwp_bak 1 -
+/atomlib.php 1 bristolbr.com.ar
+/phpmyadmin/ 16 https://bristolbr.com.ar/phpmyadmin/index.php
+/wp-admin/js/about.php7 1 -
+/pcc.php 1 bristolbr.com.ar
+/wp-config 3 -
+/audio/aac 3 -
+/Telerik.Web.UI.WebResource.axd 2 -
+/wp-admin/images/admin.php 2 -
+/wp-config.php.local 1 -
+/wp-content/themes/travel/issue.php 1 -
+/wp-admin/css/colors/xmrlpc.php 1 -
+/phpMyAdmin5.2/ 16 https://bristolbr.com.ar/phpMyAdmin5.2/index.php
+/phpMyAdmin-4.9.10-all-languages/ 15 https://bristolbr.com.ar/phpMyAdmin-4.9.10-all-languages/index.php
+/wp-includes/style-engine/about.php 2 -
+/phpMyAdmin-5.1.0/ 15 https://bristolbr.com.ar/phpMyAdmin-5.1.0/index.php
+/Site 1 -
+/phpMyAdmin-latest/ 15 https://bristolbr.com.ar/phpMyAdmin-latest/index.php
+/includ 2 -
+/packery/js/packery 2 -
+/OLD 1 -
+/wp-content/plugins/wp-config-sample.php 1 bristolbr.com.ar
+/530c7/bc56c.php 1 -
+/wp-admin/ss.php 1 -
+/images/images/images/images/images/images/images/images/cache.php 1 bristolbr.com.ar
+/wp-content/classwithtostring.php 1 -
+/pagina-inicial/implementos-para-motossierras/saca-tabla/ 13 -
+/wp-config.org 1 -
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 -
+/content.php 1 -
+/sql/phpmyadmin5/ 17 https://bristolbr.com.ar/sql/phpmyadmin5/index.php
+/phpmyadmin4/ 17 https://bristolbr.com.ar/phpmyadmin4/index.php
+/xmrlpc.php 1 -
+/woh.php 1 -
+/licenses.php 1 bristolbr.com.ar
+/pagina-inicial/perfuratrizes/miniexcavadora/ 1 -
+/wp-apxupx.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery-bridget/jquery-bridget 3 -
+/wp-content/bak.php 1 -
+/haXor.php 1 -
+/phpMyAdmin-5.2.0-all-languages/ 14 https://bristolbr.com.ar/phpMyAdmin-5.2.0-all-languages/index.php
+/wp-content/themes/gaukingo/db.php 1 -
+/_phpMyAdmin/ 15 https://bristolbr.com.ar/_phpMyAdmin/index.php
+/main 8 -
+/administrator/admin/ 16 https://bristolbr.com.ar/administrator/admin/index.php
+/img/ 1 -
+/_phpmyadmin_/ 15 https://bristolbr.com.ar/_phpmyadmin_/index.php
+/application/font-woff 3 -
+/wp-config.php_old 1 -
+/wp-content/plugins/envato-market/inc/class-envato-market-api.php 1 -
+/temp/ 1 -
+/db/phpmyadmin5/ 16 https://bristolbr.com.ar/db/phpmyadmin5/index.php
+/68/dD/ 3 -
+/wp-content/upgrade-temp-backup/about.php 1 -
+/.well-known/pki-validation/moon.php 1 -
+/text/calendar 3 -
+/.well-known/pki-validation/xmrlpc.php 1 -
+/WP 1 -
+/wp-content/plugins/revslider/xx.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/image/heic 3 -
+/application/x-shockwave-flash 3 -
+/wp-includes/theme-compat/phpmailer.lang-joomla.php 1 -
+/pagina-inicial/ahoyadoras/minicargadora/ 2 -
+/wp-includes/content.php 1 -
+/c.php 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 1 -
+/wp-content/plugins/masterx/wpx.php 1 -
+/wp-config.php.save 1 -
+/video/avi 3 -
+/chosen.php 9 -
+/plugins.php 2 -
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-35/ 3 -
+/.well-known/pki-validation/ 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/wp-admin/maint/about.php 1 -
+/confluence/rest/applinks/1.0/manifest 10 -
+/__MACOSX/ 1 -
+/wp-includes/random_compat/about.php 1 -
+/db/myadmin/ 15 https://bristolbr.com.ar/db/myadmin/index.php
+/cjfuns.php 2 bristolbr.com.ar
+/wp-config.php.new 1 -
+/plugins/metadata/openurl10/colors-fonts-editor.php 1 -
+/wp-content/about.php 3 -
+/db/ 15 https://bristolbr.com.ar/db/index.php
+/image/ 1 -
+/cgi-bin/cloud.php 1 -
+/mysql/db/ 16 https://bristolbr.com.ar/mysql/db/index.php
+/wp-content/install.php 2 -
+/mysqladmin/ 17 https://bristolbr.com.ar/mysqladmin/index.php
+/wp-config.bkp 1 -
+/wp-includes/SimplePie/about.php 1 -
+/a2.php 1 bristolbr.com.ar
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery/js/packer 2 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery/js/item 2 -
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/x-ms-wma 3 -
+/wp-one.php 1 -
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/fm1.php 1 -
+/uploader.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/get-size/get-size 3 -
+/wp-content/plugins/file-manager-zeroday/87.php 1 -
+/wp-config.phpe 1 -
+/pagina-inicial/ahoyadoras/grua/ 2 -
+/autoload_classmap.php 1 -
+/wp-admin/maint/atomlib.php 1 -
+/application/x-director 3 -
+/Xl2023.php 1 -
+/phpmyAdmin/ 15 https://bristolbr.com.ar/phpmyAdmin/index.php
+/wp-aa.php 7 www.google.com
+/x.php 1 -
+/packery/js/item 2 -
+/cgi-bin/cgi-bin/cgi-bin/cgi-bin/cache.php 1 bristolbr.com.ar
+/application/oxps 2 -
+/vendor/nikic/php-parser/parser.php 1 -
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/x-shockwave-flash 3 -
+/video/mp4 3 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/eventEmitter/EventEmitter 3 -
+/alfanew.php 2 -
+/onixnews/plugins/jquery.filer/uploads/mfs.p.php 1 -
+/ws.php7 2 -
+/wp-includes/ID3/about.php 2 -
+/mrj.php 1 bristolbr.com.ar
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/application/x-shockwave-flash 3 -
+/pagina-inicial/perfuratrizes/excavadora/ 3 -
+/wp-content/plugins/caxton/inc/admin.php 1 bristolbr.com.ar
+/phpmy/ 17 https://bristolbr.com.ar/phpmy/index.php
+/packery/js/packer 2 -
+/wp-admin/X.php 1 -
+/sql/php-myadmin/ 14 https://bristolbr.com.ar/sql/php-myadmin/index.php
+/TEST 1 -
+/wp-content/plugins/woocommerce-products-filter/js/plainoverlay/plainoverlay.jquery.json 2 -
+/wp-json/wc/store/products/collection-data 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/x-realaudio 3 -
+/.well-known/about.php 2 -
+/wp-content/plugins/contact-form-7/includes/swv/js/audio/x-ms-wax 3 -
+/wso112233.php 1 -
+/packer 2 -
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 bristolbr.com.ar
+/wp-content/plugins/LayerSlider/readme.txt 1 -
+/b.php 1 -
+/sitemap.txt 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/masonry/masonry 3 -
+/sellers.json 5 -
+/wp-content/plugins/contact-form-7/includes/swv/js/image/png 3 -
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 -
+/wp-content/uploads/2024/02/file_content_657f93f532f3b/ 1 http://bristolbr.com.ar/wp-content/uploads/2024/02/file_content_657f93f532f3b/index.php
+/wp-config.php-original 1 -
+/img/d923032023rdw23u89u834_sec.png 2 -
+/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/v5/shadow.png 1 -
+/sts.php 1 -
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-23/ 1 -
+/wp-content/plugins/revslider/includes/external/page/ 2 http://bristolbr.com.ar/wp-content/plugins/revslider/includes/external/page/index.php
+/sql/sqladmin/ 16 https://bristolbr.com.ar/sql/sqladmin/index.php
+/wp-content/index1.php 1 -
+/wp-includes/IXR/class-IXR-data.php 1 -
+/pagina-inicial/implementos-para-motossierras/fumigador/ 2 -
+/wp-config.php_new 1 -
+/.well-known/wp.php 1 -
+/wp-content/uploads/2021/06/logo-pa 687 https://bristolbr.com.ar/ahoyadoras/
+/wp-config.php-backup 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/video/ogg 3 -
+/wp-content/plugins/visualizer/js/lib/image/gif 3 -
+/wp-content/updates.php 1 -
+/dceditor/flashtool/aspx/uploadImg.aspx 1 -
+/cache-compat.php 1 -
+/.vscode/ftp-sync.json 1 -
+/4I.ca 3 -
+/wp-content/plugins/seoplugins/mar.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/x-7z-compressed 3 -
+/wp-l0gin.php 2 -
+/sitemap.xml 1 http://www.bristolbr.com.ar/sitemap.xml
+/application/msword 3 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/video/quicktime 3 -
+/wp-includes/Text/themes.php 1 -
+/phpMyAdmin_/ 15 https://bristolbr.com.ar/phpMyAdmin_/index.php
+/ajax-actions.php 2 -
+/options.php 1 -
+/.well-known/ 2 -
+/wp-content/themes/twentyfive/include.php 1 -
+/archivarix.cms.php 1 -
+/application/x-msdownload 3 -
+/inc.php 1 -
+/upload/surat_masuk/about.php 1 -
+/bads.php 1 -
+/wp-admin/images/upfile.php 1 bristolbr.com.ar
+/administrator/db/ 14 https://bristolbr.com.ar/administrator/db/index.php
+/wp-content/plugins/contact-form-7/includes/swv/js/application/x-msdownload 3 -
+/wp-includes/wp-includes/admin-bar.php 1 -
+/menu.php 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/.well-known/acme-challenge/atomlib.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/pdf 3 -
+/BACKUP 1 -
+/x.php%20hited 1 -
+/axis2-admin/ 2 -
+/sitio 1 -
+/100.php 1 -
+/plugins/morris/tiny.php 1 -
+/sftp-config.json 1 -
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/styles/ 1 -
+/css/st.php 1 -
+/image/x-icon 3 -
+/admin/db/ 16 https://bristolbr.com.ar/admin/db/index.php
+/audio/wav 3 -
+/wp-content/plugins/alfa-rex.php 1 -
+/string/object 3 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/_well-known/amaxx.php 1 -
+/db/phpMyAdmin-5/ 16 https://bristolbr.com.ar/db/phpMyAdmin-5/index.php
+/wp-content/plugins/elementor/up.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/image/gif 3 -
+/wp-config.phpnew 1 -
+/404.php/wp-admin/images/Mhbgf.php 1 -
+/wp-content/uploads/mod_ariimageslidersa.php 1 -
+/wp-content/languages/themes/class.api.php 1 -
+/wp-config.php.dev 1 -
+/images/about.php 1 -
+/wp-content/plugins/contact-form-7/includes/swv/js/text/calendar 3 -
+/wp-includes/IXR/themes.php 1 -
+/mysql/sqlmanager/ 13 https://bristolbr.com.ar/mysql/sqlmanager/index.php
+/humans.txt 4 -
+/.well-known/acme-challenge/about.php 1 bristolbr.com.ar
+/.well-known/pki-validation/install.php 1 -
+/eventie/eventie 3 -
+/wp-content/plugins/contact-form-7/includes/swv/js/application/onenote 3 -
+/tages.php 2 -
+/wp-config.php0 1 -
+/libraries/phpmailer/updates.php 1 -
+/phpMyAdmin3/ 15 https://bristolbr.com.ar/phpMyAdmin3/index.php
+/js/ 1 -
+/wp-content/plugins/seo/idxv3.php 1 bristolbr.com.ar
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/smoothness.php 1 http://bristolbr.com.ar//wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/smoothness.php
+/wp-content/plugins/contact-form-7/includes/swv/js/video/divx 3 -
+/config 1 -
+/lufix.php 1 -
+/isotope/js/layout-modes/vertical 3 -
+/video/divx 3 -
+/images/cloud.php 1 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 bristolbr.com.ar
+/wp-includes/Requests/Text/ 1 bristolbr.com.ar
+/plugins/jquery.filer/uploads/emm.p.php 1 -
+/css/cloud.php 1 -
+/video/mpeg 3 -
+/.well-known/pki-validation/iR7SzrsOUEP.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/desandro-matches-selector/matches-selector 3 -
+/.vscode/.sftp.json 1 -
+/wp-includes/repeater.php 2 -
+/application/x-7z-compressed 3 -
+/video/x-ms-asf 3 -
+/image/bmp 3 -
+/wp-admin/network/cloud.php 1 -
+/wp-content/plugins/core-plugin/include.php 1 -
+/wp-includes/customize/about.php 2 -
+/wp-content/cache/wpfc-minified/m7v5m778/text/plain 3 -
+/.well-known/acme-challenge/cloud.php 3 -
+/wp-content/cache/wpfc-minified/m7v5m778/text/html 3 -
+/db/phpMyAdmin-4/ 14 https://bristolbr.com.ar/db/phpMyAdmin-4/index.php
+/wp-admin/network/amaxx.php 1 -
+/phpMyAdmin-5.1.2/ 17 https://bristolbr.com.ar/phpMyAdmin-5.1.2/index.php
+/author/wpadminne/ 4 -
+/pagina-inicial/ahoyadoras/miniexcavadora/ 2 -
+/item 3 -
+/pagina-inicial/mechas/mecha-con-garra/ 4 -
+/4A.1f 3 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/application/x-quicktimeplayer 3 -
+/img/cloud.php 1 -
+/.well-known/wso112233.php 1 -
+/image/x-macpaint 3 -
+/wp-content/wp-wso.php 1 -
+/get-size/get-size 3 -
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-ht-60/ 2 -
+/isotope/js/item 3 -
+/wp-config.php.1 1 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 1 -
+/wp-includes/Text/about.php 3 -
+/css/xmrlpc.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/number/string 3 -
+/apple-touch-icon-120x120-precomposed.png 3 -
+/wp-admin/user/xmrlpc.php 1 -
+/phpMyAdmin-latest-all-languages/ 17 https://bristolbr.com.ar/phpMyAdmin-latest-all-languages/index.php
+/wp-includes/customize/amaxx.php 1 -
+/unappp2/wp-content/plugins/phoenix_658/87.php 1 -
+/mini.php 1 -
+/.git/HEAD 2 -
+/wp-content/plugins/visualizer/js/lib/application/font-woff 3 -
+/site 1 -
+/sql/phpmanager/ 16 https://bristolbr.com.ar/sql/phpmanager/index.php
+/wp-content/plugins/core-stab/ 1 http://bristolbr.com.ar/wp-content/plugins/core-stab/index.php
+/.well-known/autoload_classmap.php 1 -
+/.vscode/sftp.json 1 -
+/wp-config.orig 1 -
+/wlgiwefr.php 1 -
+/css/font-awesome/scss/wp-login.php 1 -
+/2019 1 -
+/.well-known/acme-challenge/class.api.php 1 -
+/upfile.php 1 bristolbr.com.ar
+/wp-config.php_backup 1 -
+/wp-content/plugins/fusion-core/js/min/video/ogg 3 -
+/text/html 3 -
+/image/tiff 3 -
+/phpmyadmin2/ 15 https://bristolbr.com.ar/phpmyadmin2/index.php
+/config.php~~ 1 -
+/masonry/masonry 3 -
+/wp-content/plugins/contact-form-7/includes/swv/js/text/plain 3 -
+/dldlbkok.php 1 www.google.com
+/wp-admin/css/colors/blue/atomlib.php 1 -
+/about.php 9 bristolbr.com.ar
+/images/images/images/cache.php 1 bristolbr.com.ar
+/admin/sysadmin/ 15 https://bristolbr.com.ar/admin/sysadmin/index.php
+/wp-content/plugins/anttt/simple.php 1 -
+/wp-includes/class-wp-pages.php 1 -
+/wp-content/plugins/db-toolkit/dbtoolkit_import.php 1 -
+/mysql/mysqlmanager/ 16 https://bristolbr.com.ar/mysql/mysqlmanager/index.php
+/NEW 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope-layout/js/layout-mode 2 -
+/wp-content/plugins/info/wp-random.php 1 bristolbr.com.ar
+/wp-content/plugins/WordPressCore/include.php 1 -
+/video/3gpp 3 -
+/phpMyAdmin-latest-english/ 15 https://bristolbr.com.ar/phpMyAdmin-latest-english/index.php
+/ads.txt 75 -
+/application/rtf 3 -
+/wp-content/inputs.php 2 www.google.com
+/text/richtext 3 -
+/wp-content/plugins/press/wp-class.php 1 -
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope/js/layout-mode 3 -
+/amaxx.php 1 -
+/packery/js/rect 2 -
+/.well-known/plugins.php 1 -
+END_SIDER_404
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_1 6
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-1024x211.png 0 2 131122 
+/wp-content/uploads/2023/07/escavadeira-equipamento-1-400x400-1.png 0 1 0 
+/wp-content/uploads/layerslider/Banner-Implementos/tira-tabua-principal-implementos-tita-tabua.png 0 2 1005470 
+/wp-content/uploads/2018/05/logo-bristol-mini.png 0 1 1024 
+/wp-content/uploads/2018/05/HB-16-ahoyadora.png 0 2 12702 
+/wp-content/uploads/layerslider/Banner-Implementos/Rabeta_Banner_Implementos.png 0 2 85682 
+END_EXTRA_1
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_2 641
+/wp-cron.php 2969 2969 59380 
+/ 1227 1227 40706418 
+/hello-world/ 821 821 51642804 
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff 756 756 6376868 
+/wp-json/contact-form-7/v1/contact-forms/7349/feedback/schema 609 609 135083 
+/ahoyadoras/ 454 454 19491123 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2 430 430 32874362 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2 426 426 5540426 
+/wp-json/oembed/1.0/embed 307 307 418533 
+/wp-json/contact-form-7/v1/contact-forms/7371/feedback/schema 243 243 49887 
+/implementos-para-motossierras/fuera-de-borda-para-motossierra/ 230 230 14795441 
+/pagina-inicial/contacto/ 217 217 8467305 
+/implementos-para-motossierras/ 167 167 7030741 
+/sobre/ 130 130 6275805 
+/wp-json/contact-form-7/v1/contact-forms/7349/feedback 88 88 16508 
+/ahoyadoras/perfuratriz-hidraulica-ht-60/ 85 85 1719674 
+/ahoyadoras/perfuratriz-hidraulica-hb-17/ 84 84 1775295 
+/ahoyadoras/ahoyadora-hidraulica-ht-10/ 82 82 1576175 
+/author/guilhermefs/ 77 77 3940764 
+/mechas/removedor-de-tocones/ 67 67 732875 
+/ahoyadoras/perfuratriz-hidraulica-hb-23/ 66 66 1102822 
+/ahoyadoras/ahoyadora-hidraulica-hb-19/ 61 61 1379495 
+/implementos-para-motossierras/perfurador-de-suelo-ps-10/ 61 61 953910 
+/implementos-para-motossierras/taladro/ 60 60 891041 
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf 56 56 716072 
+/ahoyadoras/retroexcavadora/ 55 55 984272 
+/implementos-para-motossierras/saca-tabla/ 51 51 1006483 
+/ahoyadoras/ahoyadora-hidraulica-hb-13/ 51 51 1102404 
+/implementos-para-motossierras/perfurador-de-suelo-ps-05/ 48 48 768139 
+/ahoyadoras/ahoyadora-hidraulica-hb-14/ 48 48 1057197 
+/ahoyadoras/grua/ 44 44 877064 
+/ahoyadoras/ahoyadora-hidraulica-hb-16/ 44 44 891161 
+/ahoyadoras/minicargadora/ 43 43 850641 
+/implementos-para-motossierras/bomba-de-agua/ 43 43 690541 
+/ahoyadoras/tractor/ 40 40 691989 
+/mechas/mecha-con-garra/ 40 40 734064 
+/wp-json/contact-form-7/v1/contact-forms/7371/feedback 39 39 8051 
+/ahoyadoras/ahoyadora-hidraulica-hb-18/ 38 38 884875 
+/ahoyadoras/perfuratriz-hidraulica-ht-15/ 37 37 688362 
+/implementos-para-motossierras/fuera-de-borda/ 36 36 528139 
+/wp-json 36 36 545004 
+/ahoyadoras/perfuratriz-hidraulica-hb-44/ 36 36 794813 
+/ahoyadoras/torquimetro/ 36 36 579704 
+/ahoyadoras/ahoyadora-hidraulica-ht-14/ 35 35 700740 
+/ahoyadoras/portapuntas-ch20fd/ 35 35 557056 
+/mechas/mecha-helice-continua/ 35 35 640567 
+/implementos-para-motossierras/desmalezadora/ 34 34 556441 
+/ahoyadoras/manguera-hidraulica/ 34 34 511700 
+/mechas/mecha-tubular/ 34 34 624151 
+/mechas/broca-con-bits/ 33 33 608358 
+/ahoyadoras/soporte-para-minicargadora/ 33 33 560123 
+/ahoyadoras/navaja-con-sulcador/ 33 33 528439 
+/implementos-para-motossierras/cortador-abrasivo/ 32 32 529501 
+/ahoyadoras/mini-maquinas/ 32 32 610110 
+/ahoyadoras/ahoyadora-hidraulica-hb-21/ 32 32 658301 
+/ahoyadoras/perfuratriz-hidraulica-p-314/ 32 32 673374 
+/ahoyadoras/soporte-h/ 32 32 539985 
+/ahoyadoras/garra-para-ahoyadoras/ 32 32 519149 
+/ahoyadoras/bit-c21hd/ 32 32 512845 
+/mechas/mecha-con-navaja-simple/ 32 32 596573 
+/ahoyadoras/navaja-simple/ 31 31 498694 
+/ahoyadoras/bit-rz2-01p-para-asfalto/ 31 31 500431 
+/ahoyadoras/perfurador-de-suelo-ps-06/ 31 31 541919 
+/ahoyadoras/perfuratriz-hidraulica-pr-134/ 31 31 512733 
+/implementos-para-motossierras/fumigador/ 31 31 500182 
+/mechas/ 29 29 403934 
+/wp-login.php 29 29 260656 
+/ahoyadoras/excavadora/ 28 28 616148 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff 28 28 455168 
+/ahoyadoras/ahoyadora-hidraulica-hb-28/ 28 28 527070 
+/category/uncategorized/ 26 26 309941 
+/ahoyadoras/ahoyadora-hidraulica-hb-55/ 26 26 537285 
+/mechas/mecha-navaja-con-surcador/ 25 25 490535 
+/mechas/barrena-concha/ 25 25 570402 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff 25 25 2541825 
+/ahoyadoras/acessorios-para-perfuratrizes/ 23 23 282528 
+/ahoyadoras-2/ 23 23 457714 
+/pagina-inicial/ 23 23 392570 
+/garra-para-brocas/ 23 23 335113 
+/mechas/mecha-muestro-suelo/ 23 23 361986 
+/torquimetro-bristol/ 23 23 337465 
+/mechas/mechas-para-madera/ 22 22 354735 
+/ahoyadoras/miniexcavadora/ 22 22 489756 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf 21 21 2055140 
+/pagina-inicial/contacto/orcamento/ 21 21 262080 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf 19 19 309073 
+/comments/feed/ 15 15 13009 
+/feed/ 11 11 12273 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur 6 6 708 
+/author/guilhermefs/feed/ 6 6 6784 
+/hello-world/feed/ 5 5 4603 
+/wp-comments-post.php 5 5 10422 
+/author/eduardo-ferras/ 5 5 93850 
+/category/uncategorized/feed/ 5 5 5912 
+/wp-json/contact-form-7/v1/contact-forms/7349/refill 5 5 110 
+/index.php 4 4 64060 
+/wp-json/wp/v2/pages/1452 4 4 150502 
+/wp-json/wp/v2/users/2 4 4 10266 
+/wp-json/wp/v2/posts/1 4 4 13271 
+/wp-json/wp/v2/pages/12 4 4 36584 
+/wp-json/wp/v2/pages/3691 1 1 29564 
+/wp-content/uploads/fusion-styles/db7967cf4af0aeb073fe0e4eb399bad7.min.css 0 1 128727 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-18-400x425.png 0 44 1936462 
+/wp-content/plugins/fusion-builder/readme.txt 0 1 63 
+/wp-content/uploads/layerslider/Home/slider-10.jpg 0 1134 447368670 
+/wp-json/wp/v2/pages/18279 3 3 24428 
+/wp-content/cache/wpfc-minified/k1mfss4w/e0ttf.css 0 52 8035083 
+/wp-content/uploads/layerslider/Banner-Mini-Maquinas/hb-10-mini-maquinas-2.png 0 29 113546484 
+/wp-content/plugins/fusion-core/js/min/fusion-vertical-menu-widget.js 0 790 613721 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/hb-23-capa-perfuratrizes-hb-23-retro-1200x500.png 0 2 2200464 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-10-2.jpg 0 38 4724678 
+/wp-content/uploads/2018/05/FOTOADICIONAL3.jpg 0 24 1828488 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js 0 696 2046974 
+/wp-content/uploads/2018/05/FOTOADICIONAL1-320x202.jpg 0 1 7650 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-400x83.png 0 1 46491 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-7-460x295.jpg 0 21 990381 
+/wp-content/plugins/contact-form-7/includes/swv/js/index.js 0 733 2408546 
+/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js 0 1 1251 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js 0 846 4508814 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-55-4-800x555-1.jpeg 0 27 3502926 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png 0 7 5789 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-800x982.png 0 3 781482 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js 0 687 263184 
+/wp-content/uploads/layerslider/Banner-HB-23/hb-23-capa-perfuratrizes-hb-23-retro-1200x500.png 0 1 1100232 
+/wp-json/wp/v2/users 1 1 1700 
+/wp-content/uploads/layerslider/Banner-Implementos/Rabeta_Banner_Implementos-1200x500.png 0 2 2128958 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-320x202.jpg 0 2 19600 
+/wp-content/uploads/2023/07/IMG_0068-scaled-1-320x202.jpg 0 2 28868 
+/wp-content/uploads/2018/05/PERFURATRIZ-VEICULAR-ROTATIVA-BRISTOL-P-314.jpg 0 24 1771152 
+/wp-content/uploads/layerslider/Furadeira/slider-9-600x338.jpg 0 2 37110 
+/wp-content/uploads/layerslider/Furadeira/furadeira-hu-3.png 0 43 5460040 
+/wp-content/uploads/2018/05/US.png 0 24 17232 
+/wp-content/uploads/layerslider/Banner-HT-10/ht-10-1024x427.png 0 3 2427972 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-carousel.js 0 140 202189 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-9-1.jpg 0 33 3809091 
+/wp-content/uploads/layerslider/Banner-Implementos/Fumigador_Banner_Implementos-1200x500.png 0 1 1090293 
+/wp-content/cache/wpfc-minified/qhxgfifm/caekd.css 0 139 14427210 
+/wp-content/uploads/layerslider/Banner-Guindaste/banner-guindaste-pagina-inicial-1536x1024.jpg 0 2 726736 
+/wp-content/uploads/layerslider/Furadeira/slider-9.jpg 0 27 3710799 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-17.png 0 230 22547740 
+/wp-config.php 3 3 60 
+/wp-json/wp/v2/pages/18192 3 3 21974 
+/wp-content/uploads/2023/07/Rosca-helice-continua-320x202.jpg 0 1 10568 
+/wp-content/uploads/layerslider/Banner-Implementos/tira-tabua-principal-implementos-tita-tabua-1024x427.png 0 2 1619744 
+/wp-content/cache/wpfc-minified/2abwoh06/9jtst.css 0 1 128117 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-10-3.jpg 0 30 3596899 
+//bristolbr.com.ar/wp-content/cache/wpfc-minified/epah7qzk/fg2yb.js 0 3 278472 
+/wp-content/uploads/layerslider/Banner-HB-21/HB-21-guindaste-HB-21-1-1.png 0 29 36256438 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-9-1-460x295.jpg 0 10 499810 
+/wp-content/cache/wpfc-minified/99h6zoh8/fg2yb.css 0 460 1648546 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-10-1-460x295.jpg 0 18 630960 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-9.jpg 0 31 3578237 
+/wp-content/uploads/layerslider/Banner-Trator/banner-trator-1536x864.png 0 2 3678394 
+/wp-content/cache/wpfc-minified/kypkcch7/bteyf.css 0 10 2159388 
+/wp-content/uploads/2021/06/rc-9795.png 0 27 4210596 
+/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js 0 677 406887 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-5-1.jpg 0 30 2321790 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js 0 704 21171140 
+/wp-content/uploads/2023/07/guindaste-equipamento-1-400x400-1.png 0 253 57260570 
+/wp-content/uploads/2023/07/Broca-Tubulao-1-1.jpg 0 29 3791112 
+/wp-content/cache/wpfc-minified/za78g41/casj0.css 0 104 13436640 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png 0 1 209 
+//wp-json/wp/v2/posts 1 1 55 
+/wp-content/plugins/contact-form-7/readme.txt 0 1 1896 
+/wp-content/uploads/layerslider/Home/slide3-1024x483.jpg 0 16 571584 
+/wp-json/wp/v2/users/5 3 3 879 
+/wp-json/wp/v2/pages/5664 3 3 14884 
+/wp-content/uploads/2018/05/rc-9668-400x425.png 0 1 61886 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-13-1.png 0 219 23026010 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope.js 0 133 1175731 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-10-1.jpg 0 45 5859090 
+/wp-content/uploads/visualizer/customization.js 0 50 14958 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-60-4.jpg 0 34 3670080 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js 0 709 1073414 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-55-2-800x533-1.jpeg 0 28 1193864 
+/wp-content/uploads/2023/07/IMG_0077-scaled-1.jpg 0 29 9997808 
+/wp-json/wp/v2/pages/18243 3 3 22936 
+/wp-content/uploads/2018/05/FOTOADICIONAL2-320x202.jpg 0 2 45452 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/v5/loading.gif 0 84 356886 
+/wp-content/uploads/layerslider/Home/slide5-200x94.jpg 0 1 3350 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-200x212.png 0 1 17622 
+/wp-content/uploads/2023/07/Broca_Destocador-400x425.png 0 46 1894728 
+/wp-content/uploads/fusion-styles/bed359f3e8d672300961fdb7874c7d35.min.css 0 3 2148488 
+/wp-content/uploads/layerslider/Home/slider-10-600x281.jpg 0 3 52080 
+/wp-content/uploads/layerslider/Banner-Implementos/Furadeira_Banner_Implementos-1536x640.png 0 7 8246805 
+/wp-json/wp/v2/pages/19350 3 3 15559 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-8-460x295.jpg 0 8 349304 
+/wp-content/uploads/fusion-styles/d08649911aec43bbfa9746407359f730.min.css 0 64 7828578 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-23-6-320x202.jpg 0 24 547101 
+/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-gallery.js 0 128 84369 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/delicious_16.png 0 20 8873 
+/wp-content/uploads/2023/07/bit-rz2-200x201.jpg 0 1 4178 
+/wp-content/uploads/2023/07/TUBULAO.png 0 29 2371475 
+/portfolio-items/ 1 1 54696 
+/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js 0 658 832955 
+/wp-content/uploads/fusion-styles/43704bbc564284fde9c627f1ea4fc135.min.css 0 2 257442 
+/wp-content/uploads/fusion-styles/924a9d26a18623d57fe3f9e294aa7f74.min.css 0 2 257598 
+/wp-content/uploads/layerslider/Banner-HB-44/hb-44-capa-perfuratrizes-hb-44-escavadeira.png 0 28 36031548 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js 0 791 833738 
+/wp-content/cache/wpfc-minified/e2g04zlu/caevg.css 0 9 2032312 
+/wp-content/uploads/layerslider/Banner-HB-14/HB-14-guindaste-HB-14-1-1.png 0 35 36533525 
+/wp-content/uploads/2023/07/Broca-Conica-com-Bits-1.png 0 202 6840647 
+/wp-content/uploads/2018/05/Perforadora-Hidraulica-p-314-400x425.png 0 51 5791506 
+/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js 0 758 301193 
+/wp-content/uploads/2023/07/Perfuratriz-HB-44-8.jpg 0 27 4092876 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-60-2-460x295.jpg 0 18 606112 
+/wp-content/uploads/layerslider/Banner-HB-14/HB-14-guindaste-HB-14-1-1-768x320.png 0 1 441184 
+/wp-content/plugins/index.php 3 3 60 
+/wp-content/uploads/2023/07/trator-equipamento.png 0 204 86234688 
+/wp-content/ 1 1 20 
+/wp-content/uploads/layerslider/Banner-Guindaste/banner-guindaste-pagina-inicial-1024x683.jpg 0 3 512694 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/pr-134-perfuratrizes-retro-pr-134-1-1.png 0 41 31940558 
+/wp-content/uploads/2023/07/ps5-hu-400x425.png 0 43 2289630 
+/element_category-sitemap.xml 0 4 1564 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-14.png 0 230 22304578 
+/wp-content/uploads/fusion-styles/824ff27618b5bc73cf9a0f962dca270e.min.css 0 4 1396750 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-17-400x425.png 0 45 2706220 
+/wp-content/plugins/fusion-core/js/min/avada-fusion-slider.js 0 45 173588 
+/wp-content/uploads/layerslider/Banner-HB-23/hb-23-capa-perfuratrizes-hb-23-retro-768x320.png 0 1 457184 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/landing-rabeta-fundo-escuro-768x458.jpg 0 2 165124 
+/wp-content/uploads/layerslider/Banner-HB-18/ls-project-56-slide-1.jpg 0 30 7869090 
+/wp-json/wp/v2/pages/5712 3 3 15673 
+/wp-content/uploads/2023/07/Rosca-helice-continua.jpg 0 28 1493240 
+/wp-json/wp/v2/pages/19487 3 3 14621 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-21-5-320x202.jpg 0 1 18807 
+/wp-content/uploads/layerslider/Banner-Guindaste/hb-18-principal-perfuratrizes-guindaste-hb-18.png 0 39 55475628 
+/wp-content/uploads/2023/07/Perfuratriz-HB-44-3.jpg 0 27 4121712 
+/wp-json/wp/v2/pages/19158 3 3 24548 
+/wp-content/uploads/layerslider/Banner-Implementos/Rabeta_Banner_Implementos-768x320.png 0 6 1831356 
+/wp-json/wp/v2/pages/349 3 3 25635 
+/wp-content/uploads/layerslider/Banner-HB-14/HB-14-guindaste-HB-14-1-1-1536x640.png 0 1 1636511 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-21-5.jpg 0 40 3095720 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-55-3-800x533-1.jpeg 0 27 1443366 
+/author-sitemap.xml 0 5 1920 
+/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js 0 686 147548 
+/wp-content/uploads/layerslider/Home/slide3-768x362.jpg 0 11 241846 
+/wp-content/uploads/2018/05/HB-35-ahoyadora-hidraulica.png 0 28 2855608 
+/wp-content/uploads/2018/05/Perforadora-retroexcavadora-pr-134.png 0 217 49607516 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png 0 9 16146 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-23-6.jpg 0 32 4175840 
+/wp-json/wp/v2/pages/19420 3 3 19215 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-55-6-800x547-1.jpeg 0 27 2779839 
+/wp-content/uploads/layerslider/Banner-HB-18/hb-18-principal-perfuratrizes-guindaste-hb-18.png 0 30 42673560 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js 0 693 803460 
+/wp-content/uploads/2023/07/trator-equipamento-400x400.png 0 45 9510564 
+/wp-content/uploads/layerslider/Home/slide5-1200x566.jpg 0 1 112361 
+/wp-content/uploads/layerslider/Banner-Guindaste/hb-18-principal-perfuratrizes-guindaste-hb-18-1024x427.png 0 3 2715033 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-13-1-400x425.png 0 43 2542680 
+/wp-content/uploads/2018/05/PERFURATRIZ-VEICULAR-ROTATIVA-BRISTOL-P-314-320x202.jpg 0 2 37488 
+/wp-content/uploads/layerslider/Celebre-Bristol-copy/banner-768x432.jpg 0 1 71343 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/landing-rabeta-fundo-escuro-1200x715.jpg 0 2 337824 
+/wp-content/uploads/2023/07/suporte-para-mini-cargadora-3.jpg 0 29 3372468 
+/wp-content/uploads/layerslider/Banner-Guindaste/banner-guindaste-pagina-inicial-768x512.jpg 0 3 296793 
+/wp-content/uploads/2023/07/Mecha-Helice-Continua.png 0 28 2245572 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/ 1 1 20 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/landing-rabeta-fundo-escuro-1024x610.jpg 0 5 527372 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/twitter_16.png 0 20 11552 
+/wp-content/uploads/2023/07/Torquimetro.png 0 28 554288 
+/wp-content/uploads/layerslider/Home/slide5-768x362.jpg 0 11 486728 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/hb-23-capa-perfuratrizes-hb-23-retro-1536x640.png 0 4 7182244 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo.png 0 64 19928761 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/hb-23-capa-perfuratrizes-hb-23-retro-768x320.png 0 1 457184 
+/wp-content/uploads/layerslider/Home/slide3-1200x566.jpg 0 1 46333 
+/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js 0 777 419716 
+/author/informatica/ 3 3 29602 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-21-6.jpg 0 40 3442800 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-8-1-460x295.jpg 0 10 436630 
+/wp-includes/js/comment-reply.min.js 0 4 7014 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-28-400x426.png 0 42 2202192 
+/wp-content/uploads/layerslider/Banner-Escavadeira/hb-44-capa-perfuratrizes-hb-44-escavadeira.png 0 30 38605230 
+/sitemap_index.xml 0 33 13682 
+/wp-includes/wlwmanifest.xml 0 5 3470 
+/wp-content/uploads/2018/05/brazil.png 0 628 555520 
+/wp-content/uploads/2018/05/Foto-z%C3%A9-400x266.jpg 0 31 862482 
+/wp-content/uploads/2023/07/Broca-Conica-com-Bits-1-400x425.png 0 46 2568808 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-blog.js 0 10 33200 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1.jpg 0 114 38821633 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-55.png 0 211 18827835 
+/wp-content/uploads/layerslider/Home/slider-10-1200x563.jpg 0 1 49717 
+/wp-content/uploads/2018/05/ps6-perforador-de-suelo.png 0 28 3579492 
+/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js 0 758 698548 
+/wp-content/uploads/2018/05/Foto-z%C3%A9.jpg 0 45 10030140 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-44-400x425.png 0 52 2549500 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-44.png 0 250 20553629 
+/wp-content/plugins/fusion-core/readme.txt 0 2 120 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-60-2.jpg 0 40 4054040 
+/wp-content/uploads/2023/07/Brocas-Helice-Continua-320x202.jpg 0 2 17098 
+/wp-includes/css/dist/block-library/style.min.css 0 233 2380649 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-14-400x425.png 0 51 2786287 
+/wp-content/uploads/2018/05/FOTOADICIONAL2.jpg 0 24 2283912 
+/wp-content/uploads/2023/07/Helice-Continua-Desenhos-320x202.png 0 2 25967 
+/wp-content/uploads/layerslider/Banner-HB-23/hb-23-capa-perfuratrizes-hb-23-retro-1536x640.png 0 14 25137854 
+/wp-content/plugins/visualizer/js/render-facade.js 0 48 115750 
+/wp-json/wp/v2/pages/19504 3 3 14855 
+//wp-json/wp/v2/users/ 2 2 15638 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-14-3-460x295.jpg 0 21 1023603 
+/wp-includes/js/jquery/jquery.min.js 0 235 6786948 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/vimeoPlayer.js 0 672 3966078 
+/wp-content/uploads/layerslider/Banner-Implementos/Perdurador_Manual_Banner_Implementos-300x125.png 0 4 279856 
+/wp-content/uploads/layerslider/Banner-Implementos/Rabeta_Banner_Implementos-1536x640.png 0 1 1718839 
+/wp-content/uploads/layerslider/Banner-HB-14/HB-18-principal-perfuratrizes-guindaste-hb-18-1-1.png 0 35 48123075 
+/wp-content/uploads/fusion-styles/68d0ada3e75f65d6bd8ea885e4279f68.min.css 0 163 19706859 
+/wp-content/themes/Avada/assets/min/js/general/avada-tabs-widget.js 0 672 172525 
+/wp-json/wp/v2/pages/5742 3 3 15136 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-6.jpg 0 28 2409960 
+/.well-known/acme-challenge/ 1 1 10 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js 0 231 772647 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.infinitescroll.js 0 10 137880 
+/wp-content/uploads/layerslider/Banner-Implementos/tira-tabua-principal-implementos-tita-tabua.png 0 61 65915202 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/v5/skin.png 0 114 366633 
+/wp-content/uploads/layerslider/Banner-HB-18/hb-18-mini-maquinas-hb-18.png 0 30 115664580 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-8.jpg 0 28 3004260 
+/wp-content/uploads/layerslider/Banner-Implementos/Perdurador_Manual_Banner_Implementos.png 0 59 65222920 
+/wp-content/uploads/2018/05/Miniescv.jpg 0 26 2938624 
+/wp-content/uploads/2023/07/escavadeira-equipamento-1-400x400-1.png 0 246 56150787 
+/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-title.js 0 366 509562 
+/wp-content/uploads/2023/07/Perfuratriz-HB-44-3-320x202.jpg 0 1 24163 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-23-1.jpg 0 33 3855423 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/reddit_16.png 0 20 14136 
+/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.textillate.js 0 322 607036 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png 0 17 11775 
+/2018/ 2 2 10270 
+/wp-content/uploads/layerslider/Celebre-Bristol-copy/banner.jpg 0 29 18679892 
+/wp-json/wp/v2/pages/5790 3 3 15506 
+/wp-json/wp/v2/pages/19483 3 3 14880 
+/wp-content/uploads/layerslider/Banner-Implementos/tira-tabua-principal-implementos-tita-tabua-768x320.png 0 1 467074 
+/wp-content/cache/wpfc-minified/mnut4sa7/fg2yb.css 0 461 4524134 
+/wp-includes/js/media-audiovideo.min.js 0 3 39084 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-23-4.jpg 0 32 3182560 
+/wp-content/uploads/layerslider/Home/slide5.jpg 0 217 46845526 
+/wp-content/uploads/layerslider/Banner-Implementos/Furadeira_Banner_Implementos-768x320.png 0 8 1517270 
+/wp-content/uploads/2023/07/SuporteH.png 0 35 2553075 
+/wp-json/wp/v2/pages/391 3 3 19793 
+/wp-content/uploads/2018/05/ht-60-Ahoyadora-tractor-282x300.png 0 2 177174 
+/wp-content/uploads/2023/07/ps10-hu.png 0 205 27551808 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/rabeta-hu.png 0 42 4061538 
+/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js 0 685 1218779 
+/wp-json/wp/v2/pages/353 3 3 19622 
+/wp-content/uploads/layerslider/Home/slide4-768x585.jpg 0 11 686422 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-hidraulica.png 0 26 2907944 
+/wp-content/uploads/fusion-styles/afa91f3fba3a2a657b25dd33b2bac386.min.css 0 1 1012205 
+/wp-content/uploads/fusion-styles/4b6378f4135d57067a1f25ec766e78de.min.css 0 7 901047 
+/wp-content/uploads/layerslider/Home/slide5-600x283.jpg 0 3 79446 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js 0 668 819494 
+/wp-content/index.php 1 1 20 
+/wp-content/uploads/2023/07/ps5-hu.png 0 206 22472487 
+/wp-content/themes/Avada/assets/min/js/general/avada-container-scroll.js 0 879 260719 
+//wp-includes/wlwmanifest.xml 0 2 2090 
+/wp-content/uploads/2023/07/porta-bit-600x595-1.jpg 0 203 3056166 
+/wp-content/uploads/2018/05/HB-17-ahoyadora-hidraulica.png 0 26 930358 
+/wp-content/uploads/2018/05/rc-9668.png 0 46 4821978 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/v6/skin.css 0 280 259250 
+/wp-json/wp/v2/pages/5719 3 3 15580 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-5-1-460x295.jpg 0 10 345190 
+/wp-content/uploads/layerslider/Banner-HB-14/HB-14-guindaste-HB-14-1-1-1024x427.png 0 1 763934 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-21-6-320x202.jpg 0 1 19245 
+/page-sitemap.xml 0 7 23601 
+/wp-content/uploads/2023/07/ps10-hu-400x425.png 0 43 2744742 
+/wp-includes/js/jquery/jquery.js 0 3 255372 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js 0 685 551192 
+/author/informatica/feed/ 3 3 1671 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-60-3.jpg 0 29 2212352 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.transition.js 0 704 261496 
+/wp-content/uploads/layerslider/Banner-Trator/banner-trator-768x432.png 0 4 1843892 
+/author/eduardo-ferras/feed/ 3 3 1665 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css 0 236 885134 
+/wp-content/uploads/2023/07/Perfuratriz-HB-44-12.jpg 0 26 3390114 
+/wp-content/themes/Avada/assets/min/js/general/avada-menu.js 0 767 10353960 
+/wp-json/wp/v2/pages/19439 3 3 17225 
+/wp-json/wp/v2/pages/341 3 3 24062 
+/wp-content/uploads/2018/05/FOTOADICIONAL0.jpg 0 24 4458192 
+/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js 0 778 1630538 
+/wp-content/uploads/layerslider/Banner-PR-134/pr-134-perfuratrizes-retro-pr-134-1-1-1024x427.png 0 1 623570 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png 0 20 17670 
+/wp-content/uploads/2018/05/rc-9668-282x300.png 0 1 33433 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HT-10-400x425.png 0 42 1856849 
+/wp-content/uploads/layerslider/Home/slider-10-768x360.jpg 0 11 275011 
+/wp-content/uploads/2023/07/Navaja-simple.png 0 27 3568860 
+/wp-json/wp/v2/pages/19257 3 3 16069 
+/wp-content/uploads/2023/07/suporte-para-mini-cargadora-2-400x425.jpg 0 1 28821 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/landing-rabeta-fundo-escuro-600x357.jpg 0 1 52628 
+/wp-content/uploads/layerslider/Banner-Implementos/Fumigador_Banner_Implementos.png 0 56 61458005 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-7.jpg 0 30 3546600 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js 0 667 2313979 
+/wp-json/wp/v2/pages/18324 4 4 76871 
+/wp-content/uploads/2023/07/miniescavadeira-equipamento-1-400x400-1.png 0 250 47144525 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js 0 694 5064251 
+/wp-content/uploads/layerslider/Home/slider-10-1024x480.jpg 0 16 616208 
+/wp-json/wp/v2/pages/355 3 3 20231 
+/wp-content/uploads/2023/07/HT-60-agricola-HT-60-1536x640-1.png 0 27 40205511 
+/wp-content/uploads/layerslider/Banner-HB-18/hb-18-principal-perfuratrizes-guindaste-hb-18-1024x427.png 0 1 905011 
+/robots.txt 0 437 66454 
+/wp-content/uploads/2023/07/Brocas-Helice-Continua-scaled.jpg 0 28 14256368 
+/wp-content/uploads/layerslider/Home/slide4-1200x914.jpg 0 1 136815 
+/wp-content/uploads/2023/07/suporte-para-mini-cargadora-3-400x425.jpg 0 1 33005 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-1200x248.png 0 2 648786 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js 0 236 9266789 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png 0 7 5747 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-18.png 0 230 16474308 
+/wp-content/uploads/layerslider/Banner-HT-60/HT-60-trator-HT-60-1-1-1024x427.png 0 5 3017108 
+/wp-content/uploads/layerslider/Banner-Implementos/Rabeta_Banner_Implementos-1024x427.png 0 1 788094 
+/feed/atom/ 1 1 747 
+/wp-content/uploads/2018/05/Perforadora-retroexcavadora-pr-134-282x300.png 0 1 69160 
+/wp-content/themes/Avada/assets/min/js/general/avada-comments.js 0 4 2678 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-1200x1473.png 0 2 1086718 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-400x251.jpg 0 1 14162 
+/wp-content/uploads/2023/07/Broca-garra.png 0 27 4102434 
+/wp-content/uploads/layerslider/Banner-HT-10/ht-10-1536x640.png 0 1 1750566 
+/wp-content/uploads/2023/07/broca-reta-com-bits.png 0 29 2512589 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png 0 17 3525 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-244x300.png 0 1 28221 
+/wp-json/wp/v2/pages/343 4 4 63505 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion.js 0 704 1026501 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/landing-rabeta-fundo-escuro.jpg 0 29 26423964 
+/wp-content/uploads/2023/07/SuporteH-2-1.png 0 30 2901840 
+/wp-json/wp/v2/pages/19245 3 3 19269 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-700x441.jpg 0 81 2573568 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-23-4-320x202.jpg 0 24 464738 
+/wp-content/uploads/2023/07/Helice-Continua-Desenhos.png 0 28 4685156 
+/wp-content/cache/wpfc-minified/epah7qzk/fg2yb.js 0 473 41097049 
+/wp-content/uploads/layerslider/Banner-HT-60/HT-60-trator-HT-60-1-1.png 0 44 43009806 
+/wp-content/uploads/2023/07/Navaja-con-sulcador.png 0 27 3674538 
+/tmp/ 1 1 236848 
+/wp-content/uploads/layerslider/Banner-Mini-Maquinas/hb-18-mini-maquinas-hb-18.png 0 30 115664580 
+/wp-content/uploads/layerslider/Celebre-Bristol-copy/banner-1024x576.jpg 0 1 0 
+/wp-content/uploads/layerslider/Banner-HT-60/HT-60-trator-HT-60-1-1-768x320.png 0 3 1285593 
+/wp-content/uploads/2018/05/FOTOADICIONAL4-320x202.jpg 0 1 17477 
+/wp-json/wp/v2/pages/337 3 3 22480 
+/wp-content/uploads/2018/05/ht-60-Ahoyadora-tractor.png 0 131 43407875 
+/wp-json/wp/v2/pages/19398 3 3 19196 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js 0 759 208803 
+/wp-content/uploads/layerslider/Home/slide5-300x141.jpg 0 1 6714 
+/wp-content/uploads/layerslider/Home/slide3.jpg 0 230 19610030 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-10.png 0 66 4828089 
+/wp-content/uploads/layerslider/Home/slide3-600x283.jpg 0 3 44646 
+/wp-json/wp/v2/pages/5702 4 4 45187 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-1200x754.jpg 0 10 888950 
+/wp-content/uploads/2018/05/Perforadora-retroexcavadora-pr-134-400x425.png 0 50 6104832 
+/wp-content/uploads/2023/07/suporte-para-mini-cargadora-2.jpg 0 29 1717496 
+/wp-content/uploads/2023/07/IMG_0077-scaled-1-320x202.jpg 0 2 32042 
+/wp-content/uploads/2023/07/bit-rz2.jpg 0 246 1666180 
+/wp-content/uploads/layerslider/Banner-HB-14/HB-18-principal-perfuratrizes-guindaste-hb-18-1-1-1024x427.png 0 1 1001284 
+/wp-json/wp/v2/pages/5734 4 4 42782 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-400x425.png 0 43 2272956 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/pr-134-perfuratrizes-retro-pr-134-1-1-1200x500.png 0 2 1728144 
+/wp-content/uploads/layerslider/Furadeira/slider-9-768x432.jpg 0 7 160200 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-8-1.jpg 0 30 3218850 
+/wp-includes/js/comment-reply.js 0 3 11109 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png 0 9 6993 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-600x377.jpg 0 4 109804 
+/wp-content/uploads/layerslider/Banner-Implementos/Fumigador_Banner_Implementos-600x250.png 0 1 286167 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/v6/loading.gif 0 23 92526 
+/wp-content/plugins/visualizer/js/lib/dom-to-image.min.js 0 51 184908 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-10-400x425.png 0 12 498179 
+/wp-content/uploads/layerslider.custom.css 0 236 161770 
+/wp-json/wp/v2/pages/19453 3 3 16707 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-60-1-460x295.jpg 0 18 478736 
+/wp-content/uploads/2018/05/HT-15-PERFODORA-TRACTOR.png 0 33 6857804 
+/slide-page-sitemap.xml 0 7 3021 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-28.png 0 210 19294270 
+/wp-content/uploads/layerslider/Banner-HB-55/hb-55-hb-55.png 0 28 36453648 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-9-460x295.jpg 0 8 399848 
+/wp-content/themes/Avada/assets/min/js/general/avada-sliding-bar.js 0 770 1280286 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js 0 785 2214785 
+/wp-content/uploads/2018/05/Perforadora-Hidraulica-p-314.png 0 219 48294640 
+/wp-content/uploads/2018/05/ahoyadora-minicargadora.png 0 32 7015392 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-21-8.jpg 0 36 3862620 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif 0 26 429192 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js 0 787 2406746 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-21-8-320x202.jpg 0 1 21924 
+/wp-content/uploads/layerslider/Banner-HB-18/hb-18-mini-maquinas-hb-18-1024x427.png 0 1 767583 
+/wp-json/wp/v2/categories/1 4 4 7910 
+/wp-json/wp/v2/users/4 3 3 891 
+/wp-content/cache/wpfc-minified/f3ch2hih/e0tu1.css 0 28 4337873 
+/wp-content/uploads/layerslider/Banner-Implementos/Fumigador_Banner_Implementos-1024x427.png 0 3 2411064 
+/wp-content/uploads/layerslider/Banner-Implementos/Furadeira_Banner_Implementos-1024x427.png 0 3 1572324 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-60-3-460x295.jpg 0 19 533307 
+/wp-content/plugins/visualizer/js/render-google.js 0 47 263649 
+/wp-content/uploads/layerslider/Banner-Implementos/Furadeira_Banner_Implementos.png 0 55 33793708 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-1024x643.jpg 0 60 3921206 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js 0 724 134550 
+/wp-content/uploads/layerslider/Banner-Implementos/tira-tabua-principal-implementos-tita-tabua-1536x640.png 0 1 1751001 
+/search/%7Bsearch_term_string%7D/feed/rss2/ 1 1 573 
+/wp-content/cache/wpfc-minified/deff4z4k/c8kbx.css 0 201 26508847 
+/wp-content/uploads/2018/05/ht-60-Ahoyadora-tractor-400x425.png 0 19 2943558 
+/wp-content/uploads/layerslider/Banner-HB-14/HB-18-principal-perfuratrizes-guindaste-hb-18-1-1-1536x641.png 0 2 4312732 
+/wp-content/uploads/2018/05/FOTOADICIONAL0-320x202.jpg 0 1 19548 
+/wp-json/wp/v2/pages/345 3 3 23248 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-4-460x295.jpg 0 21 783069 
+/wp-content/uploads/layerslider/Banner-HB-14/ls-project-56-slide-1.jpg 0 35 9180605 
+/wp-includes/js/jquery/jquery-migrate.min.js 0 236 907879 
+/wp-json/ 4 4 315298 
+/wp-content/uploads/2018/05/US-1.png 0 614 402798 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-icon-64.png 0 1 224 
+/wp-content/uploads/2023/07/ps6-2-400x425.png 0 43 2724624 
+/wp-content/uploads/layerslider/Banner-HT-10/ht-10-768x320.png 0 5 1858480 
+/wp-content/uploads/layerslider/Home/slide5-1024x483.jpg 0 16 1300560 
+/wp-content/uploads/2018/05/Ahoyadora-Grua.jpg 0 2 320574 
+/wp-content/uploads/layerslider/Banner-HT-10/ht-10.png 0 44 165933474 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/hb-23-capa-perfuratrizes-hb-23-retro.png 0 40 47320800 
+/wp-content/uploads/2023/07/Foto-Perfuratriz-Hidraulica-HB-21.png 0 217 21018936 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-60-1.jpg 0 35 1950716 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-55-5-800x533-1.jpeg 0 27 2105730 
+/wp-content/uploads/2021/06/rc-9777.png 0 29 3103174 
+/wp-content/uploads/2018/05/ahoyadora-minicargadora-400x425.png 0 1 123288 
+/wp-json/wp/v2/pages/19493 3 3 14889 
+/wp-content/uploads/2023/07/ps6-4-282x300-1.png 0 27 1079676 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HT-10.png 0 215 15671502 
+/wp-content/uploads/2023/07/suporte-para-mini-cargadora.png 0 28 5612656 
+/wp-content/uploads/layerslider/Banner-Implementos/Fumigador_Banner_Implementos-1536x640.png 0 3 5263020 
+/wp-content/uploads/layerslider/Banner-Guindaste/banner-guindaste-pagina-inicial.jpg 0 39 20331480 
+/wp-json/wp/v2/pages/19477 3 3 15340 
+/wp-content/uploads/layerslider/Banner-PR-134/pr-134-perfuratrizes-retro-pr-134-1-1.png 0 29 22592102 
+/wp-content/uploads/2021/06/rc-9820.png 0 46 7178119 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-10-2-460x295.jpg 0 17 442442 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/pr-134-perfuratrizes-retro-pr-134-1-1-768x320.png 0 1 352807 
+/wp-content/themes/Avada/assets/min/js/general/avada-header.js 0 682 4826288 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js 0 690 232252 
+/wp-content/uploads/2023/07/Foto-Perfuratriz-Hidraulica-HB-21-400x425.png 0 44 2611003 
+/wp-content/uploads/layerslider/Banner-HB-23/hb-23-capa-perfuratrizes-hb-23-retro.png 0 50 59151000 
+/wp-content/uploads/2021/06/logo-pa%CC%81gina.png 0 4 11980 
+/wp-content/uploads/layerslider/Celebre-Bristol-copy/logo-bristol-mini.png 0 24 79656 
+/wp-content/plugins/akismet/_inc/akismet-frontend.js 0 745 3600984 
+/wp-content/uploads/2023/07/ps6-2.png 0 204 27605612 
+/wp-content/uploads/2023/07/Broca_Destocador.png 0 206 13208032 
+/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js 0 776 220309 
+/wp-content/plugins/contact-form-7/includes/js/index.js 0 840 4003528 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png 0 7 5859 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js 0 882 728214 
+/wp-content/uploads/layerslider/Banner-HT-10/ht-10-600x250.png 0 1 289651 
+/wp-content/uploads/layerslider/Home/slide4.jpg 0 151 28565425 
+//bristolbr.com.ar/wp-content/cache/wpfc-minified/m7v5m778/fg2yb.js 0 2 68812 
+/wp-content/uploads/2018/05/FOTOADICIONAL1.jpg 0 24 973032 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-1024x211.png 0 35 8107275 
+/wp-content/themes/Avada/assets/min/js/general/avada-sidebars.js 0 868 1394746 
+/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js 0 2 6340 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js 0 413 72362 
+/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js 0 765 1020350 
+/wp-content/uploads/layerslider/Banner-Implementos/Rabeta_Banner_Implementos.png 0 61 60054998 
+/wp-content/themes/Avada/assets/images/page_title_bg.png 0 1 50495 
+/wp-content/uploads/2023/07/IMG_0068-scaled-1.jpg 0 41 10055988 
+/wp-json/wp/v2/pages/5673 3 3 15314 
+/wp-json/wp/v2/pages/19321 3 3 19323 
+/wp-json/wp/v2/pages/5722 3 3 15646 
+/wp-content/uploads/2018/05/HB-16-ahoyadora.png 0 30 26417280 
+/wp-content/themes/Avada/assets/min/js/general/avada-crossfade-images.js 0 776 172216 
+/wp-content/themes/Avada/assets/min/js/general/avada-contact-form-7.js 0 769 561020 
+/wp-admin/install.php 1 1 531 
+/wp-content/uploads/2023/07/Broca-Tubulao-1-1-320x202.jpg 0 2 44000 
+/wp-content/uploads/layerslider/Furadeira/slider-9-1024x576.jpg 0 7 247902 
+/wp-content/uploads/layerslider/Banner-Guindaste/hb-18-principal-perfuratrizes-guindaste-hb-18-1536x640.png 0 1 2013243 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-6-1.jpg 0 31 2668170 
+/wp-content/uploads/layerslider/Banner-HB-21/HB-21-guindaste-HB-21-1-1-768x320.png 0 1 516918 
+/wp-content/uploads/2018/05/DSC3361.jpg 0 1 188261 
+/wp-content/uploads/layerslider/Banner-Implementos/tira-tabua-principal-implementos-tita-tabua-600x250.png 0 1 292484 
+/wp-content/themes/twentytwenty/404.php 1 1 195 
+/wp-content/uploads/layerslider/Home/slide4-1024x780.jpg 0 21 2071040 
+/wp-content/themes/Avada/assets/min/js/general/avada-select.js 0 778 332982 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-23.png 0 249 20451109 
+/wp-json/wp/v2/pages/149 4 4 81207 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js 0 689 1188800 
+/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js 0 667 2640595 
+/wp-content/uploads/layerslider/Celebre-Bristol-copy/banner-1200x675.jpg 0 1 167715 
+/wp-json/wp/v2/users/ 3 3 23169 
+/wp-content/themes/Avada/assets/min/js/general/avada-skip-link-focus-fix.js 0 785 186974 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-768x158.png 0 33 3710200 
+/wp-content/uploads/2023/07/bitc21hd.jpg 0 245 1051237 
+/category-sitemap.xml 0 5 1978 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-6-1-460x295.jpg 0 10 359090 
+/wp-content/cache/wpfc-minified/m7v5m778/fg2yb.js 0 473 15227825 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-14-3.jpg 0 35 4433226 
+/wp-json/wp/v2/pages/347 3 3 16813 
+/wp-content/uploads/layerslider/Banner-Guindaste/hb-18-principal-perfuratrizes-guindaste-hb-18-768x320.png 0 1 513884 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png 0 1 502 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-5-460x295.jpg 0 8 276152 
+/wp-admin/js/customize-controls.min.js 0 3 335100 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-4.jpg 0 30 2331750 
+/wp-content/uploads/layerslider/Banner-HB-55/banner-hb-55.png 0 28 16730896 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery.js 0 131 493458 
+//wp-content/cache/wpfc-minified/m7v5m778/fg2yb.js 0 3 103200 
+/wp-json/wp/v2/pages/11228 4 4 54408 
+/wp-content/uploads/layerslider/Banner-Escavadeira/HB-55-capa-perfuratrizes-escavadeira-Hb-55.png 0 30 25577610 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js 0 673 1442706 
+/wp-json/wp/v2/pages/359 1 1 46895 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js 0 692 229658 
+/wp-json/wp/v2/pages/19129 3 3 24969 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-23.png 0 25 2265525 
+/2018/05/ 1 1 10301 
+/wp-content/uploads/layerslider/Home/slide4-600x457.jpg 0 3 119703 
+/wp-content/uploads/layerslider/Banner-HB-23/hb-23-capa-perfuratrizes-hb-23-retro-1024x427.png 0 2 1609040 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png 0 2 486 
+/wp-json/wp/v2/pages/18 3 3 10759 
+/wp-content/uploads/layerslider/Banner-Implementos/Furadeira_Banner_Implementos-1200x500.png 0 3 2137308 
+/wp-json/wp/v2/pages/131 4 4 32488 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-60-4-460x295.jpg 0 18 725968 
+/wp-content/uploads/layerslider/Banner-Trator/banner-trator-1024x576.png 0 2 1634124 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js 0 682 433559 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.carouFredSel.js 0 141 1762723 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HT-10-3-460x295.jpg 0 17 430710 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/facebook_16.png 0 20 9538 
+/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js 0 684 542395 
+/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js 0 750 689154 
+/wp-json/wp/v2/pages/19470 3 3 12245 
+/wp-content/uploads/layerslider/Banner-HB-55/HB-55-capa-perfuratrizes-escavadeira-Hb-55.png 0 28 23872436 
+/wp-content/uploads/layerslider/Banner-HT-60/HT-60-trator-HT-60-1-1-1536x640.png 0 3 4966854 
+/wp-content/uploads/2018/05/logo-bristol-mini.png 0 531 1626310 
+/wp-content/uploads/2023/07/porta-bit-600x595-1-400x397.jpg 0 46 566016 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-55-400x425.png 0 43 2086560 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js 0 815 5114843 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js 0 233 10282714 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/hb-23-capa-perfuratrizes-hb-23-retro-1024x427.png 0 2 1609040 
+/wp-content/uploads/2023/07/mangueira-hidraulica.jpg 0 27 602586 
+/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/v5/skin.css 0 316 202130 
+/post-sitemap.xml 0 12 4581 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-5.jpg 0 30 2321790 
+/wp-content/uploads/fusion-styles/9ec2079be21573c1e89f7f7c4a1a2a24.min.css 0 31 3475494 
+/wp-content/uploads/2018/05/Ahoyadora-excavadora.jpg 0 2 376606 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/imagesLoaded.js 0 134 273427 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-23-400x425.png 0 51 2453528 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-waypoints.js 0 687 163039 
+/wp-content/uploads/layerslider/Banner-Trator/banner-trator.png 0 38 33141396 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/digg_16.png 0 20 12749 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14-6-460x295.jpg 0 8 287272 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js 0 1063 3490554 
+/wp-content/uploads/2018/05/FOTOADICIONAL4.jpg 0 24 1529520 
+/wp-content/uploads/2023/01/Ahoyadora-Hidraulica-HB-14.png 0 217 19473565 
+/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-23-1-320x202.jpg 0 24 561936 
+/wp-content/uploads/layerslider/Banner-Implementos/Fumigador_Banner_Implementos-768x320.png 0 6 1378950 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.touchSwipe.js 0 139 448321 
+/wp-content/cache/wpfc-minified/6l8ovxx5/bq0yx.css 0 38 4741513 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.sticky-kit.js 0 677 1467878 
+/wp-content/uploads/layerslider/Banner-Implementos/Furadeira_Banner_Implementos-600x250.png 0 1 195022 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js 0 775 429597 
+/wp-json/wp/v2/pages/387 3 3 19838 
+/wp-content/uploads/2023/07/suporte-para-mini-cargadora-3-200x212.jpg 0 1 10072 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js 0 693 567711 
+/wp-content/uploads/layerslider/Banner-Retroescavadeira/pr-134-perfuratrizes-retro-pr-134-1-1-1536x640.png 0 2 2913366 
+/wp-json/wp/v2/pages/19497 3 3 14710 
+/wp-content/uploads/fusion-styles/30ee511ef4f626a20d755008f67a4162.min.css 0 11 1287260 
+/wp-content/uploads/2021/06/TRADO-CONCHA.png 0 25 877272 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js 0 691 325636 
+END_EXTRA_2
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1384
+54.246.218.109 258 341 2420904 20240417133716
+35.92.12.184 254 337 2381203 20240417124806
+35.182.243.182 254 335 2375770 20240417125937
+213.219.247.106 55 55 3758812 20240429144407
+193.188.21.49 50 50 3416996 20240428055512
+89.22.235.136 50 50 3417083 20240428134555
+194.113.106.9 48 48 3280316 20240428133157
+213.219.247.125 47 47 3211970 20240429090744
+2803:a920:8c1:2300:9d60:ba7e:4a59:591c 44 292 12530693 20240421202130
+89.22.233.74 40 40 2733608 20240428192923
+2400:8904::f03c:94ff:fe78:411f 1 1 96929 20240416184027
+190.211.73.162 5 104 3787416 20240415152210
+168.195.201.91 0 2 1710 
+181.239.46.169 5 104 3755512 20240426154741
+201.217.246.122 6 79 899293 20240405142500
+147.45.50.18 8 12 69016 20240430023558
+172.255.94.250 1 1 177 20240414165328
+3.15.156.140 0 1 244372 
+23.106.27.224 1 1 13188 20240426123658
+177.106.48.159 1 1 9024 20240405091609
+186.143.135.1 6 112 4187097 20240415084614
+103.27.238.102 1 1 15913 20240421050109
+182.204.143.145 1 1 15844 20240428010119
+2803:b9c0:43c6:fc88:9df7:633d:f7d3:ce4d 2 2 31688 20240404160531
+45.178.85.28 7 120 2736722 20240407100713
+34.38.71.91 0 4 3420 
+123.186.79.196 1 1 15845 20240421102859
+168.194.140.243 5 100 3766580 20240403160153
+200.61.247.178 8 187 3970807 20240429150518
+181.202.112.129 5 104 3755552 20240403105337
+87.249.132.24 3 3 167099 20240424205201
+45.185.206.44 5 104 3755549 20240426063303
+3.85.129.91 0 2 1710 
+2800:2507:8:b47a:1:0:5b0c:e915 11 138 11888148 20240404074845
+137.74.205.32 2 2 31687 20240411030049
+120.227.240.137 1 1 15843 20240417161624
+190.183.7.246 2 198 444 20240419133227
+34.77.82.197 0 2 1710 
+181.47.187.56 8 103 2956718 20240426104708
+37.139.53.87 3 3 47755 20240418210528
+39.148.64.208 1 1 15843 20240413061843
+167.249.55.127 0 1 36581 
+123.186.78.2 2 2 31688 20240420233920
+93.158.90.46 0 1 391 
+181.124.128.200 6 77 884422 20240413123755
+130.255.166.51 1 1 15844 20240425215700
+27.115.124.40 1 1 15844 20240404211215
+201.220.167.89 1 1 9017 20240405091236
+181.94.50.214 5 100 4079830 20240429185131
+168.195.99.110 1 1 9017 20240405091033
+54.167.2.242 0 2 1710 
+82.209.181.229 0 1 1066 
+193.188.21.238 38 38 2596922 20240428184906
+132.68.39.11 0 1 3319 
+190.123.157.198 0 1 347263 
+37.123.187.233 0 1 832 
+165.227.202.98 1 1 15844 20240425171032
+109.228.157.201 0 3 2214 
+182.43.70.143 1 1 15845 20240416003549
+181.23.131.29 0 2 333866 
+34.141.215.20 2 2 31688 20240417055244
+39.165.158.179 1 1 15845 20240405023745
+2a03:4000:0:416:6816:20ff:fe0c:a3de 1 1 97374 20240426125439
+190.7.60.146 0 1 127694 
+2804:13c:408:600:b405:b37a:6386:a166 1 1 96928 20240406132850
+10.66.130.80 10 84 1672606 20240415134746
+196.199.40.21 1 1 13189 20240426084904
+2806:262:5400:1524:9d53:a6be:68d8:db0 5 83 898751 20240403095512
+18.217.60.35 0 1 880576 
+123.6.49.47 0 3 2702 
+192.95.30.227 1 1 15965 20240412035014
+34.76.214.1 0 4 3420 
+40.94.33.57 0 1 1136469 
+103.123.45.74 1 1 15913 20240419033756
+104.168.141.137 2 3 17089 20240415025754
+2002:77bc:f670::77bc:f670 1 1 15844 20240425070307
+72.50.4.79 0 1 130202 
+186.225.11.226 28 102 2412126 20240429084544
+37.123.187.231 0 2 650 
+212.106.221.4 0 1 784 
+2800:a4:1b28:1500:f18d:f243:7b67:13b2 0 6 364529 
+186.22.62.104 5 104 3755552 20240404174950
+62.127.102.229 0 1 3023 
+177.240.139.160 0 2 1710 
+205.169.39.227 0 2 1710 
+84.208.42.72 0 1 761 
+104.168.141.171 2 3 17086 20240429054218
+116.203.133.20 1 1 15845 20240426052735
+217.115.45.197 0 3 129377 
+120.227.159.6 1 1 15844 20240429140007
+212.142.160.101 0 2 4452 
+37.19.223.101 3 3 167099 20240420154725
+45.178.1.119 5 104 3755550 20240408220231
+104.168.147.45 2 3 17086 20240427175142
+5.133.192.138 1 1 15845 20240420214938
+217.15.102.4 1 5 9118 20240403041955
+102.165.16.200 2 3 17085 20240402165244
+190.103.89.140 0 2 258083 
+35.210.151.25 3 108 467367 20240414150227
+34.132.209.112 0 2 1710 
+89.22.234.3 30 30 1984569 20240428213819
+181.209.83.114 5 97 4227986 20240401184057
+190.181.21.99 11 99 10121472 20240401093844
+54.89.163.105 0 2 1710 
+5.133.192.94 1 1 15842 20240426172803
+208.100.26.237 1 1 15843 20240417200845
+45.130.202.216 0 1 3957 
+190.175.91.120 4 77 867607 20240409115501
+2001:4860:7:701::fe 6 6 100058 20240429204521
+39.165.158.182 1 1 15844 20240423113322
+168.91.32.82 0 2 1710 
+46.151.27.193 1 1 70225 20240429000454
+115.166.169.7 4 90 2805168 20240422174232
+186.104.118.185 0 2 1710 
+200.71.1.89 8 101 4224207 20240415110029
+34.38.187.78 0 4 3420 
+83.255.237.36 0 1 337 
+77.26.81.53 0 2 1710 
+177.248.152.104 5 96 4728417 20240418185035
+190.194.23.49 7 80 687131 20240405142622
+146.148.25.230 0 2 1710 
+181.230.230.72 0 2 233662 
+3.19.222.118 8 139 859503 20240428094707
+190.226.248.9 5 104 3787413 20240411173109
+109.105.109.199 0 1 849 
+54.191.223.213 1 1 15842 20240411065418
+186.12.104.138 0 1 0 
+147.161.85.182 0 1 101351 
+2806:370:7357:b2db:1:0:2af2:a257 0 1 104142 
+193.188.20.66 26 26 1776836 20240428195924
+34.79.105.156 0 2 1710 
+190.221.9.162 6 109 5056643 20240403123746
+190.235.44.123 0 2 0 
+188.166.44.110 1 1 15844 20240410071612
+191.177.138.140 1 1 8605 20240405085331
+206.72.195.45 2 2 193859 20240410073838
+193.90.147.6 0 1 3890 
+170.80.37.116 0 2 1710 
+34.147.88.45 1 1 15844 20240412041802
+209.170.91.202 0 2 1710 
+202.180.27.154 1 1 15914 20240418021825
+223.88.223.73 1 1 15845 20240414204435
+191.156.47.30 0 1 718 
+81.167.35.200 1 1 15844 20240415101517
+45.229.153.84 0 1 244372 
+104.168.132.41 2 3 17085 20240402183310
+190.142.91.11 0 2 1710 
+45.178.1.113 6 94 2397618 20240429193252
+37.139.53.84 4 4 387716 20240419051933
+2800:2502:125:96a8:1:0:f2b2:2fc 5 104 3755549 20240410124811
+194.26.192.165 1 1 0 20240428081918
+190.108.194.242 10 123 10235036 20240419083915
+165.232.177.215 1 1 15844 20240424025600
+2001:41d0:1:a34a::1 2 2 15863 20240412235815
+66.249.92.148 5 146 3341220 20240429210906
+43.163.0.99 1 1 15843 20240402042255
+38.25.15.81 10 84 1867675 20240404110627
+45.176.88.61 23 195 18396698 20240419204701
+223.88.239.236 1 1 15844 20240419115231
+190.246.136.186 0 1 115427 
+150.136.92.54 6 6 95064 20240417022007
+181.106.244.251 9 110 3952782 20240410160108
+190.136.4.148 5 104 3787411 20240412110729
+161.35.23.233 1 1 15844 20240411173119
+190.239.79.36 5 100 2167653 20240411110418
+34.79.48.4 0 2 1710 
+42.202.21.214 1 1 15844 20240415100349
+40.94.34.100 1 15 10476411 20240409191038
+34.91.36.231 1 1 15842 20240411035151
+177.55.229.240 1 1 8908 20240405092002
+113.219.218.197 1 1 15842 20240426181702
+170.245.133.220 0 2 1710 
+68.183.25.44 1 1 15843 20240417152704
+31.173.83.141 4 4 387708 20240412023212
+2800:810:488:1293:fc05:fb20:33fa:26da 5 104 3787416 20240410003214
+182.204.142.86 1 1 15845 20240416081223
+2804:d55:4706:ac00:a99e:7ed:9e2d:3808 15 89 1792831 20240410134801
+190.237.181.180 0 4 1710 
+2001:1460:2:3:1c00:dcff:fe00:3301 18 18 266449 20240427160554
+2803:a920:8c1:2300:e836:4217:9ba1:d166 4 6 78408 20240421190233
+40.94.90.13 1 16 972331 20240412111751
+186.5.240.253 5 87 901521 20240402123148
+170.246.21.12 11 122 9013568 20240426230634
+181.16.227.54 23 244 10918887 20240429204839
+2800:af0:100d:5537:49f:5375:5df8:c85a 6 74 831943 20240411080048
+109.228.157.200 0 1 5319 
+186.173.4.4 3 92 3229752 20240414164357
+82.147.54.229 0 1 363 
+35.187.35.120 0 2 1710 
+23.81.152.2 1 1 177 20240421012407
+39.165.154.79 1 1 15843 20240410000239
+34.141.252.55 1 1 15843 20240430103508
+23.106.18.144 1 1 13122 20240411154042
+201.220.17.50 5 104 3755552 20240401231345
+196.242.89.59 0 1 3957 
+199.45.155.52 1 1 15842 20240401034751
+190.195.175.227 5 83 2032198 20240405052131
+2800:a4:30d7:5300:fc25:93ea:12b2:3288 5 86 3835437 20240409193446
+120.227.158.3 1 1 15844 20240428050031
+170.51.92.19 11 134 7081463 20240430180225
+222.81.30.8 1 1 15843 20240418181216
+186.11.13.126 8 118 4179449 20240404125747
+179.174.57.210 1 1 8908 20240405090916
+46.227.113.6 10 200 5873094 20240423083226
+45.183.52.7 5 72 667810 20240404232025
+2606:cc0:11:169::f 1 1 1700 20240424130102
+44.197.183.24 1 1 15844 20240429045108
+186.65.108.21 9 116 3582280 20240412103144
+212.106.221.101 0 1 3831 
+123.245.128.98 1 1 15843 20240413041315
+23.106.27.217 1 1 177 20240411154046
+2803:9810:4304:da10:acaa:206f:4f13:d87f 0 2 1710 
+66.249.85.104 2 2 40307 20240414183635
+186.143.166.21 5 92 5777767 20240416161318
+186.122.89.186 1 1 8908 20240405090708
+190.16.185.45 1 8 578642 20240414202228
+181.105.129.206 10 206 8339332 20240408204130
+208.100.26.243 4 4 63372 20240424111621
+36.110.140.234 0 1 3319 
+87.251.66.223 0 4 312878 
+47.240.21.19 1 1 15914 20240423040742
+191.156.53.152 0 2 1710 
+181.14.221.253 4 101 3716649 20240403204814
+181.78.14.34 8 128 5027387 20240416091909
+2800:ac:c012:1143:4d9d:b019:5793:34ef 0 1 103552 
+69.167.29.49 1 1 0 20240418092512
+186.143.200.27 5 104 4082626 20240419172913
+85.209.11.117 3 3 167095 20240414070930
+181.94.87.242 7 87 7730637 20240406114629
+148.222.129.8 5 92 2424016 20240415065427
+123.6.49.9 1 1 15845 20240430173122
+181.124.26.203 0 2 1710 
+212.102.35.30 2 2 97136 20240408175206
+2800:2503:e:f1d9:1:0:8598:fd5e 11 136 4379985 20240413192445
+104.168.167.147 2 3 17088 20240424224619
+190.217.106.2 6 77 753365 20240419003036
+120.228.237.90 1 1 15844 20240423121046
+123.244.128.248 1 1 15844 20240421224129
+190.239.79.153 7 119 2887690 20240405194407
+2604:2dc0:200:2730:: 1 1 15913 20240417154558
+40.94.90.100 3 5 107039 20240412111810
+43.155.183.138 1 1 15844 20240422015003
+154.223.17.210 1 2 50244 20240422175232
+186.57.139.176 1 1 0 20240420114925
+120.227.158.180 1 1 15844 20240416204350
+186.136.164.123 5 104 3755551 20240402194659
+132.255.8.220 5 104 3787414 20240421184046
+2a01:4f9:3b:268d::2 10 10 151193 20240401172540
+2800:c70:9:db24:1:2:c8e2:6749 4 98 3751483 20240425145337
+186.111.142.246 5 72 659665 20240403171508
+46.148.206.226 3 3 140654 20240402044830
+186.141.200.57 15 144 6505862 20240416184036
+186.96.26.95 1 1 9044 20240405090840
+185.125.50.5 39 47 520832 20240430182053
+143.110.188.17 1 2 50244 20240421193735
+205.169.39.218 0 2 1710 
+193.38.235.158 34 34 2323564 20240428210445
+190.176.79.162 5 100 2936558 20240404185307
+123.186.75.237 1 1 15845 20240416052253
+66.249.66.86 2 2 29781 20240422160323
+2806:264:548c:1164:d9be:54c4:ca30:dbd7 0 2 1710 
+152.156.222.173 0 1 3319 
+93.156.219.6 13 110 166407 20240408142815
+45.174.243.1 0 1 347263 
+91.92.242.128 0 1 30908 
+181.209.83.178 8 103 2956857 20240406102352
+190.120.188.154 5 91 1082903 20240409115040
+23.106.20.16 0 1 3957 
+189.214.6.46 0 2 1710 
+188.214.152.236 2 2 32032 20240424160513
+84.16.192.228 0 4 86537 
+34.38.83.175 0 4 3420 
+181.209.114.139 0 1 347263 
+104.168.142.181 2 3 17089 20240414161622
+2803:2a01:2:806f:1c44:17ff:fe55:5bf 5 98 3834784 20240418081339
+213.163.64.39 3 3 167099 20240430175659
+2001:4860:7:70d::ff 1 1 15730 20240403205733
+42.202.21.93 1 1 15843 20240417092302
+190.25.120.109 0 2 142789 
+34.147.91.161 1 1 15845 20240421072132
+185.7.192.164 0 3 39861 
+173.0.9.9 1 1 177 20240417115523
+172.255.94.220 0 1 3957 
+93.82.141.218 3 3 167097 20240404192718
+5.133.192.167 1 1 15845 20240403110249
+27.115.124.118 11 82 1132552 20240417153256
+200.45.171.42 5 100 2936696 20240404164605
+94.247.172.129 1 1 15844 20240425092357
+208.100.26.236 2 2 31688 20240406100438
+186.249.186.96 20 110 10256306 20240430042630
+43.128.110.17 1 1 15845 20240409084504
+18.237.227.124 0 1 87773 
+146.70.189.143 2 3 17086 20240417095833
+2800:2503:e:329a:1:0:9b28:9f50 5 104 3755549 20240416123445
+223.88.223.210 1 1 15843 20240430054735
+74.125.212.68 4 28 406899 20240415011552
+186.134.142.150 12 110 4584715 20240402185018
+18.236.177.216 0 1 3319 
+167.99.199.48 1 1 15843 20240405173737
+39.163.153.113 1 1 15845 20240415053807
+104.168.162.169 2 3 17090 20240412035357
+182.204.142.0 1 1 15844 20240427173013
+170.78.195.206 11 118 5997719 20240407113208
+190.236.12.174 0 2 0 
+83.255.237.38 0 3 8111 
+179.49.125.197 5 87 982555 20240416133210
+198.12.40.19 9 97 5481454 20240416161017
+36.133.172.82 1 1 15845 20240402232531
+36.134.147.75 5 5 79221 20240419011010
+40.94.28.63 0 1 1136469 
+198.240.90.224 2 2 13299 20240429010535
+190.106.85.217 8 106 6367558 20240411224442
+2001:4860:7:701::ff 24 24 406427 20240430230722
+120.219.151.127 1 1 15842 20240417204247
+40.94.33.45 1 1 17357 20240409193501
+168.197.200.41 14 141 4779943 20240415114800
+201.230.200.140 0 3 364529 
+120.227.240.210 1 1 15843 20240417141156
+186.64.76.199 8 131 4426379 20240422091534
+191.80.171.141 10 158 2236403 20240419113546
+35.240.109.220 0 4 3420 
+74.125.212.67 3 17 256068 20240415011552
+104.168.140.56 2 3 17118 20240412192351
+2800:2502:1:b928:4d87:17ad:dfa2:ec69 5 104 3787413 20240410074902
+154.16.192.131 1 1 12954 20240410011224
+85.203.44.194 1 1 67824 20240413020051
+137.184.174.45 1 1 15843 20240413164623
+34.83.221.62 2 2 172874 20240409091508
+2800:810:433:80dc:2864:d256:f70c:1f41 11 123 9954864 20240416191049
+200.71.31.208 8 127 5848153 20240410090008
+200.81.169.149 8 95 6139892 20240416181056
+37.123.187.228 0 3 395179 
+2001:4860:7:301::fc 1 1 18527 20240410110203
+212.106.221.69 0 1 5086 
+61.147.93.121 3 3 212241 20240419044738
+47.104.14.110 1 1 12952 20240408091227
+185.197.74.6 30 30 2050192 20240428180701
+206.204.157.41 0 1 101351 
+2401:fa00:86:200:3053:1731:16b9:a6a0 14 109 2996982 20240422161232
+186.138.45.35 5 83 979776 20240429145444
+77.222.108.160 4 4 387724 20240412134916
+199.45.155.53 1 1 15844 20240422172225
+83.217.9.94 6 6 334198 20240423223828
+190.190.137.193 17 149 8740064 20240409094324
+39.163.152.69 1 1 15844 20240429051751
+2600:3c01::f03c:92ff:feda:149b 0 2 1710 
+2.57.169.137 1 2 4134 20240403021853
+182.204.141.130 1 1 15844 20240411125028
+2804:18:111a:ce42:dca0:ef92:c337:923b 11 130 4923912 20240409165318
+177.54.11.115 1 1 9024 20240405092116
+34.147.28.155 1 1 15845 20240420065004
+23.82.184.49 1 1 70014 20240405055924
+186.189.71.78 2 4 459016 20240413004517
+37.120.174.229 2 2 193854 20240428055659
+104.168.134.12 2 3 17088 20240418150002
+66.249.85.41 2 2 40306 20240410051504
+64.23.142.170 1 1 15844 20240423153826
+2001:4860:7:30d::ff 1 1 15730 20240403054824
+34.78.14.17 0 2 1710 
+90.160.195.4 0 1 334 
+132.145.133.86 3 125 524406 20240416220853
+45.227.185.42 15 119 4351478 20240417090351
+206.168.34.182 1 1 15842 20240401043017
+170.78.116.133 5 100 2936544 20240429090441
+175.22.90.31 1 1 15844 20240429193204
+2803:b9c0:43c6:fc88:20f7:c008:c2d5:f67a 5 69 1389217 20240407223919
+62.127.102.168 0 1 34400 
+120.227.241.114 1 1 15845 20240420122432
+167.94.138.120 1 1 15844 20240425053656
+190.136.106.116 37 159 10868502 20240405182828
+150.109.253.34 1 1 15845 20240415041704
+181.230.181.46 5 104 3755551 20240401174406
+104.168.134.65 2 3 17086 20240407144344
+31.148.131.207 1 1 18755 20240418031717
+181.177.219.34 0 3 364529 
+109.105.109.197 0 1 373 
+186.141.137.223 3 74 537271 20240415150141
+95.165.157.34 4 4 282244 20240424155403
+5.182.110.235 1 1 12953 20240420065257
+212.142.160.69 0 1 394505 
+138.97.237.111 5 104 3787414 20240413200330
+186.141.202.173 9 124 4586955 20240419192721
+196.199.40.250 0 1 3957 
+82.209.181.230 0 1 992 
+172.68.222.132 1 1 18330 20240423025126
+189.230.24.167 5 78 672306 20240408213814
+54.90.153.14 0 2 1710 
+181.117.229.157 5 92 2134951 20240429141124
+190.211.73.26 1 1 0 20240408082619
+93.158.90.32 1 1 15844 20240415105035
+110.154.97.151 1 1 15842 20240418003629
+43.159.129.209 1 1 15845 20240420180631
+35.195.183.97 0 2 1710 
+212.142.160.199 0 1 1989 
+138.97.226.255 10 82 1132493 20240418205605
+190.189.252.21 5 90 2971481 20240419074354
+39.154.241.90 1 1 15844 20240427210001
+190.111.205.166 5 94 4172807 20240411162447
+34.235.127.89 0 2 1710 
+141.98.11.67 0 1 30908 
+62.3.54.178 0 1 3957 
+62.122.184.194 9 9 485471 20240429201803
+190.89.236.117 5 104 3755549 20240418090133
+34.38.48.232 0 2 1710 
+181.9.175.6 5 74 669519 20240415011551
+192.186.168.154 0 2 1710 
+223.88.228.30 1 1 15844 20240428210017
+190.13.95.20 5 100 4079831 20240416111531
+45.177.1.242 5 104 3787292 20240420193021
+42.202.17.156 1 1 15843 20240413084610
+124.226.222.66 1 1 15844 20240429030702
+110.154.96.94 1 1 15844 20240429190719
+104.168.194.240 2 3 17088 20240420232809
+123.245.128.224 1 1 15842 20240411073402
+201.219.234.50 7 169 4466627 20240413004147
+34.91.213.89 1 1 15845 20240409031715
+192.36.109.127 0 1 391 
+27.115.124.48 1 1 96930 20240404210934
+179.51.239.36 19 147 8866191 20240415210556
+149.34.244.165 3 3 194111 20240417023137
+35.241.232.100 0 2 1710 
+190.57.93.89 0 2 474957 
+2a01:7e01::f03c:92ff:fe0a:28bb 2 4 318584 20240406084555
+40.94.28.83 4 72 430752 20240408083334
+51.159.37.51 4 4 28913 20240416155915
+2802:8010:3464:b700:1c09:10f3:2e13:2a1a 5 104 3787415 20240427165407
+179.60.239.18 5 104 3755556 20240401164601
+2800:200:ff30:af2:79cd:2284:da13:d2ce 23 223 7811966 20240409172234
+2800:2505:8:24fe:1:0:9e15:3657 8 100 1669290 20240429210749
+120.228.236.138 1 1 15844 20240419181942
+3.135.189.238 8 139 859503 20240429102725
+194.60.201.161 10 10 151199 20240406230849
+46.8.212.31 1 1 15843 20240402174846
+39.163.154.99 1 1 15844 20240429093958
+181.15.96.4 5 100 2583528 20240422210657
+120.219.151.251 1 1 15844 20240422210310
+213.219.247.57 33 33 2255265 20240428181504
+64.207.187.220 1 1 97373 20240428145021
+45.228.178.9 7 86 1131538 20240402105352
+110.154.103.46 1 1 15845 20240415001421
+72.50.6.124 1 12 525173 20240415124110
+193.188.20.96 38 38 2596924 20240428182704
+199.45.154.52 1 1 15845 20240403231510
+186.143.161.177 4 84 1888501 20240414095211
+190.104.176.41 0 1 130202 
+89.22.232.186 38 38 2597022 20240429150659
+152.170.1.73 19 349 5695269 20240416203338
+200.69.49.244 14 104 6308238 20240416161707
+23.82.111.135 1 1 13120 20240414165307
+2001:4860:7:70a::f4 1 1 14314 20240412231126
+81.167.35.197 0 1 849 
+123.245.128.49 1 1 15844 20240428083312
+2800:810:596:18ed:3007:6e86:85d:cdd6 1 64 393523 20240416131755
+80.202.12.134 0 2 5774 
+2800:2507:a:2c9a:1:0:64f1:177f 11 137 7855009 20240405105525
+186.250.91.39 1 1 9016 20240405091956
+201.211.171.119 1 1 9017 20240405092018
+2604:2dc0:200:1d15:: 1 1 15913 20240418225528
+181.228.142.199 5 104 3755550 20240430010818
+2a09:bac2:c4:1b9::2c:ff 0 4 3420 
+170.244.55.109 5 92 2415836 20240410100910
+201.175.218.53 0 2 1710 
+84.208.42.5 0 1 1989 
+110.154.102.20 1 1 15845 20240416132313
+40.94.104.66 2 2 29043 20240404115829
+45.236.81.12 5 75 821575 20240428214109
+104.168.143.201 2 3 17088 20240409202100
+200.68.180.136 0 2 1710 
+139.180.165.173 0 1 85124 
+123.186.75.139 1 1 15844 20240418074439
+45.167.18.198 5 100 2936562 20240422160318
+200.229.252.20 1 2 222 20240413102804
+179.61.241.23 0 1 3957 
+45.189.192.2 12 114 3570765 20240427080546
+2a07:b400:51e:103:e22:42d4:b195:3952 1 1 96929 20240404083036
+200.115.55.251 13 132 7480600 20240405080550
+39.165.158.175 1 1 15877 20240410171916
+120.228.236.50 1 1 15845 20240414140627
+185.7.192.165 0 1 1987 
+186.141.230.191 0 4 372644 
+177.226.70.48 0 2 1710 
+27.115.124.70 5 151 1487946 20240417153251
+2605:340::1 0 1 3319 
+54.250.33.123 0 1 3319 
+152.42.165.168 1 1 7723 20240406145219
+62.127.102.171 0 1 1989 
+187.190.202.197 0 3 364529 
+2800:a4:1c55:ff00:f024:e8be:a26:10a0 4 82 2788637 20240403205743
+51.38.135.19 0 6 5130 
+64.23.196.159 1 1 15844 20240427164208
+79.116.115.138 8 120 4616396 20240401183905
+203.192.202.27 0 2 1710 
+186.189.71.84 13 130 4902877 20240413003218
+27.115.124.109 0 1 992 
+186.130.79.160 5 75 820594 20240421222508
+206.0.85.90 3 3 16380 20240411105609
+38.51.31.175 4 102 3754293 20240415202221
+200.71.91.251 0 5 350956 
+172.94.10.15 2 3 17253 20240407103806
+2803:b9c0:43c6:fc88:45ae:acea:fd89:a7d5 5 76 1431210 20240405234327
+34.141.178.234 3 3 47531 20240429102356
+123.186.78.180 1 1 15845 20240420112912
+186.64.96.16 8 106 3415235 20240414170447
+2803:2d60:1012:f533:e8f7:8c04:6f03:4ede 0 1 104142 
+84.16.192.229 0 1 1972 
+64.120.34.103 1 1 177 20240427144316
+223.89.217.113 1 1 15845 20240420025324
+94.25.171.135 2 2 97134 20240425221844
+143.137.113.5 5 100 2936547 20240422131647
+138.121.114.142 5 102 3753839 20240420150047
+85.203.44.178 1 1 96928 20240413020056
+64.23.223.245 1 1 15844 20240418084623
+89.22.232.206 28 28 1782318 20240428010826
+79.117.255.134 0 1 621 
+120.227.158.28 1 1 15844 20240427144142
+186.13.97.130 1 1 0 20240410141331
+2800:810:525:769:61ee:b79d:8cec:9acc 8 115 5589346 20240406135528
+84.208.42.71 0 2 1052 
+40.94.90.29 0 36 296298 
+84.17.49.95 3 3 167094 20240408062050
+186.12.0.187 5 104 3787413 20240418114320
+181.239.159.218 10 120 8599299 20240410150453
+185.201.188.48 1 1 15844 20240425114326
+40.94.28.100 1 14 9316826 20240408083338
+178.208.169.134 1 1 0 20240411185027
+188.214.152.228 2 2 32028 20240428160850
+34.79.170.216 0 2 1710 
+200.122.74.72 5 100 2936561 20240426175454
+190.104.33.38 6 78 753939 20240412132156
+201.32.95.226 1 1 9021 20240405090436
+54.75.37.6 5 81 1512532 20240430080958
+43.133.38.182 1 1 15844 20240408042009
+45.70.89.89 5 97 3487521 20240418211436
+45.225.128.59 1 1 9024 20240405090217
+2800:2503:123:7122:adcf:b8df:a6ef:ade8 1 64 393523 20240416094129
+190.128.220.189 4 80 613778 20240411232852
+43.159.63.75 1 1 15843 20240406230225
+38.35.251.144 5 106 6360497 20240418235049
+152.228.142.232 1 1 15913 20240417211500
+2800:c70:86:7fc9:1:1:6582:5005 4 74 505578 20240419115014
+27.115.124.53 6 226 2280953 20240417153312
+180.102.134.69 1 1 15843 20240409182637
+165.232.119.221 1 1 15844 20240421170704
+34.174.255.136 2 3 105793 20240416155333
+143.0.19.79 3 3 47535 20240424184259
+89.22.235.74 38 38 2596920 20240428181213
+130.255.162.249 1 1 15845 20240421000507
+134.209.184.129 1 1 15914 20240424161648
+100.26.42.122 5 77 358438 20240406011018
+120.227.158.56 1 1 15844 20240419173756
+181.92.112.66 7 118 4417492 20240412083917
+34.168.171.29 1 1 96930 20240404202013
+128.199.61.64 1 1 15844 20240407163733
+123.6.49.50 2 148 1589164 20240413152809
+142.93.209.143 1 1 15914 20240424083353
+181.115.133.63 0 1 130202 
+2607:ff10:c8:594::6 3 3 47531 20240421191256
+104.168.138.191 2 3 17085 20240405031216
+81.167.38.5 0 3 3711 
+186.143.200.138 9 107 3407040 20240421101421
+186.12.204.178 6 78 638795 20240407081809
+186.143.133.149 5 104 3787412 20240417132600
+201.131.175.181 1 1 9013 20240405091012
+151.55.174.111 1 1 15844 20240423180902
+189.113.48.214 0 2 1710 
+190.60.34.92 0 2 1710 
+2806:370:426e:47d8:56e0:88d7:6ff7:4470 0 2 1710 
+192.71.227.151 3 3 167361 20240410061229
+201.25.204.236 1 1 9022 20240405092314
+179.6.164.240 5 94 2980869 20240412015005
+46.8.16.76 1 1 96931 20240402235918
+173.61.188.106 0 2 1710 
+2800:200:ff30:af2:5d3c:3271:3ac1:9a3c 11 127 5834146 20240409181819
+190.57.199.49 5 80 1622341 20240404022131
+37.123.187.232 0 2 216907 
+186.84.88.178 0 1 103430 
+45.172.29.0 8 90 9133562 20240424222918
+181.238.69.247 4 74 505578 20240415121710
+34.147.49.101 3 3 47532 20240427092208
+212.56.131.70 2 5 511822 20240403041952
+109.228.157.197 0 3 2283 
+2a01:5a60:4::da 10 10 151204 20240403200659
+2001:4860:7:30b::ff 1 1 18526 20240425120519
+35.240.68.169 0 4 3420 
+101.36.127.24 1 2 19164 20240412112937
+2001:4ba0:cafe:b2c::1 2 2 31686 20240413202532
+190.15.219.139 10 180 5606423 20240424111317
+45.168.192.76 5 78 744845 20240415222233
+2803:9800:9849:82f6:409e:f9b4:3685:7c32 13 115 4063590 20240426194313
+212.106.221.70 0 1 1365 
+149.28.183.173 0 1 85124 
+146.70.189.241 2 3 17086 20240428060521
+2800:484:b693:fe00:a0cf:9bca:a0a:fe6c 5 100 3784605 20240407194333
+178.208.168.208 1 1 0 20240425092650
+75.102.54.178 0 1 3319 
+93.158.91.29 1 1 15845 20240415020843
+18.237.111.49 0 1 88213 
+128.14.159.252 1 1 15843 20240406013402
+46.222.138.59 0 1 101351 
+103.164.81.98 2 2 31686 20240417054116
+187.62.95.76 18 208 11146279 20240411103914
+2803:b9c0:43c0:f888:45d8:ee08:a2a2:6253 3 6 213977 20240410235849
+35.240.68.69 0 2 1710 
+187.72.174.173 1 1 9044 20240405085706
+195.235.124.150 0 1 347263 
+188.126.94.213 3 3 167143 20240401090435
+40.94.28.16 0 1 1035431 
+179.61.241.21 2 2 13132 20240415041411
+38.51.65.202 0 1 236476 
+223.244.35.77 1 1 15844 20240407181519
+34.79.14.18 0 4 3420 
+190.236.10.82 0 2 1710 
+2803:9800:9992:92c8:5d4f:71d7:8440:a6dd 5 104 3787415 20240401155931
+3.135.183.89 0 1 79149 
+2806:108e:1f:4bc4:f1ed:7fd2:f8a3:6041 0 2 0 
+192.36.109.131 1 1 15843 20240409212228
+204.44.69.133 0 1 3957 
+181.212.65.226 5 74 780288 20240418120843
+152.231.49.222 5 104 3787415 20240408151810
+185.26.224.194 0 1 101351 
+40.94.34.7 6 85 993081 20240409191035
+37.123.187.230 0 2 190548 
+181.214.206.229 2 2 97138 20240412195135
+201.206.180.55 5 80 697274 20240404001801
+2804:10:8001::213:190 1 1 96929 20240416043321
+2800:c70:80:cd7a:1:1:5d3c:f341 1 7 276031 20240417171553
+200.71.90.249 5 98 3935502 20240416144420
+181.13.215.178 4 102 3754293 20240413075327
+182.204.143.235 1 1 15843 20240430111857
+18.212.102.66 0 2 1710 
+2800:c70:89:5401:1:1:1916:f38c 5 78 744847 20240404122500
+179.29.33.85 20 125 9256722 20240403142655
+2800:2505:b:1442:1:0:536f:6b70 5 104 3755549 20240410181332
+191.84.224.110 11 129 6259374 20240428185100
+170.51.136.23 5 92 5777766 20240426103915
+212.106.221.8 0 1 189175 
+39.163.154.163 1 1 15844 20240423160501
+181.117.225.146 12 134 8795043 20240413112906
+152.168.185.41 10 211 6498247 20240415093151
+43.163.3.58 1 1 15845 20240414180330
+179.62.30.135 8 142 5242148 20240417134319
+45.130.202.105 1 1 12954 20240423175631
+190.181.40.38 15 99 7073105 20240412183543
+2803:2a01:1:ce96:1:0:edf8:22c4 11 107 8934159 20240407163844
+43.157.66.187 1 1 15845 20240420081218
+2800:c70:82:81da:cff:3ed:e29b:d6c5 4 76 287303 20240424062124
+2800:2502:0:e65e:71b6:8a5b:a7e6:2e85 3 89 249051 20240402215801
+34.86.149.127 9 165 15218336 20240414225933
+46.250.239.91 1 1 15914 20240416142649
+40.94.28.61 0 1 1164695 
+181.121.108.174 5 87 1112958 20240423125333
+54.187.36.132 1 1 15845 20240415065501
+190.236.12.246 0 2 0 
+190.57.220.224 15 306 7194788 20240417170029
+51.75.162.18 0 21 379919 
+45.131.194.207 1 1 177 20240402220801
+40.94.33.15 5 86 3835439 20240419171840
+186.141.134.9 38 156 11442472 20240427182857
+181.214.218.217 3 3 167093 20240428081452
+46.6.143.50 0 1 347263 
+181.46.137.132 5 104 3787416 20240418184245
+132.191.3.255 0 2 1710 
+34.79.244.241 0 2 1710 
+66.249.66.85 3 3 41713 20240420021935
+31.45.39.128 1 1 15843 20240417073449
+62.127.102.133 0 2 1961 
+2607:ff10:c8:594::e 1 1 15844 20240428202615
+190.181.80.231 0 1 77393 
+147.45.50.5 8 12 68384 20240424122928
+77.226.247.95 0 1 101351 
+188.165.237.179 3 3 47532 20240419213716
+34.90.220.251 1 1 15845 20240426085001
+3.139.97.157 1 1 96929 20240416212912
+188.18.190.119 3 3 29808 20240427100854
+58.49.233.126 1 1 15844 20240412061811
+138.186.60.106 6 75 780287 20240418100356
+124.220.62.81 1 1 15913 20240420175705
+39.165.177.37 1 1 15843 20240406170655
+2a02:c60:c61:d7a:c959:ddeb:b223:f07e 1 1 96928 20240418071634
+137.74.205.20 1 1 15844 20240411133148
+212.56.131.69 0 4 101367 
+40.94.34.68 5 86 3835437 20240409190859
+72.50.5.82 4 73 266133 20240415124115
+186.143.166.182 5 102 3753843 20240412175244
+45.161.236.99 4 100 3212975 20240421203729
+181.29.108.119 8 177 955424 20240411220911
+2001:4860:7:301::ff 21 21 366105 20240429204159
+223.89.217.217 1 1 15845 20240409015014
+120.227.158.210 1 1 15845 20240420020238
+186.141.227.88 0 2 477465 
+20.240.192.154 2 2 31690 20240409045711
+179.1.142.130 4 72 682877 20240401192311
+120.227.159.65 1 1 15843 20240430002016
+117.153.135.126 1 1 15844 20240427211855
+43.130.39.101 1 1 15844 20240410045618
+179.40.103.235 5 104 3787414 20240422161437
+18.232.83.174 1 1 15842 20240401024247
+39.165.154.76 1 1 15844 20240429012521
+172.255.93.23 1 1 177 20240426123700
+34.90.96.148 1 1 15843 20240413043430
+132.251.1.148 0 2 1710 
+34.122.147.229 0 4 3420 
+35.187.94.84 0 2 1710 
+2803:2a01:3:f628:4a:280:2eca:5e04 0 1 347263 
+190.124.1.70 4 58 2820055 20240406203721
+190.235.44.69 0 7 0 
+18.118.200.86 1 1 83451 20240417031750
+179.6.2.132 0 2 1710 
+182.44.12.37 1 1 15844 20240423205925
+45.86.93.160 1 1 1700 20240426145235
+3.146.65.212 1 1 83639 20240417004538
+66.249.66.84 2 2 28322 20240420021111
+186.132.52.15 5 104 3755550 20240419230845
+168.196.34.106 0 2 461953 
+54.188.44.110 1 1 15844 20240419074036
+40.94.104.51 1 1 15843 20240404115754
+18.223.210.76 0 1 113024 
+190.112.102.0 8 112 4045527 20240429222357
+2800:2506:0:6608:1:0:e042:a90f 5 104 3755551 20240419145138
+2803:b9c0:43c6:cd28:5e:1862:57f4:b727 1 1 15845 20240403130730
+2800:c70:86:4206:947e:6000:c574:d837 0 2 1710 
+212.142.160.4 0 2 3470 
+203.210.6.132 5 87 889211 20240425093759
+128.90.128.208 1 1 0 20240418090045
+23.106.16.4 0 1 3957 
+185.180.143.77 1 1 15845 20240403033229
+2604:a00:50:59:216:3eff:fe2a:df4e 1 1 15843 20240417074526
+198.240.90.159 1 2 4134 20240417183853
+116.230.104.50 1 1 15845 20240403124704
+186.143.138.36 0 1 347263 
+120.227.158.221 1 1 15843 20240430114512
+212.89.5.68 0 1 437 
+2804:58:c189:1f00:49e0:706c:849d:8fa9 0 2 1710 
+83.255.237.72 0 1 1498 
+95.168.222.133 5 100 2936547 20240422214643
+23.81.67.192 1 1 13120 20240407140514
+34.141.215.197 2 2 31687 20240422073517
+42.202.17.143 1 1 15845 20240414110314
+84.247.116.76 2 2 70427 20240407205524
+120.227.241.16 1 1 15846 20240414061145
+2804:7f4:c080:64c9:973d:ed84:422c:488e 10 84 1672607 20240412162136
+39.163.154.129 1 1 15844 20240428044205
+177.93.4.100 0 2 1710 
+185.13.202.208 5 89 1719072 20240429110646
+79.117.255.135 0 1 2122 
+2a01:7e01::f03c:92ff:fe0a:54d1 2 4 319032 20240409095256
+45.131.194.236 0 1 3957 
+34.78.237.255 0 2 1710 
+62.127.102.233 0 1 85261 
+181.115.172.144 5 76 881741 20240411114319
+212.106.221.74 0 1 34400 
+109.248.201.93 1 1 96929 20240414084202
+181.55.68.106 0 4 3420 
+94.23.183.175 1 1 96931 20240403054655
+179.59.160.29 5 92 2415838 20240415163125
+45.94.31.174 1 1 0 20240426033031
+141.11.36.58 1 1 12952 20240406185714
+213.219.247.144 28 28 1913534 20240429110035
+186.132.103.123 13 119 4228106 20240418133614
+46.246.122.76 2 2 193856 20240425113246
+123.244.128.181 1 1 15845 20240414171258
+186.57.1.180 9 127 3580149 20240410083743
+82.117.119.132 0 1 788 
+200.68.167.151 0 2 1710 
+107.181.141.22 1 1 12954 20240408125659
+45.161.237.226 7 79 671237 20240401133246
+186.111.141.103 1 13 540897 20240414163350
+130.44.215.251 0 1 3319 
+2a02:247a:201:2600:1::1 12 12 182908 20240408175334
+181.9.175.224 5 104 3755514 20240426213130
+149.56.150.85 1 1 96929 20240407120815
+62.127.102.230 0 1 190 
+186.143.134.88 5 104 3787416 20240416092217
+178.60.128.6 0 1 250 
+162.216.17.47 15 15 1453932 20240428152104
+85.203.44.170 1 1 96928 20240413020058
+167.57.190.131 11 125 7347959 20240419112248
+2803:9800:9880:52f0:21d0:1c07:b94e:87ab 5 104 3787415 20240410164113
+186.189.71.102 5 86 1204059 20240413004739
+189.230.90.165 0 14 0 
+45.41.160.34 0 1 3957 
+120.227.158.206 1 1 15845 20240415040218
+104.168.153.61 2 3 17118 20240406130327
+191.156.40.125 0 1 992 
+107.23.158.175 0 2 1710 
+2001:4860:7:301::fb 10 10 175241 20240426003422
+2800:2508:21:ffcf:cc60:ddee:700c:bfb9 1 1 20150 20240401101555
+206.189.184.121 1 1 15844 20240419163500
+208.68.93.230 6 6 281305 20240427185012
+104.168.174.95 2 3 17119 20240427021037
+2409:8a34:4076:16a0::2 1 1 15843 20240409135214
+208.100.26.233 1 1 15843 20240417200846
+196.247.160.70 1 1 13121 20240425124114
+144.91.106.14 2 2 31690 20240426050806
+2a02:26f7:f6f9:4000:17db:c44e:d7e9:c8ac 0 2 1710 
+39.165.158.164 1 1 15844 20240429053830
+212.230.122.4 0 1 373 
+62.127.102.134 0 1 3831 
+40.94.33.14 2 24 598525 20240409193821
+181.9.201.79 1 1 20153 20240417134317
+199.45.155.20 1 1 15843 20240406000813
+81.70.252.115 1 1 15913 20240420201627
+2804:214:85bd:1aff:1:0:f037:8373 0 1 127694 
+179.49.125.195 9 120 5759728 20240420182430
+2800:ac:c011:721b:b594:db5e:cf9:57e1 0 3 364529 
+190.114.167.14 5 104 3755550 20240414161711
+200.68.140.34 0 2 1710 
+2600:3c00::f03c:92ff:feda:14f3 0 2 1710 
+104.168.156.232 2 3 17119 20240425200744
+45.224.188.97 5 104 3755552 20240411203404
+212.142.160.70 0 1 788 
+95.209.202.164 0 2 25419 
+40.94.34.11 0 1 1035431 
+34.38.144.244 0 2 1710 
+47.104.30.51 1 1 15843 20240406232325
+43.135.181.13 1 1 15844 20240418060201
+186.13.123.45 5 100 2936657 20240401160930
+186.12.29.18 5 104 3787414 20240402151933
+95.164.35.38 3 3 47532 20240413215814
+93.158.91.24 1 1 15845 20240409065341
+190.112.102.114 5 104 3787372 20240406074625
+91.92.242.55 1 1 96930 20240423182128
+36.148.166.74 1 1 15844 20240418121501
+74.125.212.40 2 29 163726 20240420094913
+181.189.215.112 9 111 4177560 20240417082640
+217.168.95.6 0 1 373 
+66.249.92.150 2 8 103842 20240429210905
+107.115.207.26 0 1 130389 
+190.212.57.82 0 1 0 
+62.127.102.139 0 1 259 
+190.116.7.54 0 2 1710 
+34.76.97.246 0 2 1710 
+179.43.152.42 1 1 96927 20240429120520
+167.60.133.249 17 219 8636354 20240430132909
+185.180.143.16 1 1 15844 20240419135028
+23.20.248.251 5 77 358438 20240406015000
+82.147.54.6 0 3 395514 
+89.22.234.115 30 30 2050282 20240429224517
+2802:8010:610a:e100:9167:6431:8959:71c 6 94 7308484 20240418183103
+37.204.201.221 3 3 167096 20240402031713
+190.193.21.111 5 104 3755552 20240428220229
+187.223.198.143 1 1 9013 20240405085353
+92.185.10.177 0 1 347263 
+192.36.109.123 1 1 15843 20240404060927
+2803:b9c0:43c2:6d8:f500:dbf9:47d:afaf 5 26 1317903 20240424205925
+181.164.189.41 1 1 15845 20240412163940
+104.168.149.188 2 3 17088 20240423193832
+191.156.182.226 1 2 919 20240426120335
+168.196.25.103 8 119 4033093 20240412231828
+199.244.88.223 1 1 15845 20240416044635
+34.38.12.9 0 2 1710 
+104.60.77.143 0 1 101351 
+2001:4860:7:70b::ff 1 1 18529 20240425120651
+23.109.232.177 1 1 15845 20240408125657
+42.202.17.106 1 1 15843 20240417063048
+83.255.237.74 0 1 460 
+2800:a4:31e1:9600:deb:d87d:b117:296a 0 1 3319 
+46.8.210.217 2 2 97135 20240409162134
+223.15.245.170 1 1 16015 20240408234816
+200.70.23.188 5 100 2936642 20240405104539
+186.141.133.129 5 102 3753841 20240430094311
+2806:102e:13:6fe4:9105:dc3e:3c08:ba42 5 100 9892950 20240408012429
+84.17.48.170 3 3 167094 20240419155115
+172.255.93.31 1 1 177 20240407140527
+45.225.69.197 3 102 469513 20240404062652
+181.202.3.101 0 1 77393 
+168.196.141.56 5 74 684139 20240424161643
+38.152.33.21 0 2 1710 
+104.143.249.191 1 1 13119 20240408234500
+190.237.181.181 0 2 1710 
+208.96.133.5 5 100 3784606 20240422174258
+181.15.96.71 5 86 4988144 20240430180144
+45.228.189.134 5 100 2936544 20240428170431
+186.190.168.195 5 104 3755551 20240416102841
+42.202.17.81 1 1 15844 20240412053833
+170.233.31.71 5 100 4079927 20240408185452
+134.122.0.95 4 4 387716 20240419020055
+104.168.135.147 2 3 17088 20240421135939
+181.90.101.33 0 1 880576 
+54.185.148.23 0 1 24163 
+154.7.184.199 3 3 39193 20240408133614
+138.84.54.56 5 83 991759 20240404134809
+91.189.243.200 2 2 70425 20240415055449
+190.226.240.20 5 94 4172807 20240426221927
+43.153.93.68 1 1 15843 20240404135314
+82.117.119.133 0 2 4202 
+69.10.48.138 1 1 96929 20240415035752
+62.127.102.232 0 1 2122 
+2001:4860:7:702::fd 1 1 15844 20240422202231
+212.102.33.169 2 3 19985 20240413144209
+2001:4860:7:70a::fe 1 1 15023 20240418104932
+42.202.17.144 1 1 15844 20240415194331
+158.160.85.227 2 2 31690 20240421093006
+40.94.90.33 3 3 130716 20240412111825
+110.154.101.184 1 1 15844 20240418084345
+212.106.207.198 0 1 85261 
+181.99.50.80 10 154 620916 20240410192857
+81.167.38.4 0 3 100606 
+181.167.56.17 5 104 3787415 20240413200451
+34.38.104.14 0 2 1710 
+181.42.49.151 0 2 1710 
+104.168.137.217 2 3 17086 20240417081635
+74.125.212.33 4 27 325596 20240420094913
+212.56.131.68 0 2 220964 
+82.147.54.228 0 2 2963 
+2800:af0:103c:19a6:a467:2674:4681:6b40 0 1 880576 
+2806:10be:2:95c4:84c3:72eb:fa1:e441 0 2 0 
+186.12.12.29 5 104 3755553 20240408195248
+121.229.185.160 1 1 15844 20240423091540
+168.0.144.209 1 1 9017 20240405091105
+181.117.237.112 3 85 788404 20240415190658
+146.190.254.132 1 1 15842 20240401171422
+123.186.77.252 1 1 15844 20240427171243
+138.229.104.24 0 2 1710 
+34.141.176.7 2 2 31688 20240416053623
+217.15.106.5 0 7 359486 
+34.253.208.13 0 2 1710 
+66.249.85.105 1 1 20151 20240412175235
+39.165.179.182 1 1 15844 20240418131721
+54.213.9.243 1 1 96929 20240410220947
+2804:10:8001::208:38 1 1 96929 20240421044934
+36.111.67.189 1 1 15845 20240412162358
+43.134.37.211 1 1 15844 20240428042640
+83.255.237.69 0 1 1972 
+176.111.174.153 2 2 97137 20240429213915
+42.202.17.112 1 1 15844 20240428011947
+66.249.92.149 3 24 902808 20240429210907
+2001:4860:7:305::ff 1 1 14826 20240423120238
+179.4.187.54 0 2 1710 
+190.112.99.247 5 104 3787412 20240408172258
+2800:af0:108c:2b51:8dd4:e1:eec6:bb29 1 1 0 20240401135135
+84.208.42.70 0 1 10489 
+2800:bf0:8275:1243:c819:ed70:3946:6991 0 1 347263 
+200.40.228.233 14 279 10165960 20240423082234
+35.241.188.34 0 4 3420 
+2800:810:544:36f:f565:5ea4:5628:a020 5 79 823357 20240402113830
+141.11.36.103 0 1 3957 
+40.94.33.98 5 75 9711351 20240409193828
+181.91.86.191 0 1 104142 
+40.94.34.94 0 1 1136469 
+190.190.86.140 5 75 851974 20240404194004
+186.143.134.211 3 98 20144 20240420153852
+201.8.185.88 1 1 9044 20240405092536
+179.6.166.137 9 148 842634 20240403170417
+39.163.153.63 1 1 15845 20240430170609
+104.168.170.168 2 3 17089 20240416163044
+62.127.102.132 0 1 4078 
+182.204.142.207 1 1 15844 20240428122858
+2803:2d60:1102:1368:280e:17e0:f6de:3f63 0 1 347263 
+120.227.158.149 1 1 15845 20240430173746
+62.127.102.164 0 1 2606 
+191.106.165.191 1 1 9017 20240405085830
+52.12.48.180 1 1 15844 20240419074032
+123.186.79.127 1 1 15844 20240422114314
+2001:4860:7:22d::f7 1 1 17528 20240403145221
+45.173.40.143 5 104 3747259 20240428073042
+203.33.203.148 2 2 31685 20240424082240
+45.156.129.2 1 1 15843 20240406152012
+18.189.170.17 1 1 68917 20240416050317
+120.227.158.12 1 1 15844 20240423200508
+170.51.164.141 0 97 0 
+46.248.173.39 1 1 1657 20240422114121
+2804:10:8001::208:198 1 1 96927 20240427050800
+181.42.11.23 0 2 1710 
+186.141.133.162 4 4 20373 20240416184639
+196.247.162.42 1 1 177 20240429010538
+149.34.252.9 2 3 17253 20240426015246
+167.249.55.220 1 1 19919 20240419223056
+40.94.25.219 1 6 2987209 20240415110131
+186.157.200.145 2 99 3630394 20240413103830
+80.202.12.133 0 1 1128 
+2803:b9c0:43c6:fc88:2437:9ee6:a60:6cfb 1 1 15845 20240409092112
+205.169.39.241 0 2 1710 
+42.202.17.113 1 1 15843 20240430004604
+34.16.215.145 2 3 105794 20240430133202
+18.246.21.1 1 1 15844 20240423071812
+179.63.240.102 5 103 3802210 20240426224310
+212.106.221.72 0 2 128873 
+181.117.217.126 9 111 4048446 20240402071237
+181.29.119.34 0 1 101351 
+2804:4870:300b:8d00:6532:d0d7:c156:d186 0 2 1710 
+43.157.40.137 1 1 15844 20240411161916
+190.190.124.107 5 100 3554066 20240403104353
+23.81.152.119 0 1 3957 
+120.227.158.146 1 1 15845 20240421113357
+2.133.225.78 10 10 485680 20240406101208
+178.208.168.52 1 1 0 20240419024527
+191.156.35.114 5 83 979772 20240404173808
+177.206.155.44 1 1 8908 20240405090052
+2001:1b40:5000:745:ec4:7aff:fe44:be10 0 2 1710 
+18.225.149.32 1 1 84857 20240418055120
+2001:4860:7:303::fe 1 1 19216 20240412174038
+129.226.158.26 1 1 15844 20240425184908
+18.215.148.236 5 77 358469 20240406003143
+181.121.210.92 2 64 427 20240408202318
+186.132.198.48 1 9 281360 20240406160613
+186.143.136.130 0 2 1710 
+14.215.163.132 1 1 15844 20240411005754
+45.172.108.188 5 104 3787415 20240402195329
+83.255.237.39 0 2 3105 
+200.127.208.227 1 1 0 20240411100710
+34.41.132.218 0 1 3319 
+45.191.224.163 5 104 3747261 20240402201658
+93.124.68.132 3 3 194110 20240424034036
+110.154.103.242 1 1 15844 20240428162826
+169.150.198.73 1 1 0 20240419065527
+186.141.138.204 5 102 3753846 20240402202345
+170.80.119.68 8 116 5719467 20240418035932
+196.247.162.39 1 1 177 20240426084907
+34.141.189.20 1 1 15845 20240401234913
+38.52.67.36 2 2 31688 20240407212631
+185.124.53.5 0 1 195 
+212.106.207.228 0 1 849 
+150.109.16.20 2 2 31688 20240421150235
+168.121.51.175 0 2 1710 
+27.115.124.3 0 1 391 
+34.78.249.100 0 2 1710 
+24.214.77.198 0 2 1710 
+217.15.102.5 1 3 17260 20240403041902
+20.191.194.43 1 1 15844 20240425054655
+34.91.100.6 1 1 15844 20240425083753
+152.231.35.210 0 2 1710 
+186.12.40.144 9 139 5084344 20240411083520
+200.2.120.90 0 1 115427 
+2800:2265:9040:980e:b0ee:ea5b:5cfb:47d2 5 104 3787409 20240409005631
+2803:9800:9803:b085:fcb1:cee3:492d:be87 5 104 3755552 20240419210344
+132.184.129.167 0 1 347263 
+34.238.193.81 0 1 3319 
+223.88.228.42 1 1 15844 20240429100100
+2607:5300:60:7e27::1 1 1 15844 20240412084312
+181.90.127.97 16 149 11151330 20240429220658
+170.51.136.138 4 87 1697794 20240424150943
+109.228.157.198 0 2 913 
+110.166.71.39 1 1 15843 20240406133621
+181.9.168.61 5 104 3787417 20240409151402
+190.139.223.163 0 1 115427 
+200.7.159.87 5 91 1370920 20240417085028
+85.203.44.190 1 1 96928 20240413020054
+179.57.107.240 0 2 1710 
+39.148.64.166 1 1 15844 20240415131207
+179.61.93.13 0 1 347263 
+190.15.49.130 0 1 3319 
+40.94.28.32 2 13 562298 20240408083328
+109.228.157.199 0 1 1068 
+186.65.87.80 5 100 2936560 20240411160705
+34.141.130.179 1 1 15842 20240424082309
+200.106.248.4 0 1 99455 
+190.0.113.123 38 313 16412188 20240430200101
+2a0c:5a85:4210:bf00:7486:668c:8086:6236 0 1 347263 
+45.7.14.212 18 157 12820711 20240412093945
+45.41.178.249 1 1 13122 20240417115508
+2804:14d:4cd8:a3c1:4c69:a650:77b7:7f4e 0 1 3319 
+54.147.11.73 0 2 1710 
+200.68.153.69 0 1 347263 
+123.186.78.205 1 1 15844 20240421234014
+190.13.209.186 5 100 4079831 20240403174017
+101.128.97.139 3 4 32960 20240404073107
+45.238.55.117 2 2 37590 20240412202911
+178.60.128.7 0 1 750 
+195.234.125.110 1 1 177 20240404070044
+181.224.208.252 11 207 7527819 20240422112142
+212.142.160.100 0 1 25160 
+34.125.234.66 11 163 1994520 20240412105333
+37.46.113.159 2 2 97138 20240430184443
+123.186.78.245 1 1 15844 20240415174914
+199.45.155.39 1 1 15845 20240403204102
+40.94.104.100 0 6 260973 
+80.255.13.20 1 1 7723 20240407131446
+181.166.72.105 6 105 3755549 20240427012223
+43.131.62.4 2 2 31687 20240419104638
+2a01:7e01::f03c:92ff:fe0a:304a 1 1 97373 20240409095300
+45.178.1.125 4 13 432379 20240411211111
+38.25.15.130 0 6 729058 
+2607:5300:60:2de3::1 11 11 166925 20240412035030
+46.255.166.204 12 12 182890 20240412035024
+89.44.137.43 1 1 15915 20240418215747
+35.93.229.161 1 1 15844 20240423071812
+110.154.100.118 1 1 15844 20240428203827
+2600:1700:4e3a:480:5e4:88f:b368:5eda 0 2 1710 
+79.116.124.191 5 94 5371689 20240413173207
+190.211.157.215 8 112 4077514 20240430211946
+212.230.122.10 0 1 10489 
+38.170.190.128 0 1 3957 
+154.38.174.78 1 1 0 20240430230942
+203.2.64.59 1 1 15844 20240427172855
+104.168.135.216 2 3 17087 20240410225817
+46.8.210.14 6 6 291411 20240425034133
+178.128.85.205 2 2 551 20240430232829
+5.161.198.254 1 1 15844 20240415180345
+181.167.97.98 5 75 901621 20240426122027
+182.42.111.156 1 1 15845 20240426064534
+5.61.55.96 1 1 15842 20240401103027
+94.103.91.35 4 4 291041 20240409141513
+192.200.158.198 1 1 9024 20240405091016
+191.156.179.37 4 27 687858 20240426120244
+123.6.49.18 12 85 1149839 20240417153311
+178.176.75.204 4 4 387716 20240430231349
+181.81.90.55 5 104 3755554 20240419092248
+2a01:4f9:c012:6365::1 1 1 15875 20240405133805
+54.226.107.238 1 1 96929 20240410225553
+186.153.128.61 8 127 6725789 20240414202211
+120.71.59.24 1 1 15845 20240403181304
+186.96.194.1 8 103 2956722 20240421184647
+40.94.104.18 2 4 27631 20240404115814
+64.23.232.172 1 1 15844 20240429171748
+2803:2a00:2c17:f2bf:865c:dba0:74e:1015 7 75 846519 20240422171555
+118.143.88.196 5 90 1370139 20240425093706
+109.228.157.203 0 3 109705 
+89.149.38.50 1 1 70226 20240401120231
+23.82.44.145 0 1 3957 
+117.151.188.49 1 1 15843 20240418170330
+2800:a4:14d4:c300:fd8d:8285:63f9:7813 0 1 3319 
+2804:14d:1c7a:9651:65bd:622d:f96c:3ea4 10 83 1669303 20240419175250
+34.141.212.115 1 1 15844 20240428094741
+223.88.223.211 1 1 15843 20240417194211
+37.123.187.229 1 3 16900 20240426221404
+200.115.27.35 8 100 1901664 20240412000224
+83.97.73.239 3 3 167094 20240419175330
+186.5.247.242 5 104 3755553 20240403111023
+122.15.156.159 3 3 42704 20240412033005
+31.188.105.92 5 5 78531 20240405223737
+2803:2a01:802:8433:1:2:4e79:7b38 0 2 1710 
+217.15.106.4 1 2 98048 20240403041950
+170.247.96.105 5 104 3787413 20240404114527
+182.204.141.110 1 1 15845 20240430233806
+81.167.35.199 0 2 7019 
+179.61.81.3 0 2 477465 
+36.143.55.252 1 1 15845 20240415222503
+201.250.0.177 0 6 1025315 
+110.154.96.177 1 1 15846 20240414061144
+45.238.210.74 1 1 9013 20240405091946
+95.152.62.57 4 4 291039 20240413211925
+34.140.95.65 0 2 1710 
+2806:104e:17:ba39:d991:8e3e:b808:d11a 0 2 1710 
+3.129.247.196 0 1 188303 
+34.147.80.73 1 1 15845 20240403002116
+154.47.16.217 1 1 96929 20240404020713
+84.208.42.4 0 1 495 
+200.43.185.4 6 106 7294315 20240403152053
+143.198.69.174 4 4 61966 20240423043608
+39.165.154.80 1 1 15844 20240416183330
+85.119.196.253 5 102 2938287 20240415113918
+192.36.109.115 0 1 448 
+2a03:b0c0:3:d0::3fd:6001 4 4 61966 20240422183647
+5.79.150.73 15 15 149535 20240426080151
+187.190.95.149 1 1 9024 20240405090502
+217.146.69.10 18 18 266444 20240428202743
+186.141.136.103 4 100 3653444 20240419112459
+40.94.104.21 1 13 196607 20240404115810
+123.186.79.10 1 1 15844 20240418052702
+2803:9800:a847:801e:1d83:c6a:2e47:333c 5 105 3844785 20240415171353
+2800:ac:12:126b:1:0:7bee:1896 5 106 3757259 20240422100642
+40.94.33.73 4 85 3818080 20240409193504
+3.85.152.114 0 2 6638 
+4.227.123.181 1 2 50245 20240421062914
+167.249.42.226 0 1 130202 
+190.12.112.185 8 124 4794508 20240402232434
+168.205.197.3 5 104 3787416 20240408210015
+200.23.85.27 40 163 4556536 20240401091222
+2803:b9c0:43c6:fc88:75af:a2d6:881a:be19 1 1 15843 20240406150747
+123.186.73.232 1 1 15845 20240415080839
+46.248.173.40 1 1 2248 20240407122224
+2a01:7c8:bb0e:128:5054:ff:fe67:697f 10 10 151196 20240402020252
+27.115.124.45 8 11 356618 20240409222333
+185.231.205.31 3 3 167098 20240402213457
+189.225.206.169 0 1 347263 
+39.163.152.96 1 1 15843 20240413182740
+130.211.82.91 0 2 1710 
+46.227.113.4 5 97 2359049 20240422131656
+2806:109f:17:39de:bd7f:9986:86d8:4057 14 133 4643744 20240415215906
+84.208.42.9 0 1 992 
+2800:200:f180:1af3:5066:43f7:8e1d:1a8d 0 2 1710 
+2804:10:8001::213:219 1 1 96927 20240410042409
+123.245.128.52 1 1 15844 20240417013514
+170.210.136.5 1 9 3375572 20240410160442
+46.8.210.131 4 4 194320 20240420192131
+223.88.223.117 1 1 15845 20240416153115
+2800:ac:c002:1190:1:0:9c41:2d82 33 133 7619793 20240413112316
+2600:3c01::f03c:92ff:feda:1406 0 2 1710 
+43.134.170.46 1 1 15844 20240418145827
+40.94.33.51 0 1 1035431 
+104.168.140.247 2 3 17119 20240408123121
+104.168.148.84 2 3 17118 20240419102940
+186.251.228.26 1 1 9017 20240405092531
+2800:ac:c021:2cc5:c55:19d6:fae8:e54 16 108 8094598 20240414215551
+35.205.182.103 0 2 1710 
+200.31.164.27 5 80 1427271 20240402160521
+2804:18:1125:1607:17c4:4b12:f3c4:4802 0 2 1710 
+18.232.174.0 0 2 1710 
+190.124.61.156 4 70 502848 20240414115329
+101.91.148.219 1 1 15843 20240404043337
+2800:4b0:840d:fa95:1ca8:24e4:2b3a:9b33 5 96 1418213 20240424004509
+212.102.35.152 2 2 97136 20240409092326
+35.88.134.120 2 2 31690 20240415065505
+201.235.122.39 15 121 11354674 20240411071951
+83.255.237.40 0 2 5877 
+43.155.152.154 1 1 15843 20240430014554
+39.148.73.216 2 2 31689 20240416031938
+181.9.176.252 4 102 3754290 20240408112234
+40.94.33.79 7 99 10309880 20240419172021
+2800:2503:e:c232:1:0:94da:6a62 21 338 6377595 20240416191331
+47.92.103.255 1 1 15915 20240422184439
+190.247.7.160 0 3 315270 
+200.24.84.46 1 1 9022 20240405091855
+184.72.169.73 0 2 1710 
+179.6.5.237 0 2 1710 
+2804:10:8001::209:220 1 1 97371 20240405043409
+40.94.33.72 0 4 5087596 
+200.115.27.129 4 18 1018220 20240426203729
+2a01:7e01::f03c:93ff:fec1:44a1 3 5 415515 20240409141236
+90.160.195.7 0 1 3890 
+83.255.237.75 0 1 2937 
+104.239.106.153 1 1 186 20240407062556
+2806:107e:d:542a:7c37:2493:dac9:521e 0 1 3319 
+2001:1b40:5000:745:d267:e5ff:fef4:19f3 0 2 1710 
+186.141.200.32 8 116 6299365 20240408152449
+88.82.198.11 0 1 347263 
+186.24.136.202 0 1 347263 
+3.85.212.235 0 2 1710 
+187.249.108.38 0 2 1710 
+31.207.38.232 10 10 151198 20240404104617
+2800:c70:10:998d:a583:573d:4dba:7aa 4 76 153567 20240413163508
+168.227.98.48 5 104 3755553 20240408111806
+181.117.233.79 5 104 3787412 20240403184350
+109.105.109.198 0 2 5870 
+187.147.177.14 0 2 1710 
+38.60.209.185 2 2 29747 20240407164700
+212.89.5.70 0 1 2606 
+122.228.8.122 1 1 15845 20240429202708
+54.90.220.255 0 2 1710 
+43.134.190.89 1 1 15843 20240413114318
+194.49.68.37 4 4 387724 20240412155300
+76.132.168.243 0 2 1710 
+38.51.31.188 5 104 3755551 20240410145619
+134.73.2.12 1 1 185 20240408234504
+179.60.78.89 5 104 3755547 20240421003649
+34.147.16.58 1 1 15845 20240415051653
+34.221.164.244 1 1 15842 20240411065420
+23.129.200.44 2 2 15844 20240404190846
+181.9.144.181 5 104 3755551 20240424190155
+34.141.229.34 2 2 31690 20240419063259
+104.199.42.83 0 2 1710 
+131.0.215.210 5 86 3835469 20240409102652
+147.161.128.80 0 1 200615 
+95.179.211.86 0 1 85124 
+3.95.63.134 0 2 1710 
+84.208.42.8 0 3 6133 
+84.125.126.8 0 1 347263 
+196.196.254.221 1 1 13120 20240417183850
+77.26.12.4 1 2 18700 20240414134548
+181.81.72.25 5 104 3755555 20240413112604
+62.127.102.235 0 1 242 
+217.115.45.196 0 1 3319 
+181.162.131.50 0 1 101351 
+40.94.34.82 0 1 1164695 
+186.141.202.20 0 1 114809 
+95.124.180.208 0 1 347263 
+212.106.207.200 0 1 92818 
+212.106.207.231 0 1 6398 
+110.154.102.33 1 1 15843 20240417112124
+212.106.221.5 0 1 455 
+223.178.212.109 1 1 15914 20240416074743
+62.3.54.193 1 1 177 20240402032828
+45.131.194.193 1 1 12952 20240402220759
+191.156.189.59 0 47 98513 
+37.139.53.88 3 3 167139 20240406062648
+190.233.34.41 3 77 916620 20240408121221
+43.163.8.36 1 1 15844 20240419204434
+40.94.28.57 5 86 3835437 20240408083223
+141.11.36.86 1 1 177 20240406185716
+2804:30c:1758:b600:c4bd:a6b2:7747:a23c 0 2 1710 
+181.124.135.98 0 1 104142 
+212.106.221.198 0 1 2937 
+194.32.122.69 1 1 13119 20240414053534
+2a05:541:124:8e::1 2 2 26070 20240403211602
+173.234.244.94 2 2 26243 20240427144304
+181.25.0.6 8 115 5589394 20240413194350
+5.35.33.229 2 2 97137 20240405002412
+123.6.49.41 8 9 354908 20240403173042
+181.117.221.103 5 101 6006113 20240416171016
+81.167.38.197 0 2 128373 
+54.167.38.9 0 2 1710 
+82.147.54.5 0 3 3810 
+66.249.85.40 2 2 40304 20240430094308
+186.141.137.204 5 102 3753841 20240420094914
+193.118.38.117 2 2 236858 20240414083006
+2803:9800:9484:a22d:e425:f290:67e6:4879 8 80 768501 20240402144822
+84.78.248.46 0 1 130389 
+200.68.159.31 0 2 1710 
+186.157.207.227 5 104 3755554 20240414143459
+23.81.62.74 0 1 3957 
+77.26.255.5 0 1 1128 
+117.153.135.139 1 1 15844 20240429142140
+44.197.176.109 1 1 15844 20240422224323
+190.195.99.179 8 118 8599090 20240412175310
+143.255.143.210 3 75 427 20240429140404
+110.154.97.49 2 2 31688 20240416002823
+104.168.173.249 2 3 17086 20240403203604
+40.94.104.29 0 2 583680 
+62.3.54.212 1 1 12951 20240402032826
+131.0.215.71 5 100 4079844 20240419090318
+222.79.103.59 2 2 31689 20240428154356
+190.124.57.26 0 1 347263 
+123.245.128.116 1 1 15843 20240417042724
+109.228.157.202 0 2 1631 
+201.175.202.11 0 2 1710 
+150.109.13.194 2 2 31686 20240401182134
+40.94.25.217 4 80 848229 20240415110130
+2800:810:4c7:383:71b5:908b:f5fe:cef9 5 100 4079831 20240411174608
+2800:c70:87:7d85:5953:c6c:1aad:4861 6 74 653878 20240423062153
+170.51.168.248 7 106 3795848 20240414201435
+35.90.243.27 0 1 3319 
+27.115.124.6 4 78 796917 20240403173054
+201.184.104.218 10 84 1672606 20240425141653
+18.224.53.202 0 1 111844 
+34.140.97.192 0 2 1710 
+181.209.101.12 11 214 8572929 20240417193307
+167.57.227.219 0 2 3319 
+186.0.187.157 13 123 10397037 20240425112946
+89.22.235.226 28 28 1913562 20240428210850
+181.238.34.209 6 105 3787413 20240430172033
+54.173.14.22 1 1 68918 20240418084203
+164.90.163.24 1 1 96931 20240430172742
+83.255.237.70 0 1 1722 
+181.126.124.205 1 1 0 20240413220403
+62.127.102.228 0 2 983 
+49.7.227.204 1 1 15841 20240406045202
+123.186.72.5 1 1 15845 20240420225312
+181.9.153.40 5 90 5879949 20240411104802
+190.176.51.161 5 104 3755549 20240407121012
+196.240.104.76 0 1 3957 
+88.29.218.73 2 2 26169 20240419064315
+143.198.60.135 1 1 15843 20240404123540
+23.229.113.138 4 4 59531 20240413221640
+2800:ac:8020:48c6:1:0:d483:cb5b 0 1 130202 
+190.183.203.219 7 105 4090795 20240415210725
+223.89.207.15 1 1 15844 20240408021558
+81.167.35.198 0 1 343 
+185.197.74.94 30 30 2050208 20240429181904
+154.38.172.154 1 1 0 20240409194436
+2803:b9c0:43c6:7f28:4439:2de6:7812:ffe7 1 1 15844 20240422203311
+201.245.212.110 6 85 3150994 20240418123912
+202.40.221.132 5 87 1265395 20240425093544
+2600:3c03::f03c:92ff:feda:f889 0 2 1710 
+131.0.214.159 8 115 5504213 20240405141944
+57.128.81.210 1 1 15844 20240419000204
+195.74.76.223 0 1 236476 
+2800:2502:104:4f53:9058:5d0:9c44:5fa 5 103 3754254 20240405194458
+136.243.94.103 1 1 96929 20240424063450
+34.141.147.241 1 1 15843 20240407021933
+200.68.172.43 0 2 1710 
+35.217.34.142 3 108 467367 20240414145502
+200.71.1.98 11 92 3870627 20240408084408
+84.17.46.17 4 4 15904 20240423072159
+5.35.32.125 22 22 1068585 20240426124134
+74.125.212.32 1 24 200180 20240420094909
+2.57.169.135 1 1 12952 20240403021837
+2803:9800:9401:8a77:b57d:907e:b217:b141 5 104 3787375 20240418114344
+201.33.73.169 1 1 9024 20240405092023
+189.176.107.139 5 96 3618246 20240422115257
+81.167.35.230 0 2 25717 
+196.196.253.86 1 2 17077 20240404070042
+181.202.5.26 5 106 1730391 20240411192726
+200.83.129.169 8 127 4810949 20240426204523
+77.26.12.6 0 1 337 
+81.167.38.196 0 1 189175 
+2001:1388:5e0e:9440:6c17:1524:12c9:6c46 0 2 1710 
+104.168.159.7 2 3 17118 20240429231317
+186.143.165.29 6 93 34842 20240416190140
+181.92.176.230 5 75 723329 20240413055716
+185.54.231.50 1 1 7723 20240407035918
+177.71.79.48 1 1 8908 20240405085703
+117.151.148.223 1 1 15844 20240428160744
+187.54.206.127 1 1 9013 20240405092328
+186.143.137.189 16 143 4537249 20240417165422
+110.154.99.156 1 1 15844 20240416233842
+104.143.250.205 1 1 13121 20240407062551
+190.182.142.244 11 205 7491371 20240413190926
+181.26.199.112 6 78 753693 20240406201612
+98.97.91.172 0 2 1710 
+45.130.202.225 1 1 177 20240423175633
+18.119.17.207 1 1 94548 20240417181408
+186.12.56.99 6 92 2015469 20240427183038
+45.182.30.136 17 296 7037759 20240416130735
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 140 1290 44826053 29
+20240402 130 1514 42795639 36
+20240403 157 1879 63943212 52
+20240404 133 1583 40619823 39
+20240405 198 1283 50626306 67
+20240406 113 937 33895792 36
+20240407 81 740 28394031 25
+20240408 185 1882 81993142 55
+20240409 179 2065 93620914 51
+20240410 134 1613 58699991 38
+20240411 140 1835 67178228 37
+20240412 186 1613 60478559 47
+20240413 184 2168 74044508 45
+20240414 166 1767 67675744 46
+20240415 327 2714 81962573 94
+20240416 220 2431 88134385 58
+20240417 896 2247 42393410 50
+20240418 132 1520 60735882 45
+20240419 183 2198 97500317 48
+20240420 121 704 22523562 44
+20240421 106 932 31778960 27
+20240422 100 1440 44027996 28
+20240423 66 495 9323699 30
+20240424 145 752 26630701 45
+20240425 191 736 29565341 47
+20240426 128 1490 54275558 37
+20240427 137 651 27702157 31
+20240428 221 847 28740258 60
+20240429 195 1816 53444565 50
+20240430 154 1418 65656714 34
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 1102
+2mn-5mn 41
+30mn-1h 40
+5mn-15mn 47
+15mn-30mn 24
+1h+ 7
+30s-2mn 70
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 149
+/hello-world/ 786 51072766 187 184
+/ 718 22976240 533 420
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff 615 4786832 15 16
+/wp-json/contact-form-7/v1/contact-forms/7349/feedback/schema 507 111444 10 287
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2 376 29281899 4 15
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2 370 4889478 6 23
+/ahoyadoras/ 296 5798079 211 32
+/wp-json/oembed/1.0/embed 277 347833 0 1
+/pagina-inicial/contacto/ 119 3318887 77 37
+/wp-json/contact-form-7/v1/contact-forms/7371/feedback/schema 96 19680 5 29
+/wp-json/wp/v2/pages/5722 3 15646 0 0
+/ahoyadoras/manguera-hidraulica/ 5 66370 0 0
+/implementos-para-motossierras/fuera-de-borda-para-motossierra/ 30 431174 11 6
+/wp-json/wp/v2/pages/343 3 22492 0 0
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff 22 2236806 0 3
+/ahoyadoras/perfuratriz-hidraulica-ht-15/ 2 33149 1 1
+/wp-admin/install.php 1 531 1 0
+/ahoyadoras/perfuratriz-hidraulica-hb-17/ 45 858048 27 15
+/wp-json/wp/v2/pages/19245 3 19269 0 0
+/ahoyadoras/portapuntas-ch20fd/ 6 84949 0 0
+/ahoyadoras/ahoyadora-hidraulica-hb-28/ 1 0 0 1
+/wp-json/wp/v2/pages/149 2 18300 0 0
+/ahoyadoras/ahoyadora-hidraulica-hb-13/ 20 362354 4 2
+/tmp/ 1 236848 1 0
+/wp-json/wp/v2/users/5 3 879 0 0
+/wp-json/wp/v2/users/ 3 23169 3 3
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf 19 309073 0 5
+/author/informatica/ 3 29602 0 0
+/wp-json/wp/v2/pages/18324 3 23920 0 1
+/wp-json/contact-form-7/v1/contact-forms/7349/refill 5 110 0 3
+/wp-config.php 3 60 0 1
+/wp-json/wp/v2/pages/355 3 20231 0 0
+/wp-json/wp/v2/pages/18192 3 21974 0 0
+/ahoyadoras/bit-c21hd/ 6 84775 0 0
+/implementos-para-motossierras/fumigador/ 6 83682 0 0
+/mechas/mecha-con-navaja-simple/ 8 130832 0 0
+/ahoyadoras/ahoyadora-hidraulica-hb-14/ 18 327748 7 2
+/mechas/mecha-tubular/ 8 129418 1 0
+/wp-json/wp/v2/pages/5673 3 15314 0 0
+/wp-json/wp/v2/pages/19321 3 19323 0 0
+/mechas/broca-con-bits/ 8 129535 0 0
+/ahoyadoras/perfuratriz-hidraulica-hb-23/ 31 615895 20 2
+/ahoyadoras/bit-rz2-01p-para-asfalto/ 6 85044 0 0
+/wp-json/wp/v2/pages/341 2 16041 0 0
+/ahoyadoras/excavadora/ 1 16114 0 0
+/wp-json/wp/v2/users/2 3 4386 0 0
+/wp-json/wp/v2/pages/19493 3 14889 0 0
+/category/uncategorized/ 3 30454 0 0
+/wp-json/wp/v2/pages/1452 3 29361 0 0
+/ahoyadoras/ahoyadora-hidraulica-hb-19/ 27 489607 12 5
+/mechas/mecha-navaja-con-surcador/ 1 16674 0 0
+/wp-json/wp/v2/pages/19477 3 15340 0 0
+/mechas/ 4 55652 4 4
+/wp-json/wp/v2/users 1 1700 1 1
+/wp-json/wp/v2/pages/19257 2 10713 0 0
+/wp-json/wp/v2/posts/1 3 5835 0 0
+/feed/ 5 5704 1 1
+/author/eduardo-ferras/ 3 29596 0 0
+/ahoyadoras/ahoyadora-hidraulica-ht-10/ 42 723134 14 5
+/wp-json/wp/v2/pages/349 3 25635 0 0
+/ahoyadoras/ahoyadora-hidraulica-hb-21/ 7 125560 0 0
+/wp-json/wp/v2/pages/345 3 23248 0 0
+/wp-json/ 3 45417 0 0
+/wp-json/wp/v2/pages/18279 3 24428 0 0
+/wp-login.php 29 260656 29 29
+/ahoyadoras/tractor/ 15 221532 2 3
+/wp-json/wp/v2/pages/19420 3 19215 0 0
+/pagina-inicial/ 1 67824 1 1
+/author/informatica/feed/ 2 1114 0 0
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf 22 281314 1 2
+/implementos-para-motossierras/taladro/ 29 422634 18 4
+/author/eduardo-ferras/feed/ 3 1665 0 0
+/wp-json/wp/v2/pages/12 3 13653 0 0
+/ahoyadoras/perfuratriz-hidraulica-hb-44/ 10 176143 1 0
+/wp-json/wp/v2/pages/19439 3 17225 0 0
+/mechas/mecha-con-garra/ 11 180474 3 1
+/wp-json/wp/v2/categories/1 3 3645 0 0
+/implementos-para-motossierras/desmalezadora/ 10 143720 3 1
+/wp-json/wp/v2/users/4 3 891 0 0
+/ahoyadoras/torquimetro/ 8 115161 2 1
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur 6 708 0 2
+/ahoyadoras/perfurador-de-suelo-ps-06/ 8 121119 0 0
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf 21 2055140 0 3
+/wp-json/wp/v2/pages/387 3 19838 0 0
+/ahoyadoras/perfuratriz-hidraulica-p-314/ 7 113866 0 0
+/ahoyadoras/perfuratriz-hidraulica-pr-134/ 7 115537 1 1
+/category/uncategorized/feed/ 3 2658 0 0
+/wp-json/wp/v2/pages/5712 3 15673 0 0
+/wp-json/wp/v2/pages/5719 3 15580 0 0
+/wp-json/wp/v2/pages/19487 3 14621 0 0
+/ahoyadoras/ahoyadora-hidraulica-hb-18/ 11 202529 0 0
+/implementos-para-motossierras/perfurador-de-suelo-ps-10/ 26 446212 1 1
+/author/guilhermefs/feed/ 3 2652 0 0
+/wp-json/wp/v2/pages/19158 3 24548 0 0
+/wp-json/wp/v2/pages/19497 3 14710 0 0
+/wp-json/wp/v2/pages/5790 3 15506 0 0
+/2018/ 1 0 1 1
+/wp-json/wp/v2/pages/19470 3 12245 0 0
+/ahoyadoras/navaja-con-sulcador/ 6 84960 0 0
+/ahoyadoras/garra-para-ahoyadoras/ 6 85806 0 0
+/wp-json/wp/v2/pages/19483 3 14880 0 0
+/ahoyadoras/soporte-h/ 5 74245 0 0
+/wp-json/wp/v2/pages/391 3 19793 0 0
+/mechas/mecha-helice-continua/ 8 129408 2 1
+/comments/feed/ 8 6879 1 2
+/ahoyadoras/grua/ 15 243743 3 1
+/wp-json/wp/v2/pages/353 3 19622 0 0
+/ahoyadoras/ahoyadora-hidraulica-hb-16/ 14 257562 5 0
+/wp-json/wp/v2/pages/19129 3 24969 0 0
+/wp-json/wp/v2/pages/5734 3 14356 0 0
+/implementos-para-motossierras/cortador-abrasivo/ 6 85980 0 0
+/hello-world/feed/ 3 2214 0 0
+/implementos-para-motossierras/perfurador-de-suelo-ps-05/ 21 305517 2 1
+/wp-json/wp/v2/pages/19350 3 15559 0 0
+/ahoyadoras/navaja-simple/ 6 84738 0 0
+/ahoyadoras/mini-maquinas/ 6 98173 0 0
+/wp-json/wp/v2/pages/18 3 10759 0 0
+/wp-json/wp/v2/pages/131 2 6138 0 0
+/wp-content/plugins/ 2 40 1 1
+/sobre/ 23 321135 5 5
+/wp-json 36 545004 0 10
+/wp-comments-post.php 5 10422 0 4
+/implementos-para-motossierras/fuera-de-borda/ 6 77719 4 1
+/mechas/removedor-de-tocones/ 35 191570 4 1
+/wp-json/contact-form-7/v1/contact-forms/7349/feedback 88 16508 19 79
+/wp-json/wp/v2/pages/19453 3 16707 0 0
+/author/guilhermefs/ 4 42131 0 0
+/ahoyadoras/ahoyadora-hidraulica-ht-14/ 9 157821 1 1
+/wp-json/wp/v2/pages/5664 3 14884 0 0
+//wp-json/wp/v2/users/ 2 15638 0 2
+/wp-json/wp/v2/pages/19504 3 14855 0 0
+/wp-json/wp/v2/pages/347 3 16813 0 0
+/wp-json/wp/v2/pages/337 3 22480 0 0
+/implementos-para-motossierras/ 55 698832 6 9
+/wp-json/wp/v2/pages/19398 3 19196 0 0
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff 22 357632 2 0
+/ahoyadoras/retroexcavadora/ 20 245001 6 3
+/ahoyadoras/soporte-para-minicargadora/ 7 104780 0 0
+/wp-json/wp/v2/pages/18243 3 22936 0 0
+/ahoyadoras/minicargadora/ 9 160212 7 1
+/wp-json/wp/v2/pages/5742 3 15136 0 0
+/ahoyadoras/perfuratriz-hidraulica-ht-60/ 46 828533 30 13
+/wp-json/wp/v2/pages/11228 3 16479 0 0
+/wp-json/wp/v2/pages/5702 3 14519 0 0
+/implementos-para-motossierras/saca-tabla/ 24 555014 9 3
+/wp-json/contact-form-7/v1/contact-forms/7371/feedback 39 8051 0 35
+/mechas/barrena-concha/ 1 83639 1 1
+/implementos-para-motossierras/bomba-de-agua/ 14 202369 4 1
+/.well-known/acme-challenge/ 1 10 0 1
+END_SIDER

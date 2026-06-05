@@ -1,0 +1,2067 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 202012 will be lost/reset.
+# Last config file used to build this data file was /home/web-ded-319494b/awstats/conf/awstats.bristolbr.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 29
+POS_GENERAL 2050                
+POS_TIME 2721                
+POS_VISITOR 48651               
+POS_DAY 65616               
+POS_DOMAIN 3658                
+POS_LOGIN 3892                
+POS_ROBOT 4047                
+POS_WORMS 4707                
+POS_EMAILSENDER 4838                
+POS_EMAILRECEIVER 4981                
+POS_SESSION 66509               
+POS_SIDER 66720               
+POS_FILETYPES 5116                
+POS_OS 5430                
+POS_BROWSER 5676                
+POS_SCREENSIZE 9083                
+POS_UNKNOWNREFERER 9157                
+POS_UNKNOWNREFERERBROWSER 9592                
+POS_ORIGIN 9831                
+POS_SEREFERRALS 9977                
+POS_PAGEREFS 10134               
+POS_SEARCHWORDS 11942               
+POS_KEYWORDS 12094               
+POS_MISC 2383                
+POS_ERRORS 12153               
+POS_CLUSTER 3748                
+POS_SIDER_404 12343               
+POS_EXTRA_1 21212               
+POS_EXTRA_2 21649               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210101001213 211 61730 13437771095649
+FirstTime 0
+LastTime 20201231200231
+LastUpdate 20210101010408 211 0 210 0 0
+TotalVisits 709                 
+TotalUnique 389                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 447                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 140 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 48 103 4737765 230 250 2044227
+1 98 229 9380072 177 221 1898180
+2 56 97 4267443 236 297 3721062
+3 36 58 1514383 126 168 2113493
+4 58 98 3918480 108 128 839562
+5 52 65 1678073 182 224 2974962
+6 59 98 3421002 123 145 697753
+7 65 162 5250369 117 145 1407177
+8 97 265 11110161 130 227 1458549
+9 74 131 4670362 116 147 931728
+10 80 198 7947984 157 219 3079033
+11 135 278 12121910 300 353 1590440
+12 87 168 6656101 131 150 1124863
+13 124 351 12005180 253 334 4488747
+14 142 574 21987078 152 182 1167354
+15 91 226 7265960 132 161 1749386
+16 106 358 15473681 281 363 4356708
+17 103 326 13514457 201 232 1133871
+18 83 242 10550855 146 180 1314265
+19 81 142 4334962 188 206 882118
+20 95 201 8061784 222 283 4185823
+21 93 227 11153029 251 321 7623611
+22 61 86 1861190 270 310 5376564
+23 295 391 5685118 219 274 5665361
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 2219 5074 188567399
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bot[\s_+:,\.\;\/\\-] 1128 18937385 20201231202702 112
+wordpress 823 16460 20201231234655 0
+googlebot 597 10404342 20201231234659 19
+[\s_+:,\.\;\/\\-]bot 272 17936023 20201230044620 0
+crawl 123 1195673 20201227214447 13
+yandex 69 815655 20201230014845 27
+unknown 13 885 20201226222654 13
+java\/[0-9] 11 60690 20201227003454 0
+custo 10 0 20201222234522 0
+python 8 31243 20201231085124 2
+powermarks 6 196116 20201219163406 0
+no_user_agent 2 62100 20201224011742 0
+favicon 1 4119 20201219015612 0
+netcraft 3 61561 20201231024012 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+eot 6 269774 0 0
+css 765 17780661 0 0
+png 718 42360692 0 0
+cn 152 0 0 0
+woff2 200 9427593 0 0
+woff 189 1340510 0 0
+php 1417 33149884 0 0
+cur 5 590 0 0
+xml 10 8820 0 0
+js 1103 54523877 0 0
+jpg 163 29279485 0 0
+Unknown 241 49696 0 0
+svg 9 49333 0 0
+gif 96 326484 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 19
+linuxandroid 1970
+winlong 9
+winxp 274
+win2000 71
+symbian 1
+winvista 143
+win95 25
+winunknown 4
+win2003 27
+unix 6
+winnt 1638
+win98 6
+linuxubuntu 1
+linux 201
+winme 20
+win16 3
+macosx 174
+Unknown 42
+win2008 459
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 175
+firefox28.0 1
+webcapture 3
+firefox33.1 2
+chrome88.0.4240.193 5
+chrome84.0.4147.125 76
+chrome74.0.3729.157 4
+chrome63.0.3239.83 2
+chrome75.0.3770.143 27
+msie7.0 9
+chrome80.0.3987.0 22
+chrome80.0.3987.117 1
+chrome86.0.4240.185 27
+firefox40.0 2
+chrome76.0.3809.132 22
+chrome55.0.2922.39 1
+chrome74.0.3729.136 49
+chrome62.0.3202.94 4
+firefox38.0 2
+firefox68.0 1
+netscape0.6 1
+firefox75.0 20
+netscape5.0 8
+chrome37.0.0.0 16
+chrome83.0.4103.34 35
+chrome78.0.3904.96 25
+chrome35.0.1916.47 3
+chrome84.0.4147.105 9
+chrome83.0.4103.0 16
+chrome86.0.4240.110 25
+safari 24
+chrome67.0.3396.87 23
+chrome34.0.1847.76 1
+chrome83.0.4103.24 18
+chrome83.0.4089.0 7
+safari13.1.2 23
+safari11.0 2
+chrome41.0.2225.0 2
+android 164
+chrome68.0.3440.75 11
+chrome48.0.2564.116 36
+firefox52.0 1
+chrome67.0.3396.79 4
+chrome86.0.4240.193 22
+chrome71.0.3578.98 3
+opera9.80 3
+chrome61.0.3163.128 9
+chrome46.0.2490.85 1
+netscape4.76 6
+chrome39.0.0.0 1
+iphone 26
+chrome87.0.4280.66 301
+firefox62.0 1
+chrome83.0.4103.44 25
+chrome26.0.1410.65 1
+chrome34.0.1847.116 5
+chrome71.0.3578.99 1
+msie5.0 6
+chrome58.0.1145.75 1
+opera7.54 3
+chrome57.0.2987.132 50
+chrome66.0.3359.126 1
+chrome59.0.3071.115 11
+chrome83.0.4098.0 10
+firefox84.0 19
+chrome41.0.2226.0 1
+chrome85.0.4183.102 33
+opera8.01 8
+chrome86.0.4240.99 60
+msie5.5 13
+firefox30.0 2
+firefox56.0 3
+netscape4.79 8
+chrome45.0.2454.94 1
+chrome62.0.3202.84 1
+chrome83.0.4102.0 13
+chrome86.0.4240.198 454
+chrome42.0.0.0 1
+chrome81.0.4044.138 49
+chrome68.0.3440.91 52
+chrome79.0.3945.116 24
+safari4.0.4 25
+chrome86.0.4240.75 2
+chrome70.0.3538.110 1
+chrome69.0.3497.100 4
+chrome66.0.3359.170 16
+chrome67.0.3396.62 2
+chrome87.0.4280.101 432
+chrome64.0.3282.140 1
+chrome75.0.3770.100 25
+msie6.0 259
+firefox57.0 2
+chrome84.0.4147.89 25
+chrome5.0.375.99 3
+chrome83.0.4103.101 79
+chrome81.0.4044.129 6
+chrome39.0.2171.95 2
+curl 2
+chrome68.0.3423.2 33
+chrome83.0.4096.0 18
+chrome58.0.3029.110 9
+chrome63.0.3239.84 2
+chrome53.0.2785.146 6
+opera7.60 9
+netscape3.0 9
+firefox59.0 1
+chrome79.0.3945.93 3
+chrome62.0.3202.89 3
+chrome66.0.3359.181 8
+chrome49.0.2623.112 5
+opera9.0 7
+chrome83.0.4103.7 2
+chrome41.0.2224.3 1
+chrome80.0.3987.162 29
+chrome58.0.3029.83 2
+firefox72.0 8
+chrome68.0.3440.106 20
+chrome63.0.3239.132 4
+chrome83.0.4099.2 10
+firefox44.1 2
+chrome87.0.4280.67 22
+chrome83.0.4087.0 21
+chrome49.0.2623.75 2
+firefox45.0 1
+chrome60.0.3112.113 3
+chrome83.0.4103.83 24
+mozilla 175
+chrome79.0.3945.136 58
+chrome68.0.3440.84 16
+chrome40.0.2214.89 22
+firefox80.0 1
+chrome83.0.4086.0 21
+firefox39.1 2
+chrome44.0.2403.133 25
+chrome73.0.3683.90 4
+chrome40.0.2214.93 2
+chrome83.0.4103.14 8
+chrome87.0.4280.88 678
+chrome86.0.4240.183 58
+firefox2.0.0.10 1
+opera9.00 6
+chrome57.0.2987.108 88
+msie2.0 27
+chrome83.0.4103.61 144
+chrome43.0.2357.93 1
+chrome74.0.3729.169 31
+Unknown 6
+firefox11.0 27
+chrome53.0.2785.49 25
+chrome72.0.3626.109 128
+chrome83.0.4100.3 9
+chrome66.0.3359.106 1
+chrome70.0.3538.77 2
+firefox32.1 2
+netscape4.61 5
+chrome77.0.3865.90 11
+chrome63.0.3239.111 1
+chrome35.0.1916.138 7
+opera8.00 3
+chrome73.0.3683.86 118
+chrome78.0.3904.108 1
+firefox58.0 1
+chrome41.0.2227.0 2
+chrome20.0.1132.57 1
+chrome3.0.195.6 1
+chrome80.0.3987.149 23
+chrome83.0.4093.3 25
+firefox83.0 1
+chrome79.0.3945.88 1
+chrome67.0.3396.99 12
+chrome83.0.4103.106 77
+chrome54.0.2840.85 24
+chrome87.0.4280.86 23
+chrome83.0.3770.100 1
+safari14.0.1 54
+chrome65.0.3325.109 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+curl/7.29.0 20201221154017
+AngleSharp/0.14.0.0 20201204190755
+Go-http-client/1.1 20201219185328
+Go_http_package 20201221082809
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201207115603
+got_(https://github.com/sindresorhus/got) 20201213073115
+Mozilla/5.0_(compatible;_ips-agent) 20201221152208
+GuzzleHttp/6.5.5_curl/7.29.0_PHP/7.1.12 20201219140617
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+AngleSharp/0.14.0.0 20201204190755
+Go-http-client/1.1 20201219185328
+Go_http_package 20201221082809
+got_(https://github.com/sindresorhus/got) 20201213073115
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 651 852
+From1 2 2
+From2 93 94
+From3 404 405
+From4 1069 3721
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 93 94
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 51
+https://credit.co.ua/ru/ 24 24
+https://online-zaymy.ru 18 18
+https://enpolis.ru 18 18
+https://jobgirl24.ru 17 17
+https://sexyebonyteen.com 17 17
+https://subj.ukr-lit.com 15 15
+https://instajust.com 15 15
+http://newfilmsonline.ru 15 15
+https://infobanks.ru 14 14
+https://francaise-poesie.com 12 12
+https://wotis.site/1900.html 1 1
+http://www.labves.ru 6 6
+https://dveriokna.dp.ua/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bb%d0%be%d0%bf%d0%bb%d0%b0%d1%81%d1%82%d0%b8%d0%ba%d0%be%d0%b2%d1%8b%d0%b5-%d0%b4%d0%b2%d0%b5%d1%80%d0%b8/ 1 1
+https://xxxasianporn.net 4 4
+http://www.bristol.ind.br 1 1
+http://dlqyj.tpgx.net/blog/64344299/view/ 1 1
+http://site.ru 2 2
+https://obiavo.uz 3 3
+https://fonscore.com 6 6
+http://wswjp.clarityketo.org/blog/64344299/view/ 1 1
+https://azarttoto.com 9 9
+https://biographiya.com 9 9
+https://blackbabesporn.com 12 12
+https://azartmsl.com 12 12
+http://www.tsatu.edu.ua 9 9
+https://supermodni.com.ua 12 12
+http://bcrz.csucces.net/blog/64344299/view/ 1 2
+https://guidefs.ru 3 3
+https://kazlenta.kz 12 12
+https://mompussy.net 12 12
+https://painting-planet.com 6 6
+https://obiavo.com 3 3
+https://sauni-moskva.ru 8 8
+https://www.rvtv.ru 12 12
+https://apteka-online.biz 12 12
+https://badavit.com.ua 12 12
+https://obiavo.in 3 3
+https://sauna-v-ufe.ru 6 6
+https://obiavo.kz 3 3
+https://fototravel.eu 12 12
+https://potolki.kr.ua 2 2
+http://baidu.com 2 2
+https://www.jbetting.com 9 9
+https://www.rospromtest.ru 3 3
+https://greenshop.su 3 3
+https://polska-poezja.com 6 6
+https://vse-pesni.com 12 12
+https://potolki.kr.ua/%d1%84%d0%be%d1%82%d0%be%d0%be%d0%b1%d0%be%d0%b8/ 1 1
+https://lenpipet.ru 3 3
+https://1001desert.com 3 3
+http://191.6.212.95:80 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 594 153553
+503 1 0
+206 14 1114481
+400 17 277
+401 6 786
+302 26 80
+500 340 3975245
+301 631 14150
+404 685 6838919
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 341
+/wordpress/ 3 -
+/conf.php 2 http://site.ru
+/logs/logs.php 1 http://site.ru
+/media-admin.php.suspected 3 http://google.com
+/wp-config.php_new 1 -
+/admin.php 1 http://site.ru
+/blackhat.php 1 http://google.com
+/87/5.php 1 http://site.ru
+/logo_img.php 1 http://site.ru
+/web/ 2 -
+/o.php 2 http://google.com
+/install/ 2 -
+/wp-content/themes/filemanager.php 1 -
+/wp-config.php_bak 2 -
+/wp-cofigs.php 2 http://site.ru
+/wp-config.php.bac 1 -
+/1/wp-config.php 1 -
+/wp-config.php.disabled 1 -
+/blackhat.php.suspected 2 http://google.com
+/old/wp-1ogin_bak.php 3 -
+/wp-config.php_temp1 1 -
+/wp-config.php.txt 1 -
+/doc.php 4 http://google.com
+/wp-config.php_swp 1 -
+/xkuarhjejzjo.html 1 -
+/slide5/ 4 http://bristolbr.com.ar/slide5/
+/slide4/ 4 http://bristolbr.com.ar/slide4/
+/test/ 2 -
+/config/config.json 1 -
+/wp-config.php.BAK 1 -
+/emergency.php 1 www.google.com
+/xo.php 1 bristolbr.com.ar
+/config/application.rb 1 -
+/wp-config.php__ 2 -
+/wp-content/themes/fle.php 1 -
+/rdb/ 1 -
+/wp-config.php.archive 1 -
+/ganks.php.PhP 1 http://google.com
+/wp-config.disabled 1 -
+/cache/doc.php 4 http://google.com
+/wp-config.php_cpy 1 -
+/wp-config.php.save.1 1 -
+/rabeta-hu/ 4 http://bristolbr.com.ar/rabeta-hu/
+/wp-config.php-- 1 -
+/.well-known.zip 4 -
+/wp-config.php2 1 -
+/mindex.php 1 bristolbr.com.ar
+/wp-config.php.svn 1 -
+/ajax-index.php 1 bristolbr.com.ar
+/pagina-inicial/perfuratrizes 2 -
+/cgi-bin.zip 2 -
+/wp-config.php_back 1 -
+/wp-config.php.dis 1 -
+/produtos 1 -
+/wp-config.php.new 2 -
+/wp-config.php.0 1 -
+/wp-config.php_sav 1 -
+/wp-config.php_save 1 -
+/sitemaps.xml 6 -
+/wp-config.php.orig 5 -
+/wordpress/wp-1ogin_bak.php 4 -
+/ads.txt 47 -
+/wp-content/class.php 4 -
+/wp-config.phpbkp 1 -
+/css.php 1 http://site.ru
+/v2/ 2 -
+/perfuratriz-hidraulica-retroescavadeira-1/ 4 http://bristolbr.com.ar/perfuratriz-hidraulica-retroescavadeira-1/
+/srdb/ 1 -
+/wp-config.php.bk 1 -
+/banner/ 4 http://bristolbr.com.ar/banner/
+/old-wp/ 2 -
+/wp-config.php-old 1 -
+/wp-info.php 3 http://google.com
+/content 1 -
+/class= 1 -
+/config/configuration.yml 1 -
+/wp-config.php_conf 1 -
+/wp-config.php.dbg 1 -
+/wp-config.php.bak.a2 1 -
+/wp-caches.php 4 http://site.ru
+/config/deploy.rb 1 -
+/wp-config.php_orig 1 -
+/wp-config.php.inc~ 1 -
+/logo-bristol-mini-2/ 4 http://bristolbr.com.ar/logo-bristol-mini-2/
+/new/ 3 -
+/landing-rabeta-fundo-escuro/ 4 http://bristolbr.com.ar/landing-rabeta-fundo-escuro/
+/img.php 2 http://google.com
+/wp-config.php_cp 1 -
+/55index.php 2 http://google.com
+/wp-config 3 -
+/search-replace/ 1 -
+/user.ini.php 2 http://site.ru
+/wp-config.php_file 1 -
+/bk/ 2 -
+/backup.zip 3 -
+/wp-config.php.temp 1 -
+/wp-config.php-original 1 -
+/config/storage.yml 1 -
+/wp-config.php.original 1 -
+/find-replace.php 1 -
+/wp2/ 2 -
+/composer.json 1 -
+/wp-config.php.backup 2 -
+/wp-config.php.arc 1 -
+/wp-config.php_DISABLE 1 -
+/wp-content/plugins/fm.php 1 -
+/wp-config.php123 1 -
+/config/application.yml 1 -
+/wp-config.php.dis1 1 -
+/wp-config.php_bqp 1 -
+/wikindex.php 3 bristolbr.com.ar
+/wp-config.php_git 1 -
+/slider-9/ 4 http://bristolbr.com.ar/slider-9/
+/baindex.php 3 bristolbr.com.ar
+/config/sms_settings.yml 1 -
+/permalink/popup-pomo.php 1 http://site.ru
+/manager.php 1 -
+/wp-config.php_arc 1 -
+/wp-config.php_disabled 1 -
+/furadeira-hu-3/ 4 http://bristolbr.com.ar/furadeira-hu-3/
+/find-replace/ 1 -
+/cache/simple.php5 4 http://site.ru
+/wp-config.php.tmp 1 -
+/wp-1ogin_bak.php 4 -
+/wp-content/filemanager.php 1 -
+/wp-config.php_archive 1 -
+/lang-set.php 1 -
+/wp-config.php_bkp 1 -
+/wp-config.php-back 1 -
+/wp-config.php.restore 1 -
+/wp-config.php.resetwp_bak 3 -
+/wp-config.php.bak1 1 -
+/wp-config.php_default 1 -
+/wp1/ 2 -
+/wp-config.php.old1 1 -
+/wp-config.php.cpy 1 -
+/tf.php 1 -
+/blog/ 3 -
+/wp-config.php~ 5 -
+/wp/ 3 -
+/wp-content/fm.php 1 -
+/wp-config.php_2 1 -
+/wp-config.php_inc 1 -
+/v1/ 2 -
+/wp-config.php.temp1 1 -
+/config/environment.rb 1 -
+/wp-content/wp-1ogin_bak.php 1 -
+/mini.php 1 http://google.com
+/1.txt 2 -
+/slider-10/ 4 http://bristolbr.com.ar/slider-10/
+/demo/ 2 -
+/wp-plugins.php 1 http://google.com
+/pressthis/popup-pomo.php 1 http://site.ru
+/wp-config.php.BACK 1 -
+/backup/ 3 -
+/hello.php 1 http://google.com
+/wp-config.php-bak 2 -
+/wp-config.php-org 1 -
+/wp-admin/wp-1ogin_bak.php 1 -
+/wp-config.php_backup 2 -
+/wp-config.php-backup 1 -
+/sr.php 1 -
+/wp-config.php.CloudTech_bak 1 -
+/wp-config.php_org 1 -
+/wp-config.php.swp 1 -
+/installer.php 5 -
+/wp-config.php_dbg 1 -
+/wp-config-php 1 -
+/wp-config.php.DIS 1 -
+/tinyfile.php 1 -
+/wp-config.php12 1 -
+/b.php 2 http://site.ru
+/blog/wp-1ogin_bak.php 4 -
+/site.zip 4 -
+/wp-json/trx_addons/V2/get/sc_layout 1 -
+/Search-Replace-DB-master-ohiu/ 1 -
+/wp-config.php.default 1 -
+/ 71 -
+/wp-config.php.bck 1 -
+/wp-config.php_restore 1 -
+/wp-content/plugins/wp-symposium/server/php/index.php 1 -
+/bak/ 2 -
+/new-site/ 2 -
+/wp-logout.php 1 http://google.com
+/docindex.php 5 http://google.com
+/wp-content/fle.php 1 -
+/kindex.php 1 http://bristolbr.com.ar/kindex.php
+/wp-config.php.save 4 -
+/.wp-config.php.swp 1 -
+/aindex.php 1 http://bristolbr.com.ar/aindex.php
+/fle.php 1 -
+/storage/.env 1 -
+/wp-config.php_temp 1 -
+/index2.php 1 http://site.ru
+/wp-config.php.sav 1 -
+/wp-config.php.re 1 -
+/wp-config.php.off 1 -
+/tmp/sfx.php 1 http://site.ru
+/wp-config.php_old 1 -
+/cache/ups.php.suspected 1 http://google.com
+/bristolbr.zip 4 -
+/external.php 1 -
+/wp-config.php.bkp 2 -
+/wp-config.php111 1 -
+/id= 1 -
+/wp-config.php_dev 1 -
+/tmanager.php 1 -
+/2019/ 3 -
+/wp-config.php_0 1 -
+/wp-config.php.dev 1 -
+/wp-admin.zip 2 -
+/wp-config.php.cp 1 -
+/tiny.php 1 -
+/default.php 1 http://site.ru
+/wp-content/plugins/filemanager.php 1 -
+/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 2 http://google.com
+/wp-config.php_prod 1 -
+/wp-config.php1 1 -
+/ns.php.suspected 1 http://site.ru
+/wp-config.php.DISABLE 1 -
+/cache/content-post.php 2 http://google.com
+/wp-includes/wp-1ogin_bak.php 1 -
+/simple.php5 1 http://google.com
+/wp-config.php.bqp 1 -
+/wp-config.php.bcak 1 -
+/Archive.zip 3 -
+/windex.php 1 http://bristolbr.com.ar/windex.php
+/gank.php.PhP 3 http://site.ru
+/wp-config.php_tmp 1 -
+/cache/doc.php.suspected 1 http://google.com
+/wp-config.php_bck 1 -
+/ups.php 3 http://google.com
+/wp/wp-1ogin_bak.php 4 -
+/span 1 -
+/replace/ 1 -
+/wp-config.php_ 1 -
+/wp-content/app-locatlon.php 1 http://google.com
+/wp-config.php_svn 1 -
+/wp-config.debug 1 -
+/wp-config.php.org 1 -
+/temp/ 2 -
+/content-post.php.suspected 1 http://site.ru
+/public_html.zip 2 -
+/wp-config.php_txt 1 -
+/dev/ 3 -
+/wp-config.php_dis 1 -
+/wp-config.php_bk 2 -
+/sitemap.xml.gz 7 -
+/.wp-config.php.swo 1 -
+/wp-config.php.back 2 -
+/installer-backup.php 9 -
+/home/ 2 -
+/wp-config.php_re 1 -
+/wordpress/wp-config.php~ 1 -
+/topo/ 4 http://bristolbr.com.ar/topo/
+/replacedb.php 1 -
+/tinyf.php 1 -
+/options/popup-pomo.php 1 http://site.ru
+/srdb.php 1 -
+/wp-blogs.php 1 http://site.ru
+/wso.php 2 -
+/searchreplacewp/ 1 -
+/vendor/.env 1 -
+/wp-config.phpbk 1 -
+/wp-config.php.2 1 -
+/js/admin.js 2 -
+/wp-config.php.git 1 -
+/wp-config.php_ini 1 -
+/controller.php 1 http://google.com
+/mide.php 1 http://site.ru
+/cache/wp-plugins.php 2 http://google.com
+/wp-config.php.conf 1 -
+/1/.wp-config.php 1 -
+/wp-config.php.aus 1 -
+/aria-label= 1 -
+/old/ 3 -
+/wp-config.php_debug 1 -
+/wp-config.php_cnf 1 -
+/wp-config.backup 1 -
+/searchreplacedb.php 1 -
+/main/ 2 -
+/wp-config.php.save.2 1 -
+/profile/popup-pomo.php 1 http://google.com
+/search/ 1 -
+/qindex.php 1 http://bristolbr.com.ar/qindex.php
+/wp-config_php 2 -
+/wp-content/admin2.php 1 -
+/wp/wp-config.php~ 1 -
+/lfm.php 1 http://site.ru
+/config/smtp_settings.yml 1 -
+/wp-config.php11 1 -
+/wordpress.zip 3 -
+/wp-config.php_aus 1 -
+/SR/ 1 -
+/sr/ 1 -
+/wp-config.php.debug 1 -
+/public/.env 1 -
+/87/ 1 http://google.com
+/wp-config.php_1 1 -
+/file.php 1 http://site.ru
+/wp-content/themes/fm.php 1 -
+/wp-config.php_bac 1 -
+/humans.txt 2 -
+/database.yml 1 -
+/wp-config.php_off 1 -
+/new_side.php.suspected 1 http://google.com
+/wp-content/plugins/fle.php 1 -
+/cache/content-post.php.suspected 1 http://google.com
+/site/ 2 -
+/wp-config.php-bk 1 -
+/oldsite/ 1 -
+/.env 14 -
+/wp-blog.php 1 http://site.ru
+/wp-config.php3 1 -
+/doc.php.suspected 2 http://google.com
+/wp-config.php- 1 -
+/info.php 1 http://google.com
+/wp-config.php.cnf 1 -
+/readme.php 1 http://site.ru
+/wp-content/wp-muen.php 1 http://site.ru
+/2020/ 2 -
+/wp-config.php-dis 1 -
+/wp-config.php_copy 1 -
+/wp-config.php.copy 1 -
+/well-known.zip 3 -
+/wp-config.php.prod 1 -
+/wp-config.php.file 1 -
+/slide3/ 4 http://bristolbr.com.ar/slide3/
+/wp-config.php.1 2 -
+/bristolbr.com.ar.zip 4 -
+/wp-content/admin-code50.php 1 http://google.com
+/SRDB/ 1 -
+/wp-logs.php 1 http://site.ru
+/cms/ 2 -
+/wp-config.php.~ 1 -
+/atom.xml 5 -
+/tfmanager.php 1 -
+/config.bak.php 7 -
+/wp-content/wp-info.php 1 http://google.com
+/config/database.yml 1 -
+/old-site/ 2 -
+END_SIDER_404
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_1 5
+/wp-content/uploads/layerslider/Home/slide4.jpg 0 4 370872 
+/wp-content/uploads/layerslider/Home/slide5.jpg 0 2 200747 
+/wp-content/uploads/layerslider/Home/slide3.jpg 0 4 84778 
+/wp-content/uploads/layerslider/Home/slider-10.jpg 0 2 358254 
+/wp-content/uploads/layerslider/Furadeira/furadeira-hu-3.png 0 2 99830 
+END_EXTRA_1
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_2 496
+/wp-cron.php 823 823 16460 
+/pagina-inicial/contacto/ 736 736 21934797 
+/ 438 438 3951034 
+/wp-json/contact-form-7/v1/contact-forms/7349/feedback 230 230 36268 
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff 197 197 1461806 
+/robots.txt 186 186 12764 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2 117 117 1592418 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2 116 116 9286207 
+/pagina-inicial/ahoyadoras/ 112 112 2311914 
+/pagina-inicial/implementos-para-motossierras/taladro/ 106 106 1152862 
+/wp-json/oembed/1.0/embed 78 78 100253 
+/pagina-inicial/sobre/ 69 69 843401 
+/pagina-inicial/implementos-para-motossierras/ 68 68 711242 
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-17/ 68 68 1098284 
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-ht-15/ 63 63 740836 
+/pagina-inicial/ahoyadoras/ahoyadora-hidraulica-hb-16/ 52 52 785832 
+/author/guilhermefs/ 51 51 393737 
+/pagina-inicial/implementos-para-motossierras/desmalezadora/ 47 47 545092 
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-pr-134/ 43 43 533402 
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-ht-60/ 39 39 530481 
+/pagina-inicial/ahoyadoras/retroexcavadora/ 38 38 529687 
+/pagina-inicial/implementos-para-motossierras/bomba-de-agua/ 38 38 429531 
+/pagina-inicial/implementos-para-motossierras/fuera-de-borda/ 34 34 272565 
+/pagina-inicial/implementos-para-motossierras/saca-tabla/ 31 31 317470 
+/pagina-inicial/implementos-para-motossierras/perfurador-de-suelo-ps-05/ 27 27 292578 
+/xmlrpc.php 27 27 11205 
+/hello-world/ 27 27 151248 
+/pagina-inicial/implementos-para-motossierras/fuera-de-borda-para-motossierra/ 26 26 323059 
+/pagina-inicial/mechas/mecha-navaja-con-surcador/ 24 24 349819 
+/pagina-inicial/mechas/mecha-con-garra/ 22 22 325656 
+/wp-admin/admin-ajax.php 22 22 2946 
+/pagina-inicial/implementos-para-motossierras/perfurador-de-suelo-ps-10/ 21 21 271947 
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-35/ 21 21 369898 
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-23/ 20 20 309648 
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-p-314/ 19 19 256192 
+/pagina-inicial/ahoyadoras/excavadora/ 19 19 308036 
+/pagina-inicial/ahoyadoras/miniexcavadora/ 19 19 336417 
+/pagina-inicial/mechas/mecha-con-navaja-simple/ 18 18 312072 
+/pagina-inicial/ahoyadoras/perfurador-de-suelo-ps-06/ 17 17 166626 
+/pagina-inicial/mechas/barrena-concha/ 17 17 264210 
+/pagina-inicial/ahoyadoras/ahoyadora-hidraulica-hb-19/ 16 16 306697 
+/pagina-inicial/ahoyadoras/grua/ 15 15 218816 
+/pagina-inicial/implementos-para-motossierras/cortador-abrasivo/ 15 15 213611 
+/feed/ 14 14 12749 
+/pagina-inicial/implementos-para-motossierras/fumigador/ 14 14 194048 
+/comments/feed/ 12 12 9084 
+/pagina-inicial/mechas/ 12 12 108354 
+/pagina-inicial/ahoyadoras/minicargadora/ 12 12 240079 
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/icomoon.woff 11 11 121790 
+/wp-admin/load-scripts.php 8 8 523624 
+/wp-admin/load-styles.php 6 6 450370 
+/wp-json/wp/v2/ 6 6 263834 
+/pagina-inicial/mechas/mechas-para-madera/ 6 6 48908 
+/wp-json/wp/v2/users/ 6 6 16625 
+/wp-admin/ 5 5 180434 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur 5 5 590 
+/torquimetro-bristol/ 5 5 35585 
+/author/marketing/ 4 4 21318 
+/pagina-inicial/contacto/orcamento/ 4 4 29508 
+/pagina-inicial/ahoyadoras/acessorios-para-perfuratrizes/ 4 4 28422 
+/garra-para-brocas/ 4 4 28223 
+/pagina-inicial/mechas/mecha-muestro-suelo/ 4 4 32179 
+/wp-content/plugins/wordpress-seo/images/Yoast_SEO_Icon.svg 3 3 2159 
+/author/eduardo-ferras/ 3 3 16023 
+/wp-admin/images/wordpress-logo.svg 3 3 3157 
+/wp-json/yoast/v1/statistics 3 3 888 
+/wp-content/plugins/wp-fastest-cache/images/icon.svg 3 3 44017 
+/wp-admin/edit-comments.php 3 3 67208 
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot 2 2 25642 
+/wp-json/ 2 2 132252 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2 2 2 154833 
+/wp-login.php 2 2 3546 
+/wp-config.php 2 2 92 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot 2 2 33622 
+/tmp/ 2 2 352494 
+/search/www.guangxiymcb.cn 2 2 0 
+/search/www.lyjzfw.cn 2 2 0 
+/search/www.nemvc.cn 2 2 0 
+/category/uncategorized/ 2 2 10440 
+///wp-admin/install.php 2 2 2798 
+/wp-content/themes/twentyseventeen/404.php 2 2 560 
+/search/www.ytgso.cn 2 2 0 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot 2 2 210510 
+/search/www.yumiaohc.cn 1 1 0 
+/search/www.guizhouymcc.cn 1 1 0 
+/wp-admin/install.php 1 1 1399 
+/search/www.yumiaolb.cn 1 1 0 
+/search/www.shandongymcc.cn 1 1 0 
+/search/www.yumiaoqb.cn 1 1 0 
+/search/www.yumiaoad.cn 1 1 0 
+//wp-json/wp/v2/users/ 1 1 3123 
+/search/www.zhenhai2.cn 1 1 0 
+/search/www.yumiaopc.cn 1 1 0 
+/search/www.yumiaoza.cn 1 1 0 
+/search/www.liaoningymcb.cn 1 1 0 
+/search/www.anhuiymcg.cn 1 1 0 
+/search/www.yumiaopa.cn 1 1 0 
+/search/www.fujianymcb.cn 1 1 0 
+/search/www.sichuanymcc.cn 1 1 0 
+/search/www.yumiaorb.cn 1 1 0 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1.jpg 0 16 5442285 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/twitter_16.png 0 11 6080 
+/wp-admin/js/widgets/media-video-widget.min.js 0 2 3917 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png 0 7 4662 
+/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-patcher-admin-menu-notices.js 0 5 2594 
+/wp-includes/js/jquery/ui/autocomplete.min.js 0 2 11009 
+/wp-content/plugins/wp-fastest-cache/js/toolbar.js 0 14 29956 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-800x982.png 0 1 260494 
+/wp-content/uploads/2018/05/FOTOADICIONAL1-320x202.jpg 0 1 7650 
+/wp-includes/css/dist/block-library/theme.min.css 0 72 42813 
+/wp-content/plugins/LayerSlider/static/layerslider/skins/v5/skin.css 0 104 65518 
+/wp-content/themes/Avada/assets/admin/js/avada-admin-notices.js 0 5 4178 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-600x377.jpg 0 3 82353 
+/wp-content/themes/Avada/assets/admin/js/wp-color-picker-alpha.js 0 2 10191 
+/wp-admin/js/widgets/media-gallery-widget.min.js 0 2 5030 
+/wp-includes/js/jquery/jquery.ui.touch-punch.js 0 2 1764 
+/wp-content/uploads/fusion-scripts/aff42052cafb815fa2d2ec3ffe29cbdf.min.js 0 145 29623330 
+/wp-content/uploads/2018/05/ahoyadora-minicargadora.png 0 5 1096155 
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/icomoon.css 0 3 3830 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/landing-rabeta-fundo-escuro-1024x610.jpg 0 2 263686 
+/wp-content/plugins/wordpress-seo/css/dist/adminbar-1480.css 0 3 2648 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png 0 4 940 
+/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js 0 74 229636 
+/wp-content/cache/wpfc-minified/fhonitqs/7q6j.js 0 77 9169858 
+/wp-content/uploads/fusion-styles/ebc35c13e6467065f5914b1fbfc6b91a.min.css 0 12 1167216 
+/wp-admin/js/widgets/media-audio-widget.min.js 0 2 2166 
+/wp-content/uploads/layerslider/Home/slider-10-1024x480.jpg 0 7 269591 
+/wp-content/uploads/layerslider/Furadeira/furadeira-hu-3.png 0 17 2184016 
+/wp-content/plugins/visualizer/js/render-facade.js 0 39 98572 
+/wp-includes/css/buttons.min.css 0 2 2916 
+/search/www.yumiaorc.cn 1 1 0 
+/category-sitemap.xml 0 12 5160 
+/search/www.shanxiymcd.cn 1 1 0 
+/wp-content/uploads/2018/05/PERFURATRIZ-VEICULAR-ROTATIVA-BRISTOL-P-314.jpg 0 4 295192 
+/slide-page-sitemap.xml 0 12 5664 
+/wp-content/uploads/2018/05/Ahoyadora-Grua.jpg 0 4 641148 
+/search/www.scckym.cn 1 1 0 
+/search/www.hebeiymcc.cn 1 1 0 
+/search/www.yumiaoab.cn 1 1 0 
+/search/www.qgxwdx.cn 1 1 0 
+/wp-admin/css/forms.min.css 0 2 12012 
+/wp-content/cache/wpfc-minified/6mv870ig/7q6j.css 0 67 1883460 
+/wp-content/uploads/layerslider/Home/slide4-1024x780.jpg 0 7 724864 
+/search/www.jiangsuymcg.cn 1 1 0 
+/wp-admin/js/widgets.min.js 0 2 16064 
+/search/www.sichuanymca.cn 1 1 0 
+/wp-content/uploads/2018/05/HT-15-PERFODORA-TRACTOR.png 0 21 4729520 
+/wp-content/plugins/wordpress-seo/js/dist/styled-components-1480.js 0 5 127308 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/digg_16.png 0 11 6710 
+/search/www.anhuiymch.cn 1 1 0 
+/search/www.yumiaoja.cn 1 1 0 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-1200x1473.png 0 2 1086718 
+/search/www.liaoningymcf.cn 1 1 0 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/facebook_16.png 0 11 5020 
+/search/www.shandongymci.cn 1 1 0 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/reddit_16.png 0 11 7440 
+/wp-content/plugins/wordpress-seo/js/dist/redux-1480.js 0 5 68486 
+/wp-includes/js/jquery/jquery.color.min.js 0 2 13238 
+/search/www.fdxbl.cn 1 1 0 
+/wp-content/plugins/akismet/_inc/akismet.js 0 5 30822 
+/wp-includes/js/media-editor.min.js 0 2 14498 
+/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css 0 76 282660 
+/search/www.yumiaojc.cn 1 1 0 
+/wp-content/uploads/2018/05/FOTOADICIONAL0.jpg 0 4 743032 
+/wp-content/uploads/2018/05/brazil.png 0 128 115072 
+/wp-includes/js/wplink.min.js 0 2 15154 
+/wp-content/uploads/2018/05/FOTOADICIONAL4.jpg 0 4 254920 
+/wp-includes/js/jquery/jquery-migrate.min.js 0 77 291036 
+/wp-content/uploads/2018/05/FOTOADICIONAL0-320x202.jpg 0 1 19548 
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css 0 1 2599 
+/wp-includes/js/media-models.min.js 0 2 18482 
+/search/www.hubeiymcf.cn 1 1 0 
+/wp-content/uploads/layerslider/Furadeira/slider-9-400x225.jpg 0 1 10167 
+/search/www.hubeiymch.cn 1 1 0 
+/wp-content/uploads/layerslider/Home/slide5-1024x483.jpg 0 7 568995 
+/search/www.yumiaogc.cn 1 1 0 
+/wp-content/plugins/akismet/_inc/form.js 0 3 1336 
+/wp-admin/images/spinner.gif 0 1 3656 
+/wp-admin/js/widgets/custom-html-widgets.min.js 0 2 7493 
+/wp-includes/js/dist/hooks.min.js 0 2 8332 
+/wp-content/cache/wpfc-minified/2b1deiek/4ebds.css 0 22 2128478 
+/wp-content/cache/wpfc-minified/77dz116p/4m1uw.css 0 20 1838193 
+/search/www.guizhouymca.cn 1 1 0 
+/wp-includes/js/codemirror/codemirror.min.css 0 1 4332 
+/search/www.zhejiangymca.cn 1 1 0 
+/search/www.liaoningymcg.cn 1 1 0 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/delicious_16.png 0 11 4670 
+/search/www.yumiaojb.cn 1 1 0 
+/search/www.yumiaodd.cn 1 1 0 
+/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/img/logo-20x20.png 0 3 1752 
+/search/www.fujianymcc.cn 1 1 0 
+/search/www.shandongymcf.cn 1 1 0 
+/wp-content/uploads/2018/05/DSC3361.jpg 0 13 2447393 
+/wp-includes/js/dist/vendor/lodash.min.js 0 5 195344 
+/wp-admin/admin-post.php 1 1 0 
+/wp-admin/js/widgets/media-widgets.min.js 0 2 18964 
+/wp-content/uploads/layerslider/Home/slide5.jpg 0 17 3669926 
+/search/www.guangdongymck.cn 1 1 0 
+/search/www.yumiaoic.cn 1 1 0 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff 1 1 16758 
+/search/www.yumiaocb.cn 1 1 0 
+/wp-content/plugins/wp-fastest-cache/css/style.css 0 9 64674 
+/hello-world/feed/ 1 1 734 
+/search/www.yumiaodc.cn 1 1 0 
+/search/www.yumiaoub.cn 1 1 0 
+/wp-includes/css/dashicons.min.css 0 2 56962 
+/wp-includes/js/imgareaselect/imgareaselect.css 0 1 265 
+/search/www.sichuanymce.cn 1 1 0 
+/wp-content/cache/wpfc-minified/32qhiajp/7q6j.css 0 69 216251 
+/search/www.yumiaooa.cn 1 1 0 
+/avada_faq-sitemap.xml 0 42 16422 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png 0 2 1654 
+/wp-admin/css/l10n.min.css 0 2 1372 
+/wp-includes/css/dist/block-library/style.min.css 0 73 565607 
+/wp-content/themes/Avada/includes/lib/assets/min/js/library/fuse.js 0 2 14219 
+/wp-content/plugins/wordpress-seo/css/dist/admin-global-1480.css 0 3 10090 
+/wp-includes/js/plupload/plupload.min.js 0 2 21255 
+/wp-includes/js/plupload/moxie.min.js 0 2 115783 
+/wp-content/plugins/easy-wp-smtp/css/style.css 0 1 563 
+/search/www.anhuiymcf.cn 1 1 0 
+/search/www.shandongymcd.cn 1 1 0 
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js 0 2 200117 
+/avada_portfolio-sitemap.xml 0 41 16195 
+/search/www.yumiaoec.cn 1 1 0 
+/wp-includes/js/jquery/jquery.js 0 87 2832729 
+/wp-content/themes/Avada/assets/admin/js/fusion-menu-options.js 0 2 25092 
+/search/www.yumiaozc.cn 1 1 0 
+/wp-includes/js/mediaelement/mediaelement-migrate.min.js 0 2 1738 
+/search/www.yinlingjiaoyu.cn 1 1 0 
+/wp-includes/images/w-logo-blue-white-bg.png 0 90 362472 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/js/fa-v4-shims.js 0 2 19878 
+/wp-content/uploads/2018/05/HB-35-ahoyadora-hidraulica.png 0 6 611916 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif 0 11 178830 
+/search/www.tyfxgm.cn 1 1 0 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-1024x643.jpg 0 1 67607 
+/search/www.yumiaotb.cn 1 1 0 
+/search/www.guizhouymcb.cn 1 1 0 
+/wp-includes/js/heartbeat.min.js 0 2 7958 
+/wp-content/themes/Avada/assets/admin/js/selectWoo.full.min.js 0 2 98717 
+/wp-content/plugins/LayerSlider/static/layerslider/skins/v6/loading.gif 0 6 22030 
+/wp-content/cache/wpfc-minified/ee23s0z4/4hvx9.css 0 35 3603413 
+/wp-content/themes/Avada/assets/css/style.min.css 0 77 1408176 
+/wp-includes/js/zxcvbn.min.js 0 3 1621559 
+/search/www.yumiaova.cn 1 1 0 
+/wp-includes/js/wp-backbone.min.js 0 2 4226 
+/wp-content/uploads/2018/05/rc-9668.png 0 6 688854 
+/search/www.yumiaowc.cn 1 1 0 
+/post-sitemap.xml 0 11 4675 
+/search/www.shanghaiymca.cn 1 1 0 
+/wp-includes/js/media-views.min.js 0 2 130873 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/landing-rabeta-fundo-escuro-768x458.jpg 0 2 165124 
+/wp-includes/css/buttons.css 0 1 2442 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-hidraulica.png 0 5 559220 
+/wp-content/uploads/layerslider/Home/slide3.jpg 0 16 1364176 
+/search/www.jiangsuymcc.cn 1 1 0 
+/search/www.cnfghb.cn 1 1 0 
+/wp-admin/js/svg-painter.js 0 2 7654 
+/wp-admin/js/color-picker.min.js 0 2 4714 
+/search/www.yumiaoya.cn 1 1 0 
+/wp-includes/js/thickbox/thickbox.css 0 3 1864 
+/search/www.heyuana.cn 1 1 0 
+/search/www.yumiaotc.cn 1 1 0 
+/wp-content/plugins/wordpress-seo/js/dist/components-1480.js 0 5 1802520 
+/search/www.liaoningymcd.cn 1 1 0 
+/wp-includes/js/wp-emoji-release.min.js 0 5 37108 
+/search/www.furniturebbs.cn 1 1 0 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-600x124.png 0 3 287463 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-400x83.png 0 4 185964 
+/search/www.hebeiymcg.cn 1 1 0 
+/search/www.easterntree.cn 1 1 0 
+/search/www.shenzhengc.cn 1 1 0 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png 0 4 3140 
+/search/www.yumiaolc.cn 1 1 0 
+/search/www.yihe888.cn 1 1 0 
+/wp-includes/js/dist/dom-ready.min.js 0 2 1815 
+/wp-content/uploads/fusion-styles/6f38db770f90e044edd7da09080bb65d.min.css 0 3 194938 
+/search/www.yumiaocd.cn 1 1 0 
+/wp-content/plugins/visualizer/css/front.css 0 15 4320 
+/wp-content/plugins/wordpress-seo/js/dist/dashboard-widget-1480.js 0 4 6921 
+/wp-content/plugins/LayerSlider/static/layerslider/skins/v5/loading.gif 0 10 44060 
+/wp-includes/js/codemirror/fakejshint.js 0 2 1521 
+/wp-content/uploads/layerslider/Furadeira/slider-9.jpg 0 6 824622 
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf 1 1 12776 
+/wp-content/uploads/2018/05/Perforadora-Hidraulica-p-314.png 0 6 1406640 
+/wp-content/uploads/layerslider/Furadeira/slider-9-768x432.jpg 0 9 213600 
+/sitemap_index.xml 0 110 46914 
+/wp-content/uploads/2018/05/HB-17-ahoyadora-hidraulica.png 0 14 500962 
+/search/www.zhejiangymcc.cn 1 1 0 
+/search/www.yumiaoxc.cn 1 1 0 
+/wp-content/uploads/2018/05/FOTOADICIONAL2.jpg 0 4 380652 
+/wp-content/uploads/2018/05/FOTOADICIONAL2-320x202.jpg 0 1 22726 
+/wp-content/uploads/2018/05/FOTOADICIONAL4-320x202.jpg 0 1 17477 
+/wp-includes/js/tinymce/tinymce.min.js 0 2 487969 
+/wp-includes/js/media-audiovideo.min.js 0 2 16464 
+/wp-content/plugins/wordpress-seo/css/dist/dashboard-1480.css 0 3 1094 
+/wp-content/themes/Avada/assets/admin/js/avada-fusion-options.js 0 2 34465 
+/wp-content/uploads/2018/05/logo-bristol-mini.png 0 123 368409 
+/search/www.yimeishow.cn 1 1 0 
+/search/www.fujianymce.cn 1 1 0 
+/wp-content/uploads/visualizer/customization.js 0 35 10302 
+/search/www.yumiaonc.cn 1 1 0 
+/search/www.guangdongymcg.cn 1 1 0 
+/search/www.guangxiymce.cn 1 1 0 
+/wp-content/uploads/layerslider/Furadeira/slider-9-1200x675.jpg 0 1 53630 
+/search/www.yumiaokc.cn 1 1 0 
+/search/www.yumiaofb.cn 1 1 0 
+/search/www.hebeiymce.cn 1 1 0 
+/wp-content/uploads/2018/05/FOTOADICIONAL3.jpg 0 4 304748 
+/wp-includes/js/tw-sack.min.js 0 2 4458 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/js/icons-search-free.js 0 2 179890 
+/wp-content/plugins/wp-fastest-cache/css/toolbar.css 0 9 41184 
+/wp-content/uploads/2018/05/ht-60-Ahoyadora-tractor.png 0 13 4514419 
+/search/www.guizhouymcg.cn 1 1 0 
+/search/www.yumiaoac.cn 1 1 0 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-700x441.jpg 0 3 107232 
+/wp-content/uploads/layerslider/Furadeira/slider-9-1024x576.jpg 0 6 206585 
+/search/www.shandongymch.cn 1 1 0 
+/search/www.yumiaoyc.cn 1 1 0 
+/wp-content/plugins/wordpress-seo/js/dist/commons-1480.js 0 5 4358 
+/search/www.yumiaooc.cn 1 1 0 
+/search/www.yntxgjly.cn 1 1 0 
+/wp-includes/js/mce-view.min.js 0 2 13683 
+/wp-content/plugins/akismet/_inc/akismet.css 0 3 6300 
+/wp-content/plugins/contact-form-7/images/ajax-loader.gif 0 65 47432 
+/wp-includes/js/shortcode.min.js 0 2 3805 
+/search/www.yidianxueche.cn 1 1 0 
+/search/www.guangxiymci.cn 1 1 0 
+/search/www.yumiaobd.cn 1 1 0 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/font-awesome.min.css 0 1 12761 
+/wp-includes/js/dist/i18n.min.js 0 2 12763 
+/search/www.shanxiymcb.cn 1 1 0 
+/search/www.yumiaoda.cn 1 1 0 
+/wp-admin/js/media-upload.min.js 0 2 1755 
+/wp-includes/js/wp-util.min.js 0 3 2261 
+/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js 0 2 5868 
+/wp-content/uploads/2018/05/ps6-perforador-de-suelo.png 0 8 639195 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-600x737.png 0 2 302012 
+/wp-content/uploads/2018/05/Ahoyadora-excavadora.jpg 0 5 941515 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo.png 0 44 12087937 
+/search/www.yumiaoma.cn 1 1 0 
+/search/www.yumiaovc.cn 1 1 0 
+/search/www.anhuiymce.cn 1 1 0 
+/search/www.guangxiymcc.cn 1 1 0 
+/search/www.yumiaoqc.cn 1 1 0 
+/wp-includes/js/codemirror/esprima.js 0 2 327329 
+/wp-content/plugins/LayerSlider/static/layerslider/img/icon-muted-white.png 0 3 8016 
+/wp-content/uploads/2018/05/Miniescv.jpg 0 4 452096 
+/search/www.shikhruida.cn 1 1 0 
+/search/www.hebeiymca.cn 1 1 0 
+/wp-includes/js/wp-embed.min.js 0 144 101508 
+/wp-includes/js/mediaelement/wp-mediaelement.min.css 0 1 1156 
+/wp-content/uploads/fusion-styles/5e6e834a51c1473d9c91d332d5090d3c.min.css 0 62 5738458 
+/search/www.boyue56.cn 1 1 0 
+/wp-includes/js/jquery/ui/menu.min.js 0 2 12375 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png 0 11 9300 
+/wp-content/plugins/wordpress-seo/js/dist/draft-js-1480.js 0 5 532538 
+/wp-admin/js/code-editor.min.js 0 2 4406 
+/wp-content/uploads/layerslider/Home/slide4-1200x914.jpg 0 1 136815 
+/wp-content/plugins/LayerSlider/static/layerslider/skins/v6/skin.css 0 48 52371 
+/search/www.hubeiymcb.cn 1 1 0 
+/wp-content/plugins/wordpress-seo/js/dist/admin-global-1480.js 0 5 12262 
+/search/www.anhuiymcc.cn 1 1 0 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-1024x211.png 0 11 2702425 
+/search/www.yumiaora.cn 1 1 0 
+/wp-includes/wlwmanifest.xml 0 9 7775 
+/faq-items/ 1 1 5313 
+/search/www.yumiaofa.cn 1 1 0 
+/wp-includes/js/underscore.min.js 0 3 27564 
+//wp-includes/wlwmanifest.xml 0 1 1045 
+/wp-includes/js/wp-auth-check.min.js 0 2 2615 
+/wp-includes/js/jquery/ui/position.min.js 0 2 8989 
+/wp-content/themes/Avada/assets/admin/js/jquery.nouislider.min.js 0 2 24921 
+/wp-content/uploads/2018/05/Foto-z%C3%A9.jpg 0 4 891568 
+/wp-admin/js/iris.min.js 0 2 31724 
+/wp-includes/js/codemirror/csslint.js 0 2 433646 
+/wp-content/uploads/2018/05/HB-16-ahoyadora-400x491.png 0 1 70329 
+/search/www.yumiaota.cn 1 1 0 
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/v4-shims.min.css 0 1 4080 
+/search/www.yumiaosc.cn 1 1 0 
+/wp-content/plugins/wordpress-seo/js/dist/analysis-1480.js 0 6 6924372 
+/wp-content/uploads/2018/05/PERFURATRIZ-VEICULAR-ROTATIVA-BRISTOL-P-314-320x202.jpg 0 1 18744 
+/wp-content/uploads/layerslider/Home/slide3-1024x483.jpg 0 7 250068 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png 0 2 1004 
+/search/www.anhuiymca.cn 1 1 0 
+/search/www.lfysjy.cn 1 1 0 
+/search/www.longdugame.cn 1 1 0 
+/search/www.yumiaoca.cn 1 1 0 
+/wp-includes/js/jquery/ui/slider.min.js 0 2 13969 
+/search/www.tzyzp.cn 1 1 0 
+/search/www.yumiaofc.cn 1 1 0 
+/category/uncategorized/feed/ 1 1 808 
+/wp-content/uploads/layerslider/Home/slide4.jpg 0 16 3026800 
+/wp-includes/js/codemirror/codemirror.min.js 0 2 767304 
+/wp-admin/js/image-edit.min.js 0 2 13762 
+/wp-includes/js/backbone.min.js 0 2 31855 
+/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js 0 76 2984556 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-400x251.jpg 0 1 14162 
+/wp-includes/js/dist/a11y.min.js 0 2 3306 
+/wp-content/uploads/2018/05/HB-16-ahoyadora.png 0 19 16730944 
+/search/www.qianshuos.cn 1 1 0 
+/wp-content/uploads/fusion-styles/49a9d5b11e91ce08bc315789930f0f34.min.css 0 9 875403 
+/wp-content/uploads/fusion-styles/7f5c0036445bfd5c601d2e204a6413e9.min.css 0 5 486315 
+/wp-content/cache/wpfc-minified/7j44mm60/4if0f.css 0 26 2515344 
+/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js 0 74 3207672 
+/search/www.hubeiymcd.cn 1 1 0 
+/wp-content/uploads/2018/05/US-1.png 0 120 77544 
+/author/guilhermefs/feed/ 1 1 809 
+/search/www.yumiaowa.cn 1 1 0 
+/wp-content/themes/Avada/assets/admin/css/select2.css 0 1 2246 
+/wp-includes/js/thickbox/thickbox.js 0 2 17160 
+/search/www.guangdongymce.cn 1 1 0 
+/feed/atom/ 1 1 716 
+/wp-includes/js/plupload/wp-plupload.min.js 0 2 7837 
+/search/www.chicfund.cn 1 1 0 
+/search/www.jiangsuymce.cn 1 1 0 
+/wp-content/uploads/2018/05/US.png 0 4 2872 
+/search/www.yumiaohb.cn 1 1 0 
+/search/www.yunnanymcc.cn 1 1 0 
+/wp-includes/css/editor.min.css 0 3 11904 
+/wp-content/plugins/visualizer/js/render-google.js 0 32 126852 
+/wp-content/plugins/wordpress-seo/js/dist/api-client-1480.js 0 5 2110 
+/wp-content/themes/Avada/assets/admin/css/admin.css 0 3 18850 
+/wp-json/contact-form-7/v1/contact-forms/7371/feedback 1 1 155 
+/search/www.yumiaouc.cn 1 1 0 
+/wp-includes/js/dist/vendor/wp-polyfill.min.js 0 5 266386 
+/wp-admin/js/password-strength-meter.min.js 0 3 1722 
+/search/www.shandongymcb.cn 1 1 0 
+/wp-content/themes/Avada/assets/admin/js/wNumb.js 0 2 10807 
+/wp-content/uploads/2018/05/Perforadora-retroexcavadora-pr-134.png 0 4 977488 
+/wp-admin/widgets.php 1 1 85909 
+/wp-admin/css/login.min.css 0 2 3796 
+/search/www.yumiaobc.cn 1 1 0 
+/page-sitemap.xml 0 12 28836 
+/search/www.shanxiymcf.cn 1 1 0 
+/search/www.yumiaonb.cn 1 1 0 
+/wp-includes/js/api-request.min.js 0 2 1276 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/landing-rabeta-fundo-escuro.jpg 0 1 943713 
+/search/www.ytw360.cn 1 1 0 
+/wp-content/uploads/fusion-scripts/a109529216c24e7c96c0703100c674ad.min.js 0 2 214977 
+/wp-content/uploads/layerslider/Celebre-Bristol-copy/banner.jpg 0 4 2668556 
+/search/www.sichuanymcg.cn 1 1 0 
+/wp-content/uploads/2018/05/DSC3361-400x273.jpg 0 1 25307 
+/search/www.yumiaoeb.cn 1 1 0 
+/wp-includes/js/thickbox/loadingAnimation.gif 0 3 30476 
+/wp-content/uploads/layerslider/Topo-Produtos/Topo-768x158.png 0 15 2077712 
+/wp-content/plugins/wordpress-seo/js/dist/jed-1480.js 0 5 44242 
+/wp-content/plugins/contact-form-7/includes/js/scripts.js 0 162 596844 
+/wp-content/cache/wpfc-minified/149ei4vt/4ebds.css 0 62 255750 
+/search/www.guangxiymcg.cn 1 1 0 
+/wp-content/themes/Avada/assets/css/ie.min.css 0 1 1303 
+/wp-admin/js/user-profile.min.js 0 3 9783 
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js 0 2 13438 
+/wp-content/plugins/LayerSlider/static/layerslider/img/icon-unmuted-white.png 0 3 17568 
+/wp-content/plugins/wordpress-seo/css/dist/wpseo-dismissible-1480.css 0 3 742 
+/author-sitemap.xml 0 11 4741 
+/wp-content/plugins/LayerSlider/static/admin/css/global.css 0 3 4658 
+/search/www.yumiaomc.cn 1 1 0 
+/wp-content/themes/Avada/includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slider/vendor/nouislider/fusionredux.jquery.nouislider.css 0 1 1051 
+/search/www.shandongymce.cn 1 1 0 
+/search/www.beijingymca.cn 1 1 0 
+/search/www.zghchb.cn 1 1 0 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png 0 2 1674 
+/search/www.xiaohumajiang.cn 1 1 0 
+/wp-content/plugins/LayerSlider/static/admin/js/ls-admin-global.js 0 5 0 
+/wp-includes/js/codemirror/htmlhint.js 0 2 23439 
+/wp-content/plugins/LayerSlider/static/layerslider/skins/v5/skin.png 0 33 105696 
+/wp-admin/js/widgets/media-image-widget.min.js 0 2 2894 
+/search/www.vxiake.cn 1 1 0 
+/wp-content/uploads/layerslider/Home/slider-10.jpg 0 19 7495595 
+/search/www.jiangsuymca.cn 1 1 0 
+/search/www.yumiaoxa.cn 1 1 0 
+/wp-content/uploads/layerslider/Home/slider-10-1200x563.jpg 0 1 49717 
+/search/www.zhejiangymce.cn 1 1 0 
+/wp-content/cache/wpfc-minified/7xddfcq0/5r1io.css 0 20 92093 
+/wp-admin/js/editor.min.js 0 2 18110 
+/wp-admin/js/widgets/text-widgets.min.js 0 2 7959 
+/wp-includes/js/quicktags.min.js 0 2 14726 
+/wp-content/uploads/layerslider/Landing-Perfuratriz/Perfuratriz-Hidr%C3%A1ulica-Retroescavadeira-1-320x202.jpg 0 1 9800 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png 0 8 12558 
+/wp-includes/js/zxcvbn-async.min.js 0 3 869 
+/search/www.dongguand.cn 1 1 0 
+/search/www.yumiaoha.cn 1 1 0 
+/search/www.shandongymca.cn 1 1 0 
+/wp-content/uploads/layerslider/Landing-Rabeta-Oficial/rabeta-hu.png 0 5 520710 
+/search/www.yunnanymch.cn 1 1 0 
+/search/www.gzcq1688.cn 1 1 0 
+/wp-includes/js/mediaelement/wp-mediaelement.min.js 0 2 1381 
+/wp-content/uploads/2018/05/FOTOADICIONAL1.jpg 0 4 162172 
+/wp-content/plugins/wp-fastest-cache/js/column.js 0 14 12554 
+/search/www.sw-jewelry.cn 1 1 0 
+/search/www.guangdongymci.cn 1 1 0 
+/search/www.guizhouymcd.cn 1 1 0 
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png 0 2 1642 
+/search/www.sichuanymci.cn 1 1 0 
+/search/www.yumiaoxb.cn 1 1 0 
+/search/www.pjyfsm.cn 1 1 0 
+END_EXTRA_2
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 447
+129.204.24.99 277 277 0 20201222234522
+37.115.113.102 98 98 3152005 20201222083824
+5.188.84.228 82 82 1346615 20201230223023
+195.123.209.118 81 81 2641863 20201227091138
+5.34.180.192 60 60 1961172 20201226190326
+178.159.37.104 60 60 1956020 20201225193619
+189.6.245.229 53 225 4053522 20201201162811
+186.84.20.85 50 199 4831349 20201208221231
+5.188.84.115 44 44 722573 20201231064329
+178.159.37.128 42 42 874404 20201229113649
+3.83.101.241 1 4 83205 20201201144037
+190.236.246.35 4 19 971052 20201205044534
+81.17.16.148 0 1 3319 
+181.198.131.155 4 20 623972 20201217130919
+216.218.141.227 4 22 1491575 20201204101437
+66.249.80.33 0 1 880576 
+191.126.1.47 8 66 2471945 20201216145641
+46.118.236.127 3 3 98061 20201206031434
+23.229.119.3 1 1 5602 20201207215552
+5.189.239.249 3 3 65530 20201219184903
+51.159.36.101 1 1 5602 20201209203355
+181.209.98.186 10 34 1595886 20201221081423
+212.230.117.134 16 59 3650165 20201216085133
+109.201.130.22 2 2 32845 20201204231511
+170.51.188.73 6 28 904172 20201223130938
+200.63.97.53 1 1 415 20201201231558
+138.199.26.87 3 3 63624 20201231021127
+31.220.1.233 0 1 3319 
+45.152.202.12 1 1 5602 20201208133249
+45.136.173.91 1 1 5602 20201208201020
+200.71.89.60 5 35 1855961 20201228212146
+66.249.85.75 0 3 1464315 
+192.3.190.242 2 2 830 20201208024633
+31.220.2.223 2 2 92 20201213161627
+34.203.194.85 1 3 961194 20201201161305
+217.171.147.164 2 2 32845 20201205050622
+181.124.188.66 0 1 847 
+54.226.175.67 0 3 40326 
+206.123.139.229 2 2 32844 20201218051911
+170.51.164.79 8 29 940025 20201215184610
+45.132.129.237 2 2 32875 20201229213441
+35.174.136.71 0 5 226120 
+170.82.196.151 4 22 1491288 20201205205319
+189.113.125.163 4 22 1491285 20201218104929
+54.242.158.132 1 6 193038 20201201143747
+185.206.214.71 2 2 32844 20201229105618
+51.159.37.31 1 1 5602 20201208214431
+201.219.100.68 4 20 1003890 20201208173604
+95.130.175.250 1 1 7077 20201219170002
+187.161.181.111 6 37 1039181 20201212075330
+93.170.124.208 0 1 563 
+181.209.95.162 4 25 752523 20201209123009
+95.84.19.130 2 2 32844 20201213224749
+40.77.188.253 0 1 797895 
+186.235.57.22 4 19 932968 20201221122721
+142.44.252.26 1 1 7141 20201208220258
+190.216.68.222 5 33 1005447 20201229153234
+191.103.96.68 4 29 685464 20201210070038
+45.61.171.233 2 2 7874 20201229141118
+3.137.159.117 4 16 614430 20201201053702
+167.172.233.171 2 2 33901 20201219170116
+34.82.236.205 1 1 0 20201211170901
+188.165.232.202 1 1 32686 20201211221514
+89.111.33.223 2 2 32844 20201230112634
+46.248.167.158 1 1 2035 20201219140617
+37.57.18.229 1 1 32687 20201206163751
+52.87.191.23 0 6 52892 
+188.26.210.115 4 25 1199931 20201201102108
+45.134.187.242 1 1 5601 20201204042657
+128.68.235.229 3 3 65532 20201207013700
+185.183.208.12 1 1 1010 20201227090040
+178.184.96.152 2 2 32844 20201216113034
+186.64.116.235 1 1 415 20201212093753
+52.251.114.233 1 2 9519 20201221090008
+190.239.65.132 7 39 1169778 20201209182306
+178.168.196.238 3 3 65530 20201212093832
+35.199.183.196 1 1 0 20201211115648
+66.249.93.209 0 1 880576 
+40.77.191.28 0 1 18184 
+5.188.211.24 4 4 166620 20201210093916
+107.77.249.43 4 24 875674 20201211162732
+191.243.58.123 4 22 1491285 20201228171234
+54.36.246.232 1 1 31050 20201207132625
+92.255.198.132 3 3 65532 20201213040153
+209.17.97.90 1 1 30778 20201221082809
+194.110.114.54 1 1 32686 20201225021811
+170.51.244.135 4 25 1166667 20201210064757
+37.12.28.30 2 2 14282 20201208060154
+95.143.22.191 1 1 32686 20201225162043
+181.202.31.81 11 36 1164025 20201204202316
+95.127.48.23 2 21 940774 20201215181507
+192.3.204.194 2 2 830 20201211131941
+195.206.105.217 0 1 992 
+46.98.213.119 2 2 48013 20201215185440
+66.249.93.87 0 1 347263 
+5.196.23.219 1 1 32686 20201223001443
+35.233.166.1 1 1 0 20201211170901
+116.203.48.117 1 1 7141 20201227230321
+181.115.163.108 4 19 979169 20201228231056
+180.163.220.5 0 2 100645 
+95.215.206.176 1 1 7712 20201224024843
+186.64.118.210 2 2 830 20201213212638
+181.124.172.201 4 23 320403 20201214153942
+66.102.6.7 1 9 299255 20201210082951
+72.13.62.43 3 3 23952 20201221152208
+54.80.172.183 0 1 12453 
+51.159.37.145 1 1 5602 20201209130854
+178.170.146.125 2 2 7874 20201221171430
+81.16.143.187 1 1 32687 20201202192812
+206.123.139.244 1 1 32686 20201222090920
+213.239.193.124 2 10 703724 20201219112324
+72.195.34.58 6 6 131062 20201219181911
+175.44.42.12 1 2 40917 20201227061359
+188.130.191.194 1 1 7714 20201202063728
+40.77.190.72 0 1 816546 
+45.88.3.179 1 1 7077 20201225171438
+45.152.202.3 1 1 5602 20201208145755
+5.188.48.12 9 9 251000 20201229121337
+44.234.44.93 1 1 7141 20201231035506
+34.83.160.5 1 1 0 20201211115647
+174.70.241.27 3 3 65530 20201212085100
+89.46.108.210 2 2 560 20201203172539
+200.115.27.12 4 28 1403567 20201231081859
+5.188.84.95 10 10 164221 20201218092239
+185.107.80.192 2 2 32844 20201212052204
+46.243.220.226 1 1 32686 20201212211944
+178.176.79.60 2 2 32844 20201227073714
+194.116.217.6 1 1 158 20201203144455
+165.231.105.165 1 1 7078 20201211142414
+177.105.112.169 4 22 1491285 20201216161041
+79.145.60.6 5 24 322554 20201215182121
+178.214.245.131 2 2 32845 20201204022328
+54.152.71.91 1 3 15540 20201201144042
+3.88.39.44 0 3 31240 
+5.188.48.40 28 28 459816 20201230123612
+46.185.117.97 3 3 92334 20201228235735
+62.210.92.175 1 1 7078 20201211193149
+219.141.170.90 19 21 276827 20201203012354
+34.105.127.68 1 1 0 20201211223310
+5.62.58.50 2 2 7875 20201210190016
+195.176.3.19 0 1 992 
+46.118.231.209 12 12 393390 20201208081455
+185.104.187.120 2 2 32844 20201220024601
+66.102.6.9 2 13 603680 20201210082950
+109.252.110.181 4 22 1491285 20201224070133
+192.140.57.30 1 1 415 20201207223910
+40.77.188.231 3 9 550128 20201218095439
+186.64.118.115 1 1 415 20201231134239
+80.79.116.140 2 2 32844 20201230235335
+185.220.101.130 2 2 32844 20201225182245
+91.211.251.77 2 2 63467 20201224020234
+66.249.93.2 0 3 1997628 
+95.217.207.28 2 2 14156 20201211233755
+190.104.176.67 6 31 1047774 20201204174053
+5.62.56.50 2 2 7876 20201207194636
+95.216.152.179 4 4 65688 20201231200231
+51.195.103.56 0 1 326701 
+93.120.140.41 2 2 32845 20201201122544
+54.165.120.42 0 7 2542467 
+51.159.37.202 1 1 5602 20201209205516
+27.115.124.6 1 12 667121 20201230234543
+95.143.22.36 2 2 65372 20201215102949
+69.162.89.188 7 8 323536 20201221114045
+178.159.37.171 1 1 32687 20201207191547
+46.161.62.64 1 1 32686 20201219112654
+45.141.211.0 1 1 30781 20201203144452
+3.81.21.243 0 4 29264 
+148.251.54.157 1 1 32686 20201227095500
+186.11.43.57 4 22 1051514 20201211165211
+103.208.220.122 1 1 32687 20201207185554
+185.157.81.81 19 19 849338 20201221202551
+192.145.239.208 1 1 415 20201215203833
+186.64.116.35 1 1 415 20201213182925
+185.189.114.173 2 2 32845 20201207091812
+5.188.211.16 22 22 1331286 20201212014018
+46.118.229.241 6 6 196116 20201219222834
+186.169.178.128 6 27 925408 20201209205335
+54.224.70.68 0 2 14730 
+107.172.99.230 4 4 29609 20201210015857
+54.198.190.92 0 1 13163 
+5.188.48.33 30 30 492660 20201230224102
+186.3.160.6 16 53 3225554 20201217173909
+35.185.241.102 2 2 137121 20201220125442
+45.169.105.38 4 24 1199084 20201207163358
+23.81.230.70 3 3 14953 20201211111035
+3.87.161.132 0 2 9725 
+187.45.190.55 2 2 830 20201214190151
+184.178.172.13 3 3 65532 20201207041106
+178.159.37.58 3 3 65530 20201229040054
+173.173.80.143 5 25 931922 20201229203913
+180.163.220.67 0 2 34415 
+187.161.182.111 10 39 1227843 20201221111911
+190.104.131.181 4 25 769056 20201207105737
+66.249.85.79 0 6 1924835 
+159.224.255.154 2 2 14157 20201228135826
+198.144.149.253 2 2 32844 20201228032137
+45.167.18.11 4 23 752627 20201204135905
+88.16.58.154 4 28 1403566 20201230111818
+45.154.255.75 1 1 7080 20201201103640
+45.81.226.57 2 2 32845 20201204174515
+176.83.39.96 4 30 1016609 20201211163610
+77.51.151.68 2 2 32844 20201226222322
+192.71.23.211 1 1 7077 20201219185328
+78.142.239.9 2 2 65402 20201229224608
+66.249.80.234 0 1 236476 
+66.249.93.31 0 3 1997628 
+187.184.125.138 4 23 980954 20201201110154
+46.183.135.179 2 2 32845 20201204184303
+104.245.144.228 2 2 7874 20201225004845
+45.154.35.217 1 1 7080 20201203222056
+37.59.53.93 1 1 30778 20201221220135
+54.198.87.44 0 6 209672 
+54.205.96.76 0 6 33708 
+52.205.252.91 1 8 1199493 20201201143744
+190.152.187.98 4 24 788230 20201224133626
+8.210.196.189 8 42 2869157 20201207005533
+46.8.212.167 3 3 98648 20201219204013
+46.21.250.205 2 2 32844 20201212145012
+52.202.247.63 0 3 79434 
+162.243.136.63 1 1 5329 20201227090037
+198.71.239.36 0 1 1045 
+165.22.42.57 2 2 14154 20201213073115
+95.143.22.204 1 1 32686 20201218051452
+190.133.5.175 4 19 971053 20201221192120
+192.200.102.246 3 3 1245 20201213011605
+192.145.239.51 1 1 415 20201212210724
+91.108.177.173 2 2 7874 20201226115224
+190.115.4.2 4 21 1174396 20201216162520
+192.3.201.55 1 1 415 20201217145127
+51.75.146.127 1 1 32687 20201207031354
+220.181.77.162 25 157 6919339 20201227014839
+46.8.48.106 3 3 65530 20201228025107
+193.201.216.170 1 1 7712 20201226081034
+118.140.150.74 1 1 32687 20201213033416
+3.88.183.149 1 6 367812 20201201161145
+167.172.233.146 2 2 33902 20201215083837
+185.220.101.141 1 1 7077 20201213161532
+15.188.143.66 1 1 7141 20201222011816
+134.249.232.83 6 6 196119 20201209061853
+180.163.220.3 1 14 750107 20201216065126
+178.159.37.139 10 10 326863 20201229154239
+45.9.122.201 1 1 5601 20201207024957
+176.9.169.59 2 2 37922 20201204233724
+186.64.116.55 1 1 415 20201213192213
+175.44.42.59 1 1 7077 20201215214607
+47.241.65.25 2 16 104470 20201207024308
+37.115.113.0 33 33 1078638 20201227104128
+46.8.14.200 3 3 99216 20201215074258
+185.51.246.4 2 2 32844 20201215124417
+185.220.102.4 0 1 3319 
+5.44.174.37 1 1 7080 20201203162834
+37.113.178.170 3 3 65530 20201222152410
+45.147.28.117 1 1 5601 20201204180506
+170.233.117.102 6 29 1351797 20201231124612
+45.10.236.2 1 1 7080 20201203152512
+178.20.157.98 1 1 30781 20201202174443
+186.111.173.20 1 5 203787 20201231183804
+199.244.88.132 3 3 21234 20201222223822
+206.123.139.41 4 4 65688 20201220101055
+3.94.125.132 0 5 2541398 
+72.210.252.134 3 3 65530 20201217231935
+40.77.188.69 4 13 594015 20201228153931
+190.228.230.71 1 1 11150 20201229201132
+34.105.56.33 1 1 0 20201211223311
+66.128.42.71 4 24 1176605 20201202153000
+40.77.189.140 1 1 30779 20201213143541
+174.94.49.21 2 2 7874 20201223121407
+40.77.190.40 0 1 5706 
+34.229.98.96 0 4 112423 
+93.158.90.80 31 31 319020 20201215113923
+5.188.84.119 38 38 624040 20201231101442
+46.98.213.248 2 2 48016 20201206125536
+172.250.54.42 1 1 10819 20201217032443
+201.162.246.183 4 25 1179908 20201208112948
+160.153.153.29 0 1 1045 
+5.248.238.224 12 12 392232 20201228100755
+186.64.117.235 1 1 415 20201210121917
+185.117.118.252 1 1 7077 20201216160958
+181.209.99.204 0 1 880576 
+186.111.153.32 6 51 779001 20201209140330
+189.6.244.49 19 71 2052123 20201216175622
+83.55.183.97 13 72 2173869 20201227173247
+93.124.60.90 1 1 7066 20201209005921
+175.44.42.196 1 1 7080 20201203100106
+192.249.117.240 1 1 415 20201214110922
+45.137.22.78 1 1 7078 20201209224520
+40.77.188.12 0 1 365801 
+185.245.85.61 2 2 32844 20201211123125
+186.111.170.61 2 2 22300 20201231143727
+13.72.65.7 3 4 66376 20201220223351
+149.202.67.223 2 2 61558 20201215054724
+51.159.36.122 1 1 5602 20201209022309
+54.162.204.10 1 6 1392795 20201201144139
+40.87.105.177 6 8 130802 20201228025356
+95.165.111.235 1 1 30780 20201231123213
+170.84.175.49 4 22 748202 20201222215555
+156.146.63.114 2 2 32845 20201204023230
+168.119.239.118 1 1 9786 20201209093523
+178.62.82.141 5 5 42518 20201219021016
+40.77.188.232 0 1 14105 
+194.116.172.180 1 1 32687 20201203144453
+107.174.150.9 3 3 14951 20201227191157
+190.216.87.203 4 25 1045093 20201230092612
+176.8.143.226 3 3 98058 20201215191234
+149.202.87.175 3 3 65530 20201216073524
+181.42.34.111 4 24 768209 20201224215652
+64.62.243.166 1 1 30781 20201204101432
+185.181.245.139 3 3 98638 20201217224247
+46.119.89.226 3 3 98058 20201211013716
+5.188.48.5 10 10 164222 20201215025311
+186.156.192.218 4 24 840783 20201211131925
+46.8.111.131 3 3 98656 20201231111913
+37.113.47.145 2 2 61560 20201231183503
+143.137.191.207 1 1 415 20201217104839
+52.90.200.27 1 4 60322 20201201143649
+68.183.206.76 1 1 7141 20201227084302
+54.145.111.81 0 2 6662 
+34.204.104.6 12 58 3211852 20201219144728
+45.8.134.214 1 1 5602 20201208092349
+181.54.69.172 12 73 2121385 20201208151103
+104.248.162.33 1 1 7077 20201225192115
+92.58.65.1 4 27 974740 20201208072212
+186.1.138.161 1 20 821421 20201216232143
+93.124.60.115 1 1 7065 20201223153422
+107.189.11.153 0 1 992 
+152.174.74.46 2 2 22440 20201212011853
+192.186.151.3 1 1 5601 20201205205542
+5.44.168.47 1 1 1399 20201231085651
+113.35.251.98 1 1 7077 20201221154017
+72.195.34.41 3 3 65530 20201224141744
+66.249.93.4 0 1 236476 
+191.95.57.109 1 6 208243 20201205185738
+52.91.210.230 0 2 7170 
+95.143.21.183 1 1 32686 20201217110908
+181.124.168.52 4 28 898051 20201221191312
+176.192.180.115 1 1 32687 20201202095000
+186.143.197.254 4 24 753474 20201223111004
+181.115.134.245 4 24 768209 20201207015104
+204.44.112.29 2 2 32844 20201226175954
+123.245.27.150 1 1 7077 20201220105132
+181.115.142.48 4 24 768209 20201231154303
+128.0.143.49 3 3 63623 20201215140509
+181.124.161.71 4 22 763053 20201211100756
+85.10.56.138 2 2 32844 20201210035444
+18.234.91.164 0 7 196030 
+3.140.198.14 4 16 614425 20201231085124
+192.3.202.210 1 1 415 20201209235902
+181.9.182.182 4 24 768209 20201229123758
+66.249.80.225 0 1 188261 
+46.185.119.20 9 9 277029 20201201191722
+45.152.202.141 1 1 5601 20201202084009
+34.195.131.215 6 29 1605927 20201212135934
+181.115.141.126 4 25 792349 20201213035151
+5.188.48.16 19 19 572237 20201222042540
+95.142.112.19 2 2 7875 20201210195641
+54.37.19.84 2 2 32844 20201211141929
+23.94.175.60 2 2 7876 20201204085149
+51.68.143.212 0 1 326701 
+34.228.218.213 0 4 459091 
+51.159.36.139 4 4 22408 20201209162209
+31.171.152.100 3 3 63623 20201210135005
+46.119.92.13 3 3 98061 20201203045320
+192.64.116.62 1 1 415 20201201110813
+188.114.111.61 1 1 12369 20201227180400
+81.0.26.49 32 90 5462141 20201208093825
+81.177.27.87 5 5 158389 20201227090536
+192.64.118.109 1 1 415 20201208054724
+91.121.79.16 1 1 31050 20201214050142
+193.169.253.122 4 5 68203 20201216161311
+185.206.225.27 3 3 63623 20201209114730
+188.122.82.146 2 2 32845 20201207005134
+35.233.254.218 2 2 0 20201212034140
+181.94.60.72 4 25 1080175 20201207080146
+5.253.204.27 2 2 32844 20201219062125
+188.114.111.171 1 1 12371 20201208152929
+181.9.186.205 1 1 11150 20201227125446
+192.36.52.37 1 1 7078 20201208164349
+185.220.101.200 0 1 215878 
+200.2.125.196 4 23 612710 20201208173555
+47.60.50.167 5 43 1050213 20201225162854
+27.115.124.70 2 8 240809 20201230234543
+185.220.101.4 0 1 992 
+62.210.80.34 3 3 65530 20201217205805
+81.0.39.176 4 26 994955 20201229173133
+201.214.146.77 5 24 856074 20201209022544
+176.9.8.180 1 1 7077 20201223095031
+45.178.2.50 4 24 782826 20201208115553
+194.127.179.243 3 3 190467 20201230205250
+188.165.211.23 1 1 7141 20201215200619
+3.237.188.37 2 10 702176 20201226222657
+91.142.223.73 1 1 0 20201222163748
+194.87.237.198 1 1 7080 20201204190755
+35.171.184.121 1 2 121878 20201201143723
+77.247.127.75 3 3 190465 20201224133804
+51.15.174.151 2 2 1505 20201209050601
+93.157.18.89 3 3 65530 20201210170209
+51.83.216.204 1 1 31050 20201204223515
+34.205.142.126 0 6 356496 
+192.241.132.143 1 1 415 20201213154254
+109.70.100.47 0 1 718 
+51.77.246.68 4 20 1483866 20201207115602
+40.77.188.193 0 1 365801 
+52.23.205.2 1 5 223124 20201201143807
+190.180.89.24 8 28 2175953 20201210015235
+46.118.239.191 2 2 14131 20201214104154
+27.115.124.101 1 8 590799 20201230234543
+168.194.140.251 4 25 704200 20201216201006
+185.255.96.99 2 2 32844 20201231012001
+167.114.175.39 6 6 49605 20201206173310
+44.234.63.237 1 1 7077 20201225153857
+188.72.116.142 1 1 7077 20201225042615
+198.46.201.234 3 3 14951 20201218212509
+195.211.239.254 4 4 130746 20201224065101
+86.102.5.19 2 2 32847 20201212212326
+181.124.183.216 4 24 642773 20201230192111
+45.64.134.198 3 3 98060 20201222224336
+81.22.44.7 3 3 98717 20201227090533
+34.205.36.131 6 29 1605926 20201226144739
+85.48.249.177 12 42 1232144 20201216191015
+66.102.6.11 1 7 225694 20201210082950
+66.249.85.77 0 4 1346672 
+196.247.18.113 2 2 7874 20201224164807
+185.93.3.105 3 3 63622 20201218133035
+51.222.43.147 12 12 496353 20201207115456
+188.163.109.142 6 6 98533 20201222072220
+138.128.40.180 1 1 5601 20201203160842
+193.8.94.101 1 1 5602 20201208115042
+124.65.117.38 2 2 65404 20201212233926
+79.137.254.51 1 1 7077 20201223195152
+74.125.210.47 0 2 1761152 
+185.244.217.104 3 3 40556 20201224052952
+209.141.59.157 2 2 32844 20201214014922
+181.124.185.59 8 31 1015470 20201218132107
+51.159.37.34 1 1 5602 20201209023700
+196.244.192.57 2 2 32844 20201225052824
+74.84.150.210 1 1 32686 20201218230803
+170.51.61.60 4 25 769056 20201213160543
+129.146.122.232 4 5 68203 20201210214637
+54.81.169.19 0 2 25102 
+92.38.136.69 8 8 131376 20201231012835
+181.84.205.166 4 25 988662 20201226161955
+77.35.62.96 3 3 63623 20201209144304
+91.243.188.131 4 4 100506 20201227090542
+31.173.83.237 3 3 65530 20201226145502
+216.145.17.190 1 1 7077 20201223044853
+188.166.112.173 1 1 5400 20201227090035
+109.205.141.73 5 26 1100053 20201221180538
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20201201 111 453 19271485 31
+20201202 22 46 3056258 12
+20201203 53 55 964248 19
+20201204 80 168 6013543 30
+20201205 69 269 10014891 10
+20201206 38 72 1406617 15
+20201207 90 269 14061857 29
+20201208 93 260 9702625 29
+20201209 71 211 6359802 30
+20201210 61 153 6075522 23
+20201211 68 170 5507726 29
+20201212 71 125 4753512 22
+20201213 56 118 3276573 28
+20201214 22 42 1574323 12
+20201215 104 165 4338807 30
+20201216 119 397 16035351 26
+20201217 92 152 7292693 26
+20201218 50 99 4229868 19
+20201219 60 91 3670609 23
+20201220 27 29 793098 13
+20201221 121 280 12439548 34
+20201222 263 281 1568682 22
+20201223 52 94 2545232 20
+20201224 56 116 4262003 23
+20201225 46 117 4921872 20
+20201226 37 91 3820482 14
+20201227 90 208 6689626 37
+20201228 56 133 7845648 23
+20201229 47 140 4878720 19
+20201230 49 139 6153866 20
+20201231 45 131 5042312 21
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 9
+5mn-15mn 10
+15mn-30mn 10
+2mn-5mn 8
+30s-2mn 18
+0s-30s 642
+30mn-1h 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 220
+/pagina-inicial/contacto/ 675 21313293 356 196
+/ 312 2853897 130 92
+/wp-json/contact-form-7/v1/contact-forms/7349/feedback 230 36268 1 196
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff 178 1218720 0 33
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2 99 7925340 3 12
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2 99 1347420 4 50
+/pagina-inicial/ahoyadoras/ 51 1441206 24 9
+/xmlrpc.php 27 11205 27 27
+/pagina-inicial/implementos-para-motossierras/taladro/ 27 376007 20 2
+/hello-world/ 23 128841 22 22
+/search/www.yumiaokc.cn 1 0 0 0
+/search/www.yumiaofb.cn 1 0 0 0
+/search/www.yumiaohc.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-23/ 3 88704 1 0
+/search/www.guizhouymcc.cn 1 0 0 0
+/search/www.hebeiymce.cn 1 0 0 0
+/pagina-inicial/implementos-para-motossierras/ 21 353615 3 5
+/wp-admin/install.php 1 1399 1 1
+/search/www.yumiaoac.cn 1 0 0 0
+/search/www.guizhouymcg.cn 1 0 0 1
+/search/www.yumiaolb.cn 1 0 0 0
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot 2 25642 0 0
+/search/www.shandongymch.cn 1 0 0 0
+/search/www.yumiaoyc.cn 1 0 0 0
+/search/www.shandongymcc.cn 1 0 0 0
+/search/www.yumiaooc.cn 1 0 0 0
+/search/www.yumiaoqb.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/excavadora/ 4 136083 2 0
+/search/www.yntxgjly.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/ahoyadora-hidraulica-hb-16/ 18 363590 11 3
+/search/www.guangxiymci.cn 1 0 0 0
+/search/www.yumiaoad.cn 1 0 0 0
+/search/www.yidianxueche.cn 1 0 0 0
+/search/www.yumiaobd.cn 1 0 0 0
+/search/www.shanxiymcb.cn 1 0 0 0
+/search/www.yumiaoda.cn 1 0 0 0
+/search/www.zhenhai2.cn 1 0 0 1
+//wp-json/wp/v2/users/ 1 3123 1 1
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-ht-15/ 13 188041 7 1
+/search/www.yumiaopc.cn 1 0 0 0
+/pagina-inicial/implementos-para-motossierras/perfurador-de-suelo-ps-10/ 3 102895 1 0
+/search/www.yumiaoza.cn 1 0 0 0
+/pagina-inicial/mechas/mecha-con-garra/ 4 129484 1 1
+/search/www.liaoningymcb.cn 1 0 0 0
+/search/www.yumiaoma.cn 1 0 0 0
+/search/www.anhuiymcg.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-17/ 12 288845 7 0
+/search/www.anhuiymce.cn 1 0 0 0
+/search/www.yumiaovc.cn 1 0 0 0
+/search/www.yumiaoqc.cn 1 0 0 0
+/search/www.guangxiymcc.cn 1 0 1 1
+/pagina-inicial/mechas/mecha-con-navaja-simple/ 5 174036 2 1
+/search/www.yumiaopa.cn 1 0 0 0
+/wp-admin/load-scripts.php 8 523624 0 0
+/search/www.fujianymcb.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/ahoyadora-hidraulica-hb-19/ 5 164090 2 0
+/search/www.sichuanymcc.cn 1 0 0 0
+/search/www.yumiaorb.cn 1 0 0 0
+/wp-login.php 2 3546 2 0
+/search/www.hebeiymca.cn 1 0 0 0
+/search/www.shanxiymcd.cn 1 0 0 0
+/search/www.yumiaorc.cn 1 0 0 0
+/search/www.boyue56.cn 1 0 0 0
+/search/www.scckym.cn 1 0 0 1
+/search/www.hebeiymcc.cn 1 0 0 0
+/search/www.hubeiymcb.cn 1 0 0 0
+/search/www.yumiaoab.cn 1 0 0 0
+/search/www.anhuiymcc.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-pr-134/ 2 70054 0 0
+/search/www.yumiaora.cn 1 0 0 0
+/search/www.qgxwdx.cn 1 0 0 0
+/wp-admin/admin-ajax.php 22 2946 0 1
+/search/www.yumiaofa.cn 1 0 0 0
+/pagina-inicial/implementos-para-motossierras/bomba-de-agua/ 12 186952 7 0
+/search/www.jiangsuymcg.cn 1 0 0 0
+/tmp/ 2 352494 0 2
+/search/www.sichuanymca.cn 1 0 0 0
+/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/icomoon.woff 11 121790 2 3
+/search/www.anhuiymch.cn 1 0 0 0
+/search/www.yumiaoja.cn 1 0 0 0
+/search/www.liaoningymcf.cn 1 0 0 0
+/search/www.shandongymci.cn 1 0 0 0
+/wp-admin/images/wordpress-logo.svg 3 3157 1 1
+/wp-json/oembed/1.0/embed 7 12385 0 3
+/search/www.fdxbl.cn 1 0 1 0
+/search/www.yumiaota.cn 1 0 0 0
+/search/www.yumiaojc.cn 1 0 0 0
+/search/www.yumiaosc.cn 1 0 0 0
+/wp-json/yoast/v1/statistics 3 888 0 0
+/search/www.guangxiymcb.cn 2 0 1 0
+/pagina-inicial/implementos-para-motossierras/saca-tabla/ 5 81821 3 0
+/pagina-inicial/implementos-para-motossierras/fuera-de-borda-para-motossierra/ 7 140382 5 0
+/search/www.lyjzfw.cn 2 0 0 0
+/search/www.anhuiymca.cn 1 0 0 0
+/search/www.longdugame.cn 1 0 0 0
+/search/www.lfysjy.cn 1 0 0 0
+/pagina-inicial/implementos-para-motossierras/desmalezadora/ 12 216657 8 4
+/search/www.hubeiymcf.cn 1 0 0 0
+/search/www.yumiaoca.cn 1 0 0 0
+/search/www.hubeiymch.cn 1 0 0 0
+/search/www.yumiaofc.cn 1 0 0 0
+/search/www.tzyzp.cn 1 0 0 0
+/search/www.yumiaogc.cn 1 0 0 0
+/wp-json/wp/v2/users/ 6 16625 1 3
+/search/www.ytgso.cn 2 0 1 0
+/search/www.guizhouymca.cn 1 0 0 0
+/search/www.liaoningymcg.cn 1 0 0 0
+/search/www.zhejiangymca.cn 1 0 0 0
+/search/www.qianshuos.cn 1 0 0 1
+/search/www.yumiaojb.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-p-314/ 3 78648 0 0
+/search/www.fujianymcc.cn 1 0 0 0
+/search/www.shandongymcf.cn 1 0 0 0
+/search/www.hubeiymcd.cn 1 0 0 0
+/wp-admin/load-styles.php 6 450370 0 0
+/wp-admin/admin-post.php 1 0 1 1
+/search/www.guangdongymck.cn 1 0 0 0
+/search/www.yumiaoic.cn 1 0 0 0
+/search/www.yumiaowa.cn 1 0 0 0
+/search/www.yumiaocb.cn 1 0 0 0
+/feed/ 4 4859 2 1
+/search/www.yumiaodc.cn 1 0 0 0
+/search/www.yumiaoub.cn 1 0 0 0
+/search/www.guangdongymce.cn 1 0 0 0
+/feed/atom/ 1 716 0 1
+/wp-admin/ 5 180434 1 0
+/search/www.sichuanymce.cn 1 0 0 0
+/search/www.chicfund.cn 1 0 1 0
+/pagina-inicial/implementos-para-motossierras/perfurador-de-suelo-ps-05/ 6 94092 0 0
+/search/www.yumiaooa.cn 1 0 0 0
+/search/www.jiangsuymce.cn 1 0 0 0
+/comments/feed/ 2 1654 0 0
+/search/www.yumiaohb.cn 1 0 0 0
+/pagina-inicial/implementos-para-motossierras/fumigador/ 5 113506 2 0
+/search/www.yunnanymcc.cn 1 0 0 0
+/wp-json/contact-form-7/v1/contact-forms/7371/feedback 1 155 0 1
+/search/www.yumiaouc.cn 1 0 0 0
+/wp-json/ 2 132252 0 0
+/wp-json/wp/v2/ 6 263834 2 2
+/search/www.anhuiymcf.cn 1 0 0 0
+/search/www.shandongymcb.cn 1 0 0 0
+/search/www.shandongymcd.cn 1 0 0 0
+/search/www.yumiaoec.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/perfurador-de-suelo-ps-06/ 5 48862 3 0
+/wp-admin/widgets.php 1 85909 0 0
+/search/www.yumiaozc.cn 1 0 0 0
+/author/guilhermefs/ 12 183150 4 5
+/search/www.yinlingjiaoyu.cn 1 0 0 0
+/author/marketing/ 1 5329 1 1
+/search/www.shanxiymcf.cn 1 0 1 0
+/wp-content/plugins/wordpress-seo/images/Yoast_SEO_Icon.svg 3 2159 1 1
+/search/www.yumiaonb.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/retroexcavadora/ 13 242320 6 2
+/search/www.ytw360.cn 1 0 0 1
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2 2 154833 1 2
+/search/www.tyfxgm.cn 1 0 0 0
+/search/www.yumiaotb.cn 1 0 0 0
+/search/www.guizhouymcb.cn 1 0 0 0
+/wp-config.php 2 92 1 1
+/search/www.yumiaova.cn 1 0 0 0
+/search/www.sichuanymcg.cn 1 0 0 0
+/pagina-inicial/mechas/mecha-navaja-con-surcador/ 4 131799 1 1
+/search/www.yumiaowc.cn 1 0 0 0
+/search/www.yumiaoeb.cn 1 0 0 0
+/search/www.shanghaiymca.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/grua/ 2 69596 0 0
+/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur 5 590 0 4
+/search/www.jiangsuymcc.cn 1 0 0 0
+/search/www.cnfghb.cn 1 0 0 0
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot 2 33622 0 0
+/search/www.yumiaoya.cn 1 0 0 0
+/pagina-inicial/mechas/barrena-concha/ 5 153721 3 1
+/pagina-inicial/ahoyadoras/minicargadora/ 2 120978 1 0
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-hb-35/ 4 150818 1 0
+/search/www.yumiaomc.cn 1 0 0 0
+/search/www.shandongymce.cn 1 0 0 0
+/search/www.heyuana.cn 1 0 0 0
+/search/www.yumiaotc.cn 1 0 0 0
+/search/www.beijingymca.cn 1 0 0 0
+/search/www.zghchb.cn 1 0 1 0
+/search/www.xiaohumajiang.cn 1 0 1 0
+/search/www.liaoningymcd.cn 1 0 0 0
+/search/www.vxiake.cn 1 0 0 0
+/search/www.furniturebbs.cn 1 0 0 0
+/search/www.jiangsuymca.cn 1 0 0 0
+/search/www.yumiaoxa.cn 1 0 0 0
+/search/www.zhejiangymce.cn 1 0 0 0
+/search/www.hebeiymcg.cn 1 0 0 0
+/search/www.easterntree.cn 1 0 0 0
+/search/www.shenzhengc.cn 1 0 0 0
+/search/www.yumiaolc.cn 1 0 0 0
+/search/www.yihe888.cn 1 0 0 0
+/search/www.yumiaocd.cn 1 0 0 0
+/search/www.nemvc.cn 2 0 0 0
+/search/www.yumiaoha.cn 1 0 0 0
+/search/www.dongguand.cn 1 0 0 0
+/pagina-inicial/ahoyadoras/miniexcavadora/ 3 137454 0 0
+/search/www.shandongymca.cn 1 0 0 0
+/search/www.yunnanymch.cn 1 0 0 0
+/search/www.zhejiangymcc.cn 1 0 0 0
+/pagina-inicial/implementos-para-motossierras/cortador-abrasivo/ 2 93516 1 0
+/search/www.yumiaoxc.cn 1 0 0 0
+/wp-content/plugins/wp-fastest-cache/images/icon.svg 3 44017 1 1
+/wp-content/themes/twentyseventeen/404.php 2 560 1 1
+/search/www.gzcq1688.cn 1 0 0 0
+/wp-admin/edit-comments.php 3 67208 0 0
+/search/www.yimeishow.cn 1 0 0 0
+/search/www.fujianymce.cn 1 0 0 0
+/search/www.yumiaonc.cn 1 0 0 0
+/search/www.sw-jewelry.cn 1 0 1 0
+/pagina-inicial/ahoyadoras/perfuratriz-hidraulica-ht-60/ 14 248772 8 1
+/search/www.guangdongymci.cn 1 0 0 0
+/search/www.guizhouymcd.cn 1 0 0 0
+/search/www.sichuanymci.cn 1 0 0 0
+/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot 2 210510 0 2
+/pagina-inicial/sobre/ 18 375980 3 5
+/search/www.guangxiymce.cn 1 0 0 0
+/search/www.yumiaoxb.cn 1 0 0 0
+/search/www.guangdongymcg.cn 1 0 0 0
+/search/www.pjyfsm.cn 1 0 0 0
+END_SIDER
