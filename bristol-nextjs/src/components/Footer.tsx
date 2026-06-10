@@ -30,9 +30,10 @@ export default function Footer() {
             </h3>
             <ul className="space-y-2 text-sm">
               {[
-                { href: '/', label: 'Inicio' },
-                { href: '/productos', label: 'Productos' },
-                { href: '/blog', label: 'Blog' },
+                { href: '/', label: 'Página Inicial' },
+                { href: '/sobre', label: 'Sobre' },
+                { href: '/ahoyadoras', label: 'Ahoyadoras Hidráulicas' },
+                { href: '/complementos-para-motosierras', label: 'Complementos para Motosierras' },
                 { href: '/contacto', label: 'Contacto' },
               ].map(({ href, label }) => (
                 <li key={href}>
@@ -52,8 +53,8 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <PhoneIcon />
-                <a href="tel:+549294423-9001" className="hover:text-brand-orange transition-colors">
-                  +54 9 294 423-9001
+                <a href="tel:+549294466-9553" className="hover:text-brand-orange transition-colors">
+                  +54 9 294 466-9553
                 </a>
               </li>
               <li className="flex items-start gap-2">

@@ -21,7 +21,7 @@ const heroSlides: WPSlide[] = [
     subtitle: 'Soluciones de perforación para la industria argentina',
     imageUrl: '/hero-1.jpg',
     buttonText: 'Ver productos',
-    buttonUrl: '/productos',
+    buttonUrl: '/ahoyadoras',
   },
   {
     id: '2',
@@ -91,7 +91,7 @@ export default async function HomePage() {
             Amplio catálogo de equipos disponibles para despacho inmediato.
           </p>
           <Link
-            href="/productos"
+            href="/ahoyadoras"
             className="inline-block bg-white text-brand-orange font-semibold px-8 py-4 rounded hover:bg-orange-50 transition-colors text-lg"
           >
             Ver catálogo de productos
@@ -127,7 +127,7 @@ export default async function HomePage() {
               <p className="text-gray-400">Estamos para ayudarte. Escribinos o llamanos.</p>
             </div>
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="tel:+549294423-9001" className="btn-primary whitespace-nowrap">
+              <a href="tel:+549294466-9553" className="btn-primary whitespace-nowrap">
                 Llamar ahora
               </a>
               <Link href="/contacto" className="btn-outline border-white text-white hover:bg-white hover:text-brand-dark whitespace-nowrap">

@@ -119,8 +119,9 @@ export async function getNavMenu(menuId = 2): Promise<NavItem[]> {
 }
 
 const defaultMenu: NavItem[] = [
-  { id: 1, title: 'Inicio', url: '/', slug: 'home', children: [] },
-  { id: 2, title: 'Productos', url: '/productos', slug: 'productos', children: [] },
-  { id: 3, title: 'Blog', url: '/blog', slug: 'blog', children: [] },
-  { id: 4, title: 'Contacto', url: '/contacto', slug: 'contacto', children: [] },
+  { id: 1, title: 'Página Inicial', url: '/', slug: 'home', children: [] },
+  { id: 2, title: 'Sobre', url: '/sobre', slug: 'sobre', children: [] },
+  { id: 3, title: 'Ahoyadoras Hidráulicas', url: '/ahoyadoras', slug: 'ahoyadoras', children: [] },
+  { id: 4, title: 'Complementos para Motosierras', url: '/complementos-para-motosierras', slug: 'complementos-para-motosierras', children: [] },
+  { id: 5, title: 'Contacto', url: '/contacto', slug: 'contacto', children: [] },
 ];

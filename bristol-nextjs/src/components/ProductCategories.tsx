@@ -13,19 +13,19 @@ const categories: Category[] = [
     title: 'Implementos para Motosierra',
     description: 'Equipos que aprovechan la fuerza de su motosierra',
     href: '/implementos-para-motossierras',
-    imageUrl: 'https://bristolbr.com.ar/wp-content/uploads/2023/07/ps10-hu.png',
+    imageUrl: '/uploads/2023/07/ps10-hu.png',
   },
   {
     title: 'Perforadoras Hidráulicas',
     description: 'Soluciones para perforación en todo tipo de terreno',
     href: '/ahoyadoras',
-    imageUrl: 'https://bristolbr.com.ar/wp-content/uploads/2023/07/Perfuratriz-Hidraulica-HB-55.png',
+    imageUrl: '/uploads/2023/07/Perfuratriz-Hidraulica-HB-55.png',
   },
   {
     title: 'Equipos Náuticos',
     description: 'Fuera de borda y bombas de agua Bristol',
     href: '/fuera-de-borda',
-    imageUrl: 'https://bristolbr.com.ar/wp-content/uploads/2018/05/HB-16-ahoyadora.png',
+    imageUrl: '/uploads/2016/11/rabeta-motor-vertical.png',
   },
 ];
 
@@ -55,7 +55,6 @@ export default function ProductCategories() {
                   fill
                   className="object-contain p-6 group-hover:scale-105 transition-transform duration-300"
                   sizes="(max-width: 768px) 100vw, 33vw"
-                  unoptimized={cat.imageUrl.startsWith('https://bristolbr')}
                 />
               </div>
               <div className="p-6 flex flex-col items-center flex-1">

@@ -29,19 +29,51 @@ export default function Header({ menu }: HeaderProps) {
           </Link>
 
           {/* Desktop nav */}
-          <nav className="hidden md:flex items-center gap-8">
+          <nav className="hidden md:flex items-center gap-6">
             {menu.map((item) => (
               <NavLink key={item.id} item={item} />
             ))}
+            <div className="flex items-center gap-2 border-l border-gray-200 pl-4">
+              <a
+                href="https://bristolbr.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="English site"
+                className="hover:opacity-75 transition-opacity"
+              >
+                <img
+                  src="/uploads/2018/05/US.png"
+                  alt="English"
+                  width={28}
+                  height={20}
+                  className="rounded-sm"
+                />
+              </a>
+              <a
+                href="https://bristol.ind.br"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Site em português"
+                className="hover:opacity-75 transition-opacity"
+              >
+                <img
+                  src="/uploads/2018/05/brazil.png"
+                  alt="Português"
+                  width={28}
+                  height={20}
+                  className="rounded-sm"
+                />
+              </a>
+            </div>
           </nav>
 
           {/* CTA */}
           <a
-            href="tel:+549294423-9001"
+            href="tel:+549294466-9553"
             className="hidden lg:flex items-center gap-2 text-brand-orange font-semibold hover:text-brand-orange-dark transition-colors"
           >
             <PhoneIcon />
-            +54 9 294 423-9001
+            +54 9 294 466-9553
           </a>
 
           {/* Burger */}
@@ -69,11 +101,19 @@ export default function Header({ menu }: HeaderProps) {
             </Link>
           ))}
           <a
-            href="tel:+549294423-9001"
+            href="tel:+549294466-9553"
             className="block text-brand-orange font-semibold pt-2"
           >
-            +54 9 294 423-9001
+            +54 9 294 466-9553
           </a>
+          <div className="flex items-center gap-3 pt-2">
+            <a href="https://bristolbr.com" target="_blank" rel="noopener noreferrer" title="English site">
+              <img src="/uploads/2018/05/US.png" alt="English" width={28} height={20} className="rounded-sm" />
+            </a>
+            <a href="https://bristol.ind.br" target="_blank" rel="noopener noreferrer" title="Site em português">
+              <img src="/uploads/2018/05/brazil.png" alt="Português" width={28} height={20} className="rounded-sm" />
+            </a>
+          </div>
         </div>
       )}
     </header>
