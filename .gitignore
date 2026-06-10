@@ -1,3 +1,10 @@
-*.tar
-*.tar.gz
-*.sql
+# .gitignore
+.gitignore
+.git/
+
+# Backups
+backup/
+bristol.ind.br/
+
+# SQL
+.sql
