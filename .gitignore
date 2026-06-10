@@ -5,6 +5,7 @@
 # Backups
 backup/
 bristol.ind.br/
+*.tar
 
 # SQL
-.sql
+*.sql
