@@ -33,10 +33,10 @@ export default function ContactoPage() {
                 label="Teléfono"
                 content={
                   <a
-                    href="tel:+549294423-9001"
+                    href="tel:+549294466-9553"
                     className="hover:text-brand-orange transition-colors"
                   >
-                    +54 9 294 423-9001
+                    +54 9 294 466-9553
                   </a>
                 }
               />
@@ -68,7 +68,7 @@ export default function ContactoPage() {
             <div className="mt-10 rounded-xl overflow-hidden h-56 bg-brand-gray">
               <iframe
                 title="Ubicación Bristol"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3463!2d-52.0!3d-30.0!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDAwJzAwLjAiUyA1MsKwMDAnMDAuMCJX!5e0!3m2!1ses!2sar!4v1"
+                src="https://maps.google.com/maps?q=Bristol+Implementos+Rod+RS+401+S%C3%A3o+Jer%C3%B4nimo+RS&output=embed&z=14"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
